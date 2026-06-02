@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>日本 重工・防衛・エネルギー関連企業ニュースモニター</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <h1>日本 重工・防衛・エネルギー関連企業ニュースモニター</h1>
+    <div class="header-status">
+      <span class="last-updated" id="lastUpdated">最終取得: 読み込み中...</span>
+      <span class="last-updated" id="itemCount">記事: -</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="control-bar" aria-label="表示条件">
+      <div class="control-group">
+        <label>📅 期間:</label>
+        <div class="period-btns">
+          <button class="period-btn" data-period="3days">直近3日</button>
+          <button class="period-btn active" data-period="1week">直近1週間</button>
+          <button class="period-btn" data-period="1month">直近1ヶ月</button>
+          <button class="period-btn" data-period="all">全期間</button>
+        </div>
+      </div>
+
+      <div class="control-group filter-wrap">
+        <label>🔍 カテゴリ:</label>
+        <button class="filter-btn active" data-filter="all">全て</button>
+        <button class="filter-btn" data-filter="news">ニュース</button>
+        <button class="filter-btn" data-filter="press">PR</button>
+        <button class="filter-btn" data-filter="ir">IR</button>
+        <button class="filter-btn" data-filter="jobs">採用</button>
+        <button class="filter-btn" data-filter="stocks">株価</button>
+        <button class="filter-btn" data-filter="energy">エネルギー</button>
+        <button class="filter-btn" data-filter="intl">中東・国際</button>
+        <button class="filter-btn" data-filter="report">レポート</button>
+      </div>
+
+      <button class="refresh-btn" id="refreshBtn" type="button">
+        <span id="refreshIcon">🔄</span> 表示を再読み込み
+      </button>
+    </section>
+
+    <section class="section">
+      <div class="section-title">📌 公開情報モニターについて</div>
+      <div class="summary-box" id="overallSummary">
+        <p><strong>このページは公開情報のみを扱うニュースモニターです。</strong></p>
+        <p>GitHub Actions が1時間ごとにRSSフィードを取得し、<code>data/news.json</code> に保存します。この画面はそのJSONを読み込んで表示します。個人的な情報、非公開情報、個人メモは含めていません。</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-title">🏢 主要企業・関連テーマ</div>
+      <div class="company-grid" id="companyGrid"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-title">🔥 最新トピック</div>
+      <div class="topic-list" id="topicList">
+        <div class="loading-card">ニュースを読み込み中...</div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-title">🔗 監視RSSフィード</div>
+      <div class="source-list" id="feedList"></div>
+    </section>
+
+    <section class="section">
+      <div class="section-title">🧭 公開版で扱う範囲</div>
+      <div class="outlook-grid" id="outlookGrid"></div>
+    </section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>
