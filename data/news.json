@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:19:39+00:00",
+  "generated_at": "2026-06-17T00:04:06+00:00",
   "item_count": 180,
   "feeds": [
     {
@@ -47,6 +47,42 @@
   ],
   "items": [
     {
+      "id": "18a575d77599aafb",
+      "title": "日揮グローバル、カナダのＬＮＧ拡張計画で先行役務受注「本契約への一歩」 - カナロコ",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yenhQWTlsbW9vd1dOUHhwYnFkLW5MSjRLQlk2RGpaT3VRYUZDZDhFaHZZQWloY0xQYjl4M05lMldsWEdFeGNTWk5IVnF2LUdnSGtrd2xyUTIzTjl2WFp6VkNPX19MRi1p?oc=5",
+      "summary": "日揮グローバル、カナダのＬＮＧ拡張計画で先行役務受注「本契約への一歩」 カナロコ",
+      "source": "カナロコ",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-06-16T20:30:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "53c18a58df602db0",
+      "title": "重厚長大の三菱重工、急ぐドローン開発 ウクライナが変えた防衛装備 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aEZJTG1aLVlyX2NTQ0hPMVlIelViejBRR0JCbzFpeTNaR0pVay1DQTRMajduTUVUdFd2OUpRb2o2N3ZDV1NVX1N2bGgzc3RfVXMzTmdaT05zT0cxc2xxTzMzOFBBRlZwaVM1Ug?oc=5",
+      "summary": "重厚長大の三菱重工、急ぐドローン開発 ウクライナが変えた防衛装備 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-06-16T20:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "401108e60c56ad94",
+      "title": "丸紅が天然ガス開発の米社買収 数百億円で、AI電力需要向け取り込み - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Y0hYSlRzNzJ5SkdQazZ6Zmp4RkxHZndsS1hWUnpDMzQwNllRNnk3ckFydWs1ZVh5WHU3UUdYb1pjQURCRi1NWXVaUE5peUhSOWxEei1RZGNHN2dodTFNQTR5ZjlBZlE5eEtsWA?oc=5",
+      "summary": "丸紅が天然ガス開発の米社買収 数百億円で、AI電力需要向け取り込み 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-06-16T08:15:11+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
       "id": "66351696c6a80227",
       "title": "ＩＮＰＥＸ、豪ＬＮＧ施設で一部生産設備を停止 ストで＝関係筋（ロイター） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wVFpJell2ZExqNnNUbExLc29iQ1hNMHM5bFljNUFtQ2tvRVlXN1dmbktyekh2MXFKTy15eFVZY0FqMnNHNzVvOTVZUDVtUGpEVVdXT0RrVUJuNkFzb09xRXprYkFZNG01VXh3Sk9tRTU4QThwdE5nLW9mT3hKMGs?oc=5",
@@ -56,7 +92,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-16T06:48:25+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "65c1d37d390dfc49",
@@ -68,7 +104,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-16T06:48:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "c84319b4a9b23875",
@@ -80,7 +116,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-15T22:00:01+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "885cab489590cf23",
@@ -92,7 +128,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-15T08:29:12+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "f6237f124eda3bf3",
@@ -104,7 +140,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-15T06:55:33+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "9edc726bb64fc3d1",
@@ -116,7 +152,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-15T06:55:33+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "9481c609e3bea6a6",
@@ -128,7 +164,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-15T06:55:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "ed2639b8d32982bb",
@@ -140,7 +176,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-15T05:09:06+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "9eb1ea1edac2f108",
@@ -152,7 +188,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-15T05:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "42916917ddb0c021",
@@ -164,7 +200,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-15T02:38:25+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "3481bd0cd06ea086",
@@ -176,19 +212,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-15T00:50:06+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "9f6e32bf4f4f23f7",
-      "title": "旬景 豪産ＬＮＧ、富津へ入港／バロッサからＪＥＲＡ向け – - 電気新聞ウェブサイト",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15VFgwSmw2ZTBfVGgwUVVZZnltM1hkMzd3bkc4WW9mX3J4a25MUmNMdE9oUnRrUEhsVXFnbFhwZFVFNzJnRzBMbWpfbWNDX05kd1o5Qk81TQ?oc=5",
-      "summary": "旬景 豪産ＬＮＧ、富津へ入港／バロッサからＪＥＲＡ向け – 電気新聞ウェブサイト",
-      "source": "電気新聞ウェブサイト",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-06-14T21:02:07+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "bc413a47ea6860f0",
@@ -200,7 +224,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-14T12:17:10+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "4a5ef517ac30ead9",
@@ -212,7 +236,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-14T06:26:43+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "b28a91f6ebbfbc04",
@@ -224,7 +248,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-14T06:26:32+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "b6072f4d4dba239d",
@@ -236,7 +260,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-14T03:29:03+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "510d135e6783dcd0",
@@ -248,19 +272,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-13T20:55:11+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
-      "id": "8bcdbfc5964b11ce",
-      "title": "三菱重工とPFN、社会インフラおよび防衛向け国産AIの共同開発で業務提携 - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9leDZodFN2U3ktQjc5djVOeTZNOE9kSml6OGw5RVJoOW56RWFXVjRlbzVXYnJxS2hHd2NRRVhrV2o4b1dYNlpBanl2cGdGRGc?oc=5",
-      "summary": "三菱重工とPFN、社会インフラおよび防衛向け国産AIの共同開発で業務提携 ビジネス+IT",
-      "source": "ビジネス+IT",
+      "id": "19c36db2134dea0d",
+      "title": "三菱重工とPFN、社会インフラおよび防衛向け国産AIの共同開発で業務提携（ビジネス＋IT） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxZ3BFczJ2S3lvT25xV1hoaE5teFdRWWU5XzBiMVpYUHJJSkF0bWJ6Q1NBNGxYY2ZCa3pZd0dtS2JFY1RZZWxVVDZYallRcm43aUFfdER3UlE3MWNYX3BUOWplZ2tlZko1TjcwUFYzUVJBMTlfS3dLellxdmF6X1U?oc=5",
+      "summary": "三菱重工とPFN、社会インフラおよび防衛向け国産AIの共同開発で業務提携（ビジネス＋IT） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
-      "published_at": "2026-06-12T13:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "published_at": "2026-06-12T14:00:07+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "196359c3079b64ef",
@@ -272,7 +296,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T09:19:15+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "94ae678851c83729",
@@ -284,7 +308,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T07:08:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "fbc589b730554839",
@@ -296,7 +320,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T05:13:38+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "f029b2aa00f457e3",
@@ -308,7 +332,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T05:13:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "b57a04d08b8e6314",
@@ -320,19 +344,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-12T00:42:17+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "6b1ebfb0dfea5ec7",
-      "title": "三菱電機、PCS用インバーターの設計／検証データを無償提供：IGBTモジュールの採用検討しやすく - EE Times Japan",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fNVdQQmItazRZcnlDYlBvUGhVMWUtXzVNcGdnLVVGRFhpeS14UVR1UmM5OGpQYU5wN21EY0JNT3MyWG1TWms1QWZ3R2NhTVpBUF9sbjN1NTlRNDVvenVBWkQwT3BLdXFQcllsTkFDTQ?oc=5",
-      "summary": "三菱電機、PCS用インバーターの設計／検証データを無償提供：IGBTモジュールの採用検討しやすく EE Times Japan",
-      "source": "EE Times Japan",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-06-11T07:30:00+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "efa123ad848127fb",
@@ -344,7 +356,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-11T05:36:25+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "75b3885b2e38f5cf",
+      "title": "ＩＮＰＥＸ---大幅反発、中東情勢の緊張再燃で原油相場が上昇 - かぶたん",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJOXpVckFHcVV0MEE4aERFUUVBX3dnaXFudXhTRW1YY05oVFBMc01aenRzakdqWVdqQUFONC1HcjZhMlRnMjE2eXFiV2JjblNuVlVUVEFfaVN3aXY3elVTOQ?oc=5",
+      "summary": "ＩＮＰＥＸ---大幅反発、中東情勢の緊張再燃で原油相場が上昇 かぶたん",
+      "source": "かぶたん",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-06-11T01:17:57+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "fbc3bef9eaecc8ea",
@@ -355,20 +379,8 @@
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
-      "published_at": "2026-06-11T01:30:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
-    },
-    {
-      "id": "75b3885b2e38f5cf",
-      "title": "ＩＮＰＥＸ---大幅反発、中東情勢の緊張再燃で原油相場が上昇 - 株探",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJOXpVckFHcVV0MEE4aERFUUVBX3dnaXFudXhTRW1YY05oVFBMc01aenRzakdqWVdqQUFONC1HcjZhMlRnMjE2eXFiV2JjblNuVlVUVEFfaVN3aXY3elVTOQ?oc=5",
-      "summary": "ＩＮＰＥＸ---大幅反発、中東情勢の緊張再燃で原油相場が上昇 株探",
-      "source": "株探",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-06-11T01:17:57+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "published_at": "2026-06-11T01:17:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "b4f98025aff22f5b",
@@ -380,7 +392,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-10T20:44:10+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "9cd4ec6a076120fe",
@@ -392,7 +404,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T15:13:15+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "007a797a8fc44cea",
@@ -404,7 +416,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T11:00:50+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "bb16097ca0cb41cb",
@@ -416,7 +428,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T10:31:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "b8ea59cdfa6f4a63",
@@ -428,7 +440,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T08:05:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "3106d41899c868ed",
@@ -440,7 +452,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T05:09:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "398845cc00cb4bf7",
@@ -452,19 +464,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T04:57:21+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
-    },
-    {
-      "id": "76f5118ae8235487",
-      "title": "ＪＥＲＡに20年間ＬＮＧ供給へ、ペトロナス 年200万トン規模 (ロイター) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV2MwQjgzQjIydVR6d3U3YmxlQmpLZ1plWC1kb2VwUEF6eHF1eDBQYjUzMWZpRzc0dlU2akhyUVFBaUZDQmd6X090cnFmZDRJOEdIVTJuUDJtcFVTUGtrc21xd3FvazNFMTFmS0tfdVRmQVpfZFY5RVJuUkJmYUJ1eld1WWlGUGhDRVFLLTZR?oc=5",
-      "summary": "ＪＥＲＡに20年間ＬＮＧ供給へ、ペトロナス 年200万トン規模 (ロイター) Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-06-10T04:57:21+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "2a1c734caa9d9dee",
@@ -476,7 +476,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T04:57:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "aa06204e917a0d36",
@@ -488,7 +488,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-09T11:28:52+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "aefc8e22690a6da4",
@@ -500,7 +500,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-09T11:28:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "e2794d6e3ba47e8b",
@@ -512,19 +512,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-09T06:01:35+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
-    },
-    {
-      "id": "363ba2d6adf1fedd",
-      "title": "ロケットのIHIがなぜ今､宇宙データ事業に賭けるのか 衛星コンステレーションが変えつつある日本の安全保障の現実 - 東洋経済オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPbTV2VU1EQkJkOHVucGxMOWZnR3JOb2FQTC0wd0VOMmlGOE1nRERCWnRLLWlKU1pKLTRaR0xaN0ZaUTJxTXB2dzdhTE5OcHU4d1hWMW41UG1wTnM?oc=5",
-      "summary": "ロケットのIHIがなぜ今､宇宙データ事業に賭けるのか 衛星コンステレーションが変えつつある日本の安全保障の現実 東洋経済オンライン",
-      "source": "東洋経済オンライン",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-06-09T01:23:12+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "b17330086eda893c",
@@ -532,11 +520,11 @@
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRWRUSkJUaFZOeWtoZWFHRmt1cWVvSFJPUU8weW9rTWFCM2VVa3hUMXJCYUI4U1JlaklRVmdCZ1dqRk1YeFBpYlJiTWpqWDVIYmhnSzFWMkkwS01NcUlsVjBnVi1SQWJUUXdRWGtnVXk0NXFuRjc1UXNVMmYtT2J6Y19LYkpPc2s?oc=5",
       "summary": "三菱重工－丸三が目標株価引き上げ GTCC、防衛・宇宙が業績けん引〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
       "source": "Yahoo!ファイナンス",
-      "feed_name": "重工・防衛 Google News",
-      "category": "stocks",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
       "importance": "high",
       "published_at": "2026-06-09T00:48:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "aeabb16ce4255094",
@@ -548,19 +536,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-08T19:02:05+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
-    },
-    {
-      "id": "eff9e3ae178db75f",
-      "title": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtaEl6c2FLUDB0djRaajhSN0ZleTRtZTdkRDRRRDhXV3lfVk1ITE1vREVkRzR3QXlJWjJkYlNCbjB0NzFLLVo3S0U0UlZjZ3hXM2VwUlZ5TnRoZkVGMGVnbXBfUUh0eWxma21PdEhrYzM4U3VuOU94bFZ6LXBKUQ?oc=5",
-      "summary": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け Reuters",
-      "source": "Reuters",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-06-08T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "28df0997e76551b5",
@@ -572,7 +548,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-08T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "f46bc973e04fe40d",
+      "title": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け(ロイター) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmNWRi1ZRlBZUGkwVkVoc0NFOUNVTHBoeVJTY082cDRPZXdWamJ4cXE3MDE3bUVFaWp3aFk0b3AtVTNtZ3NBaGFIT09sMlo3R3o2cWtYaFdfZjE0azdpckNlVHhmV2Z4XzhicVdlV1hRaTVieTgtTWh3Z2NoUFZPalZSTDVpWGM?oc=5",
+      "summary": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け(ロイター) Yahoo!ファイナンス",
+      "source": "Yahoo!ファイナンス",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-06-08T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "9aaceb5e729730a3",
@@ -584,7 +572,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-08T00:00:02+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "eff9e3ae178db75f",
+      "title": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtaEl6c2FLUDB0djRaajhSN0ZleTRtZTdkRDRRRDhXV3lfVk1ITE1vREVkRzR3QXlJWjJkYlNCbjB0NzFLLVo3S0U0UlZjZ3hXM2VwUlZ5TnRoZkVGMGVnbXBfUUh0eWxma21PdEhrYzM4U3VuOU94bFZ6LXBKUQ?oc=5",
+      "summary": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け Reuters",
+      "source": "Reuters",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-06-07T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "f205f63524093f2d",
@@ -596,19 +596,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-05T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
-      "id": "fe6c7b6aa29b8eb3",
-      "title": "NEC、「NEC サプライチェーンセキュリティマネジメント for ネットワーク」に機器ごとの構成・設定管理機能を追加 - クラウド Watch",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzZTU4UVczSkpRUnVYSnE1U0dnTXZveTVVb0kyWm5UdWFpU0FPcEFtTy1VVDJyRUYwZHdFMndHZGRCbnZVSzZIMWdOeXdLWWw3RTM5cjF3UHFaMF9KMzBUX2VMZWZjMlU?oc=5",
-      "summary": "NEC、「NEC サプライチェーンセキュリティマネジメント for ネットワーク」に機器ごとの構成・設定管理機能を追加 クラウド Watch",
-      "source": "クラウド Watch",
+      "id": "7bbf97518854c817",
+      "title": "NEC、防衛と海底ケーブルを成長エンジンに 経済安全保障需要を取り込む (TECH+) - newspicks.com",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LQUNzV3Uydi1FaWV3bGlXTjNFbkVTMHlZRWlqTDZIMFpCZjdlS3N4RjlrVkV3LUNpekxLLVgxR0o3d3NBdWpBVmRPemo?oc=5",
+      "summary": "NEC、防衛と海底ケーブルを成長エンジンに 経済安全保障需要を取り込む (TECH+) newspicks.com",
+      "source": "newspicks.com",
       "feed_name": "重工・防衛 Google News",
-      "category": "news",
+      "category": "intl",
       "importance": "high",
-      "published_at": "2026-06-05T04:09:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "published_at": "2026-06-04T21:38:38+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "1df83e559c549088",
@@ -620,55 +620,19 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-04T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "bd77941002a3d58e",
-      "title": "ＩＮＰＥＸは３日ぶり反落、中東情勢懸念でＷＴＩ上昇も利益確定の売り優勢に - 株探",
+      "title": "ＩＮＰＥＸは３日ぶり反落、中東情勢懸念でＷＴＩ上昇も利益確定の売り優勢に - かぶたん",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkenlhUmpOV2NjUFpqNklJMktYcm5jdjBKQUdWVlVMZTFaaVBETVRpR3dFMzBFRU4ydnNiMnFYQ3BKYXlCZEE3WFlSUnFvRDRLU29NOGN1OEVBX0lXREMzUA?oc=5",
-      "summary": "ＩＮＰＥＸは３日ぶり反落、中東情勢懸念でＷＴＩ上昇も利益確定の売り優勢に 株探",
-      "source": "株探",
+      "summary": "ＩＮＰＥＸは３日ぶり反落、中東情勢懸念でＷＴＩ上昇も利益確定の売り優勢に かぶたん",
+      "source": "かぶたん",
       "feed_name": "エネルギー・中東 Google News",
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-04T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
-    },
-    {
-      "id": "f28cecab9c1da9eb",
-      "title": "民間エンジン・防衛に注力…IHI、営業益1600億円上積みへ - ニュースイッチ by 日刊工業新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4OEpHbWdUU0dvNldnX0U5UGJlZFZDTzVxZ0pxck9DRW5NWGpJVkNiOGFNNUhKTUIzd3Z1Tk51dTlJUQ?oc=5",
-      "summary": "民間エンジン・防衛に注力…IHI、営業益1600億円上積みへ ニュースイッチ by 日刊工業新聞社",
-      "source": "ニュースイッチ by 日刊工業新聞社",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-06-04T03:03:16+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "5eb7c23b727b5e61",
-      "title": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円 (ニュースイッチ) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUDFEY2ZXVS15ZThmVG1hb2RhZEZSckZkTmIwWllaSHk0aV9PckpJd2VReEZVbW5nVGVUaGZuUjdkTDYtLUN6VW1FR1AtXzhQamZ5MU5rbXVSc296YXNKdzEwSFk5T0JOaWwzdE4zeUExZ3hwaU1udnNJQy1wcU1TR0YyVkdsY2JobGYyOFZB?oc=5",
-      "summary": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円 (ニュースイッチ) Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-06-03T07:10:11+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "972452ed71081b1b",
-      "title": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円（ニュースイッチ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2bW1DX0F1djFpVzlHS19XczNJek1fX3BsUTdiTkV2WnBuMzl4TERLS3NuczdqLVFzM2plWWpTSDVhbXUxZHhCam5IdEo5T0NzTzR3WkFtM0o4blZfaHBIc0VxY3VwZlhQLVh6OEVaXy1STzl2c0dLaTlGdXBOMVE?oc=5",
-      "summary": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円（ニュースイッチ） Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "c33350e6d6158706",
@@ -680,19 +644,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "c0714e3deac77c82",
-      "title": "NEC、防衛と海底ケーブルを成長エンジンに 経済安全保障需要を取り込む - マイナビニュース",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Ykl0cEsyRE9oTVBMdm85Z0VDVDdKRVRrTUtrVjNnX19XSURrRHFscG16bjFaTlNaMjhXa2R4SXQyLURQVEZJbWtBckFCQmcxWjhpakJ2VkpGdVhSX2JPTWFMdlF6bVV6?oc=5",
-      "summary": "NEC、防衛と海底ケーブルを成長エンジンに 経済安全保障需要を取り込む マイナビニュース",
-      "source": "マイナビニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "ff9caf230c3fbab8",
@@ -704,31 +656,31 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
-      "id": "8a4036d4bcf0c8e5",
-      "title": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円 - ニュースイッチ by 日刊工業新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1DWkN4OTFhTnYweExjVmJUdGRtZi1EOGVKYjBfeTNycU1mUG00U19WRFZWRGppcjhCQVN4d0xCOUtxeGt3NWI4?oc=5",
-      "summary": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円 ニュースイッチ by 日刊工業新聞社",
-      "source": "ニュースイッチ by 日刊工業新聞社",
+      "id": "972452ed71081b1b",
+      "title": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円（ニュースイッチ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2bW1DX0F1djFpVzlHS19XczNJek1fX3BsUTdiTkV2WnBuMzl4TERLS3NuczdqLVFzM2plWWpTSDVhbXUxZHhCam5IdEo5T0NzTzR3WkFtM0o4blZfaHBIc0VxY3VwZlhQLVh6OEVaXy1STzl2c0dLaTlGdXBOMVE?oc=5",
+      "summary": "NECの新中計、防衛・海洋で海外深耕…豪海軍の次期汎用フリゲート艦向けは契約金額309億円（ニュースイッチ） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
       "feed_name": "重工・防衛 Google News",
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
-      "id": "74761c1f5a625f9f",
-      "title": "【三菱重工・コマツ・川重・IHI】年収の浮沈で「損をした世代」は？三菱重工・IHIは若手優位、コマツはOB優位、川重は若手とOBが並ぶ《20年間の年収推移を5世代別に独自試算・2026年版》《再配信》 - ダイヤモンド・オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ra3A4SnRtbHYyT28wQm1RS00wMGpuY0Zsb2V5UEFWcTcyc05pS0J6bzNXVXVzc3BtSWRhLTdxT3YtSG1fRlJQdDlJY07SAU9BVV95cUxNZ3o0R3Fnb1pJOHlNRG1QVDJIbXQxNWZMUjdSbUozeDhtRllCekpqamlBbl9fcXRzZ19LbDA2SVdodjhmN0JfYjlVc3JLSWE0?oc=5",
-      "summary": "【三菱重工・コマツ・川重・IHI】年収の浮沈で「損をした世代」は？三菱重工・IHIは若手優位、コマツはOB優位、川重は若手とOBが並ぶ《20年間の年収推移を5世代別に独自試算・2026年版》《再配信》 ダイヤモンド・オンライン",
-      "source": "ダイヤモンド・オンライン",
+      "id": "c0714e3deac77c82",
+      "title": "NEC、防衛と海底ケーブルを成長エンジンに 経済安全保障需要を取り込む - マイナビニュース",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45Ykl0cEsyRE9oTVBMdm85Z0VDVDdKRVRrTUtrVjNnX19XSURrRHFscG16bjFaTlNaMjhXa2R4SXQyLURQVEZJbWtBckFCQmcxWjhpakJ2VkpGdVhSX2JPTWFMdlF6bVV6?oc=5",
+      "summary": "NEC、防衛と海底ケーブルを成長エンジンに 経済安全保障需要を取り込む マイナビニュース",
+      "source": "マイナビニュース",
       "feed_name": "重工・防衛 Google News",
-      "category": "news",
+      "category": "intl",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "09a5b5d613b93925",
@@ -740,7 +692,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "7a49b019e9b05b5e",
@@ -752,31 +704,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "33856ec0ccd1b8e5",
-      "title": "JAXA、IHIエアロに5か月資格停止 ロケット製造の保全めぐり - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aT3ZUcGhoZV85WXNOaThKT3owRjktQktEdG5qeEFqUFRENzZ2NUxqaVo1SnpmWHZpTkFibm1VU3JIeUlfUC03c3RYZXRQOVQ2ZTBzZzZaSTVmNnZYZGdSQ0xhN3VmcU0?oc=5",
-      "summary": "JAXA、IHIエアロに5か月資格停止 ロケット製造の保全めぐり 朝日新聞",
-      "source": "朝日新聞",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "691eb5a1a071c9f3",
-      "title": "三菱重工とPFNが「国産AI技術」共同開発、安全保障などで活用 年度内に資本業務提携へ - ITmedia",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00U29xc1NSSWVDRDdWTFpYdGxjUEdqZWR5ZWRmaVljbGV5eEVXVkNqRWs2M2RfdkV1NWJEeTJ2aHVoRG8zajRUelNOX0ZiVW04M1AyYWcxaXFoWk9icXp2cmFyQUJUcEZzemt2Rg?oc=5",
-      "summary": "三菱重工とPFNが「国産AI技術」共同開発、安全保障などで活用 年度内に資本業務提携へ ITmedia",
-      "source": "ITmedia",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "474603bb35a6cb7a",
@@ -788,7 +716,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "68db45caf941468c",
@@ -800,7 +728,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "715ec1f4f92966b2",
@@ -812,7 +740,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "c0d323ac07524bc5",
@@ -824,7 +752,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "f8ab29165c950382",
@@ -836,7 +764,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "1bfee3a6432874ca",
@@ -848,31 +776,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-01T19:09:39+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
-    },
-    {
-      "id": "efbcc224a0d920fd",
-      "title": "IHIインフラスクエアが利根川河口堰外ゲート設備改修工事を共同企業体で受注 - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fNGhQVS04bTVtcFhxV253WXU4SWs5TlRINm94V3RFWFNZOUt1SUV5eVYzLWZfMGs0R0FaRmxpQW9ZVG1SSXNwMTYtV2pyRG9BZmRGSmxYUFh6N3N3MUpEbktkRjFpbGNSQ0E?oc=5",
-      "summary": "IHIインフラスクエアが利根川河口堰外ゲート設備改修工事を共同企業体で受注 PR TIMES",
-      "source": "PR TIMES",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "ce9bafb126af7119",
-      "title": "防衛最大手の三菱重工､業績｢絶好調｣でも株価反落のなぜ？ - 四季報オンライン",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xTEJwTEQwRTlsSVJjVk5RdVBlaVJNSTlMak9Ra09hZGxYWFNKSDByclNTdUVJNFhIendfRTctU0RQWG1CenVmZVBmdXdlQ0hyV1o4UTJ1bw?oc=5",
-      "summary": "防衛最大手の三菱重工､業績｢絶好調｣でも株価反落のなぜ？ 四季報オンライン",
-      "source": "四季報オンライン",
-      "feed_name": "重工・防衛 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "eb5a15bc94b6e340",
@@ -884,7 +788,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "4d4261a0d9972fcf",
@@ -896,7 +800,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "5bb6d5868c9091ec",
@@ -908,7 +812,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "fb0a74bdeaf1d1be",
@@ -920,7 +824,31 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
+    },
+    {
+      "id": "ce9bafb126af7119",
+      "title": "防衛最大手の三菱重工､業績｢絶好調｣でも株価反落のなぜ？ - 四季報オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xTEJwTEQwRTlsSVJjVk5RdVBlaVJNSTlMak9Ra09hZGxYWFNKSDByclNTdUVJNFhIendfRTctU0RQWG1CenVmZVBmdXdlQ0hyV1o4UTJ1bw?oc=5",
+      "summary": "防衛最大手の三菱重工､業績｢絶好調｣でも株価反落のなぜ？ 四季報オンライン",
+      "source": "四季報オンライン",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:37+00:00"
+    },
+    {
+      "id": "efbcc224a0d920fd",
+      "title": "IHIインフラスクエアが利根川河口堰外ゲート設備改修工事を共同企業体で受注 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fNGhQVS04bTVtcFhxV253WXU4SWs5TlRINm94V3RFWFNZOUt1SUV5eVYzLWZfMGs0R0FaRmxpQW9ZVG1SSXNwMTYtV2pyRG9BZmRGSmxYUFh6N3N3MUpEbktkRjFpbGNSQ0E?oc=5",
+      "summary": "IHIインフラスクエアが利根川河口堰外ゲート設備改修工事を共同企業体で受注 PR TIMES",
+      "source": "PR TIMES",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-06-01T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "1b042e473c56afa9",
@@ -932,7 +860,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-29T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "a4395a6c45832734",
@@ -944,7 +872,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-29T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "a068d2ad2ab92395",
@@ -956,7 +884,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-29T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "223cf0d64064f24a",
@@ -968,31 +896,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-05-28T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "9c85645574d892cc",
-      "title": "NEC、サイバー犯罪捜査官の実践的なサイバーセキュリティ対応能力向上を支援 | 日本電気株式会社のプレスリリース - PR TIMES",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92RXNKOHVxNkZ1V1J5ZVZJcHJEMUpDel9kMUhjRlRHQWZNY2hJaVRuTVItVTFTcG05S0ZQWUJPZ0hBcUotZWFHamVWUVdHU2ZNZzdDT0M4ek9zZTVPZy1KOEI5ank5UXU4N0E?oc=5",
-      "summary": "NEC、サイバー犯罪捜査官の実践的なサイバーセキュリティ対応能力向上を支援 | 日本電気株式会社のプレスリリース PR TIMES",
-      "source": "PR TIMES",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-05-28T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "ebde07582dfe40c7",
-      "title": "安全保障・防衛けん引…NEC、5カ年で成長投資枠1.3兆円 (ニュースイッチ) - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTZBU0Q2WlNzeHJwb2NZN3A0dTRpZ3lIdTJvYnFRMlNWelBySWxCZGRGZFduaTZMcjg4dVhqd1Bxek5XSTN1bUk0eUY4MVpuZXJlMDc1N1NoTmluWXRTcHBJeDlSOVVReE03cC1qdDItUzZGXzFiem5JSGRyQUJTd3RpTWZNOFVIaHVjLTln?oc=5",
-      "summary": "安全保障・防衛けん引…NEC、5カ年で成長投資枠1.3兆円 (ニュースイッチ) Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-05-28T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "08c19adf04f41e39",
@@ -1004,7 +908,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-28T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "fd4cd58af4fae18f",
@@ -1016,31 +920,19 @@
       "category": "jobs",
       "importance": "high",
       "published_at": "2026-05-27T16:17:22+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
-      "id": "36a4dd5e862e8632",
-      "title": "サイバー防衛、国際協力を 先端ＡＩモデル登場で―ＮＥＣ社長 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LLVBrRkpGNTk2V2xORWRodXR6OU00VS1zZ1AyOVc3Z3FieDRPaS0tci1WdElXUzB1MHEzTkxSR0RIbnVUaE9yd2tlbGNldmtjU0x1bmp3bno5M04wVW83bjA0NA?oc=5",
-      "summary": "サイバー防衛、国際協力を 先端ＡＩモデル登場で―ＮＥＣ社長 時事ドットコム",
-      "source": "時事ドットコム",
+      "id": "79c38d1f3a94e1a0",
+      "title": "セキュリティスペシャリスト一覧（サイバーセキュリティインテリジェンス） - NEC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR28tV3h0UkRIZ2EzRFhGdGhGX21lY2lUZzVONlFXNWhab2sxOWNXQjRfYUpuRG5idnNXeWswRmx6bjRMNkxlSElIQjRNaldlbm1GMzV1eF9IWlhKckRhcWd2THNKM1pheU5lZXE1a3RXckg2Z2YzYjg1Vk1Gc212YUlsdER5dw?oc=5",
+      "summary": "セキュリティスペシャリスト一覧（サイバーセキュリティインテリジェンス） NEC",
+      "source": "NEC",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
-      "published_at": "2026-05-27T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "8c3cf481fadac719",
-      "title": "防衛産業「利益率改善必須」NEC・森田隆之社長インタビュー 海外利益比率50％以上を - 産経ニュース",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6UTIzb3lGX1lDc0FrZUFxLXBubXB4dmVKMnNEclliRC01NjZ3Q0pWQXoyTDZleWEwbFRXcU1iUDdEbXh3VVdaTVZWOUtUSFBKdU5qWG5yUzMtbG4tSHdvWjYzcVZleWhiX1FKV3hwdHNsQmlveUE?oc=5",
-      "summary": "防衛産業「利益率改善必須」NEC・森田隆之社長インタビュー 海外利益比率50％以上を 産経ニュース",
-      "source": "産経ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "published_at": "2026-05-27T14:39:10+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "96a5cb8300c18562",
@@ -1052,7 +944,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "c75dc329452f59b7",
@@ -1064,7 +956,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "a74d5aee02948eb7",
@@ -1076,19 +968,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "54ae61ddc3dd20b4",
-      "title": "千代田化工---大幅続伸、中東LNGプラント工事を本格再開と伝わり - 株探",
+      "title": "千代田化工---大幅続伸、中東LNGプラント工事を本格再開と伝わり - かぶたん",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQ2NBNmR2N1l5d21fV2R2b1JVaG5jek44WllHS3lKUGVMUV9HMmU5WlF2Tk9HMURCcUFxNHNxSHoyV0hjUlNVZmRyeUQ2eUFMcDNKSzlzR2V2QkhwZWtWOQ?oc=5",
-      "summary": "千代田化工---大幅続伸、中東LNGプラント工事を本格再開と伝わり 株探",
-      "source": "株探",
+      "summary": "千代田化工---大幅続伸、中東LNGプラント工事を本格再開と伝わり かぶたん",
+      "source": "かぶたん",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "13c769c3b92cff1a",
@@ -1100,7 +992,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "05504b3df9168827",
@@ -1112,7 +1004,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "7e8a40cc7b4db8dd",
@@ -1124,7 +1016,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "8ec82018c2112aec",
@@ -1136,7 +1028,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-25T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "951ce76214f51630",
@@ -1148,7 +1040,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-25T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "8688cee3339c2285",
@@ -1160,7 +1052,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-25T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "0f225e4476c6b0c2",
@@ -1168,23 +1060,11 @@
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jR3l4Qjc0TXJDeUZtZXM2dHFaemNJS2plaW1RNTZXY1NWVTZtclJFS3hqZThBb0duTnhmQjl2SzZyQQ?oc=5",
       "summary": "三菱重工が洋上風力の訓練船向け受注、「水ジェット推進装置」の機能 ニュースイッチ by 日刊工業新聞社",
       "source": "ニュースイッチ by 日刊工業新聞社",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
       "importance": "high",
       "published_at": "2026-05-24T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "016d4c766a4ad67a",
-      "title": "三菱重工、もがみ型護衛艦の9番艦「なとり」を長崎造船所で引き渡し - J ディフェンス ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Hc3o1RUVNdmlVS1M1R0ZieUZhcmdoUnZuUFdBM0U2RU1LVzBSMHFDNzdlcUFsSUQ4UkZfem45aFc5TGotQzAzM2c0akY1VWM1Tld5dGllaXZUNllB?oc=5",
-      "summary": "三菱重工、もがみ型護衛艦の9番艦「なとり」を長崎造船所で引き渡し J ディフェンス ニュース",
-      "source": "J ディフェンス ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-05-23T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "e133874bed01149a",
@@ -1196,19 +1076,19 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
-      "id": "9bbbbabb5b5c6645",
-      "title": "防衛省「期待は極めて大きい」三菱重工長崎造船所で最新鋭の護衛艦「なとり」引き渡し(1) | 長崎ニュース - NCC長崎文化放送",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HdElhZXVoSnJ6TDFzQzNTRFRIRWoxdHFkMU8zU3VQeXIyQTR5Q3BYRmlRbnA5LThMM2FiOG5TQU92aWJHeEFkRnRuRm13N20zMnFLNVdRdHZEUjVEbjVyUmZRYVo?oc=5",
-      "summary": "防衛省「期待は極めて大きい」三菱重工長崎造船所で最新鋭の護衛艦「なとり」引き渡し(1) | 長崎ニュース NCC長崎文化放送",
+      "id": "110b861a4ed769b0",
+      "title": "防衛省「期待は極めて大きい」三菱重工長崎造船所で最新鋭の護衛艦「なとり」引き渡し(14) | 長崎ニュース - NCC長崎文化放送",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9McncyeDRTSjV1MUlFSDlpcF9YTi1mSTM1dDFacFpRZzFzMzRXTEVDSXFEb1VNb2tEbEtiaWxveU1Pc1AzUnJINTAxcnFaZHhlblJFLXAtZEZQdWVtVVRGQlBuZFc?oc=5",
+      "summary": "防衛省「期待は極めて大きい」三菱重工長崎造船所で最新鋭の護衛艦「なとり」引き渡し(14) | 長崎ニュース NCC長崎文化放送",
       "source": "NCC長崎文化放送",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "b55e2c543df4dd9c",
@@ -1220,19 +1100,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
-    },
-    {
-      "id": "37d24e61840bfd76",
-      "title": "防衛省「期待は極めて大きい」三菱重工長崎造船所で最新鋭の護衛艦「なとり」引き渡し - NCC長崎文化放送",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VSHlSUlZibDBWUFA1QjhrWHEtM1BJWjloemF5NHZPMlB5di1FUFhTMXJGdmhaSnpmNXNhYzRzbmxsalhuN1V3SXNWR3IxejRpd0J3Vlh1QUo?oc=5",
-      "summary": "防衛省「期待は極めて大きい」三菱重工長崎造船所で最新鋭の護衛艦「なとり」引き渡し NCC長崎文化放送",
-      "source": "NCC長崎文化放送",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-05-20T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "24409ae7e452ff16",
@@ -1244,7 +1112,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-20T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "e3ed62a4959b3cbb",
@@ -1256,7 +1124,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-19T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "cee00fad99682e98",
+      "title": "長崎海運人材育成協会向けCTVのウォータージェット推進装置を受注国内初の訓練専用洋上タワーを用いた作業員育成に貢献 | 三菱重工 - Mitsubishi Heavy Industries, Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtZVN4aHhIdU1kQUl4NTQtOWNoNHp6RjdzMzN1V1gwSEVvMURwMjFUNnVleGpwYjVzOFpGV1MtR0VuRlBMNWNmZ1VzdTlOZmZESHJN?oc=5",
+      "summary": "長崎海運人材育成協会向けCTVのウォータージェット推進装置を受注国内初の訓練専用洋上タワーを用いた作業員育成に貢献 | 三菱重工 Mitsubishi Heavy Industries, Ltd.",
+      "source": "Mitsubishi Heavy Industries, Ltd.",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-05-18T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "2b57693e7ca10225",
@@ -1264,23 +1144,11 @@
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4X19Mclp1ZjN0akh2M2huN0h5MzZNcnFMUXZHX0JEeW9iaVFYWGF5MGJuNWpydWpUdkZsN3BLT09Hdw?oc=5",
       "summary": "川崎重工が福岡放送から受注、最新型ヘリの機能 ニュースイッチ by 日刊工業新聞社",
       "source": "ニュースイッチ by 日刊工業新聞社",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
       "importance": "high",
       "published_at": "2026-05-18T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "845632f02f92c3e5",
-      "title": "航空･防衛･原子力に重点､IHIが3年で6500億円投資…｢ギアを一段上げて成長戦略を加速させる｣ - ニュースイッチ by 日刊工業新聞社",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1TSnJiODNsNW55RXFwdXo1UW0wM1hMMXo0cDBEVE54eWN4akFtdDRBeC04Ui1uZ0lwZ2tsS0tPQWlfdw?oc=5",
-      "summary": "航空･防衛･原子力に重点､IHIが3年で6500億円投資…｢ギアを一段上げて成長戦略を加速させる｣ ニュースイッチ by 日刊工業新聞社",
-      "source": "ニュースイッチ by 日刊工業新聞社",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-05-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "1a0a13f0f71e416a",
@@ -1292,7 +1160,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-16T12:25:36+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "0af05d472487e474",
@@ -1304,31 +1172,19 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-05-16T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "d808b4f0beff8f5d",
-      "title": "防衛関連が堅調…重工3社の通期見通し、全社が当期益最高（ニュースイッチ） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90bWZ1R1UzUHdDSTNxQXQyUnRyekhaVFdkYVY1MEVoUU0taXlHRkNVU185VHdpcnhWWmlMc09CZDBGN1RnRGxtR01wZmFXdWNpVWNYNHBadHF6X1JRNEl5SEpDUnBxdTNTTEdlXzNyVTQzanpKYlhLRDZkU3NTV2s?oc=5",
-      "summary": "防衛関連が堅調…重工3社の通期見通し、全社が当期益最高（ニュースイッチ） Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-05-15T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "fd2786029298adac",
-      "title": "ＩＮＰＥＸは朝高後に値を消す、２６年１２月期業績予想は増額修正 - 株探",
+      "title": "ＩＮＰＥＸは朝高後に値を消す、２６年１２月期業績予想は増額修正 - かぶたん",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mVTZqVVhiRTdIZzlsam5DUFZveGlmTkNJcVNNaTdEYVI0SFBmQU9QMWR0djB4MjRZSnhqME9BM21rYUxmcWhKc3ZwQlpMdUlsMmtjMUt3ZmtSZUNGSkhMQw?oc=5",
-      "summary": "ＩＮＰＥＸは朝高後に値を消す、２６年１２月期業績予想は増額修正 株探",
-      "source": "株探",
+      "summary": "ＩＮＰＥＸは朝高後に値を消す、２６年１２月期業績予想は増額修正 かぶたん",
+      "source": "かぶたん",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "9126af331c3a4674",
@@ -1340,7 +1196,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "9854e7ce21596b3d",
@@ -1352,7 +1208,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "90b2ef350dff2cb6",
@@ -1364,7 +1220,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "3e4bec3d921b8b3d",
@@ -1376,7 +1232,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "1e37b53b353b7eeb",
@@ -1388,7 +1244,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "2561ecc4cd564083",
@@ -1400,7 +1256,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "41e40e7c4034b9a8",
@@ -1412,19 +1268,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "03733505321f9517",
-      "title": "ＩＮＰＥＸ、今期最終を3500億～4500億円に上方修正 - 株探",
+      "title": "ＩＮＰＥＸ、今期最終を3500億～4500億円に上方修正 - かぶたん",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13NXhUSWkzVW1rSVlkRURITW5WLVpoRFJic1ZJUTRmWjhVSGRrMTZBUkFwRUhuRHpuTWF6UkxsTHBKM2NGNXVjQkE2VDh2TXBlRXc?oc=5",
-      "summary": "ＩＮＰＥＸ、今期最終を3500億～4500億円に上方修正 株探",
-      "source": "株探",
+      "summary": "ＩＮＰＥＸ、今期最終を3500億～4500億円に上方修正 かぶたん",
+      "source": "かぶたん",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "3022bb3b9f127c1a",
@@ -1436,7 +1292,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "43e5cb0d1f85f535",
@@ -1448,7 +1304,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
+    },
+    {
+      "id": "93f02073126bcac3",
+      "title": "日産・追浜工場の従業員、いすゞやIHIが採用意向 近隣に受け皿確保 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oTFl6QTgtLVFrR2Eza09oNFAzcVlqaXRsZUJjWl9pS2hlMWhmRjNWeG9QY1RfMXRwaDBDM3N5dGdIdWRCUGNLN3lONW5CelZ6eTdObnRXRGZUTFJrdi04SV9fWkR4N1RrWENpYw?oc=5",
+      "summary": "日産・追浜工場の従業員、いすゞやIHIが採用意向 近隣に受け皿確保 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-05-13T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "b1d0bc0dff649fb3",
@@ -1460,7 +1328,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-12T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "46143702c2aa2cce",
@@ -1472,7 +1340,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-12T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "b743c534dde670e2",
@@ -1484,7 +1352,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-12T01:44:53+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "d8de45f0f206fa76",
@@ -1496,31 +1364,43 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-11T22:06:22+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "650727ec9de88ed0",
-      "title": "「武器輸出解禁」で注目の「防衛関連銘柄」…三菱重工でも川重でもない「4社の名前」 - 現代ビジネス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSeEZFdV9xQUJzcnBIa2ZYRjdQRWpCNWhSMTl6bE9HQXgzZXJ3YVV4T3JaSmY0S3JySzVMcTNNZDl2VTVaVzFYVC12d0p3OEE?oc=5",
-      "summary": "「武器輸出解禁」で注目の「防衛関連銘柄」…三菱重工でも川重でもない「4社の名前」 現代ビジネス",
-      "source": "現代ビジネス",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-05-11T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "fe1cfc85310cf26c",
-      "title": "千代建、今期経常は85％減益へ - 株探",
+      "title": "千代建、今期経常は85％減益へ - かぶたん",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JdWxyTGt6TlhrLXk5N2hUZW1kMEZ2RWhha0NSdGxLNUx6aDVKSjBoWkRLQnlLbnBqdi1ZbTdQWWJkWG9FcjBnTU5QU09ULTFFQWc?oc=5",
-      "summary": "千代建、今期経常は85％減益へ 株探",
-      "source": "株探",
+      "summary": "千代建、今期経常は85％減益へ かぶたん",
+      "source": "かぶたん",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-11T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
+    },
+    {
+      "id": "3a890b479ff7d94e",
+      "title": "決算マイナス・インパクト銘柄 【東証プライム】寄付 … ＩＨＩ、トヨタ、任天堂 (5月8日発表分)(株探ニュース) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdkdDb1JJUk42QzRobDBta0hhMDMtdWNubXZBZTYwbm5ONFNnT0NSeDlkNTJEVVBzRng1UXFYLUc1bG9hUGJRWEI1X3Zra1B1N1ZNZFlZaXRSdFdneWYyUE9NTGtHM1hPTmg5cEhMZ2pCYUhmYkFXcFVZLWFkUVBpdHBwNGhSQWNnb3A1Q05SQ2YwYkNhSUxyRHVncw?oc=5",
+      "summary": "決算マイナス・インパクト銘柄 【東証プライム】寄付 … ＩＨＩ、トヨタ、任天堂 (5月8日発表分)(株探ニュース) Yahoo!ファイナンス",
+      "source": "Yahoo!ファイナンス",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-05-11T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:37+00:00"
+    },
+    {
+      "id": "76dffa60e2b6a2c1",
+      "title": "Aerospace, National Security and Submarine Networks movies - NEC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnMDJaVzd5ZzEzTGJXTVlsakJ1QWxVNFdoWGQzc18tUk5Fc3FTd21YWU5SdUNWdGZOTVlibUYzUFFsS1NfUC1ZbjQxbXl4Smp4WE9uSXV1SkVOQUZzVkE?oc=5",
+      "summary": "Aerospace, National Security and Submarine Networks movies NEC",
+      "source": "NEC",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-05-09T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "39eb64bfcb686fd2",
@@ -1532,19 +1412,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-09T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
-    },
-    {
-      "id": "bcb7809b6c176bc0",
-      "title": "ＩＨＩ、今期最終は2％増で3期連続最高益、実質増配へ - 株探",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01TUhYczZHODB3NGpMVWNuWW1YcWRaS2Y3a2xEWThOWUN4MWxqTnlxXzlhQTJtQUlSVFhtLXF0ZGt6R3RVNmVXb1h4ckFtcG1DVHc?oc=5",
-      "summary": "ＩＨＩ、今期最終は2％増で3期連続最高益、実質増配へ 株探",
-      "source": "株探",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-05-08T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "a756275789deaa14",
@@ -1552,11 +1420,23 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94M3RIWXB0aDlxTVQ1alU5a2RUenhnSVJkMG1PcUpzMXI5eXFyWXpDV2d3TjBxOTZ3X0JhdkFCanVseVRpQW9mbVdOMm80b3Y2eDJEYjM1M0h1cUloM2RWbVNER19pT1RFcFlhcQ?oc=5",
       "summary": "決算:IHIが3年連続最高益 27年3月期、航空・防衛好調 日本経済新聞",
       "source": "日本経済新聞",
+      "feed_name": "重工・防衛 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "bcb7809b6c176bc0",
+      "title": "ＩＨＩ、今期最終は2％増で3期連続最高益、実質増配へ - かぶたん",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01TUhYczZHODB3NGpMVWNuWW1YcWRaS2Y3a2xEWThOWUN4MWxqTnlxXzlhQTJtQUlSVFhtLXF0ZGt6R3RVNmVXb1h4ckFtcG1DVHc?oc=5",
+      "summary": "ＩＨＩ、今期最終は2％増で3期連続最高益、実質増配へ かぶたん",
+      "source": "かぶたん",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-08T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "abd5f1a9f4c9ab04",
@@ -1568,7 +1448,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-08T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "9d32ae98fb2773cf",
@@ -1580,19 +1460,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-08T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
-      "id": "005bb2c44fd54394",
-      "title": "三菱電機、空対空ミサイルAIM-120 AMRAAMの日米共同生産への参画を目指す（4月28日） - J ディフェンス ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PU1Vpakh3UTdpcG9UZ1JaYzU4UFNjaHVIdjdoWnQ4YWJuZU5VOWlzNlBZLWsyWjJuc0s4clE5ZGV3VWZhXzVXR1FXUDRiXzJnbmc4dThScnhSM3Fx?oc=5",
-      "summary": "三菱電機、空対空ミサイルAIM-120 AMRAAMの日米共同生産への参画を目指す（4月28日） J ディフェンス ニュース",
-      "source": "J ディフェンス ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
+      "id": "1f13bb82eb16e4f9",
+      "title": "「中長期の方向性」 「経営概況 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91Qm1JZXY3cnJJNXpISnowNVNSNWY1Z25rZEJPTmtQUkVYN09OU0JzY0w5MXZDc2RnUzVodGFqNFVXcnNoU2t6MmxJWFBNYlo1Y3pZbTN6bXZsd0tPZTlZQjNOS1lRTThQOGc?oc=5",
+      "summary": "「中長期の方向性」 「経営概況 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
       "importance": "high",
-      "published_at": "2026-05-07T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "published_at": "2026-05-08T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "7e3cd63c53aa3ff2",
@@ -1604,7 +1484,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-07T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "912d471f23fa86f1",
@@ -1612,11 +1492,11 @@
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mUXdWTXB3OWtWNzA3WXlIZ2ZSOVN4QkJ3TUVlX2hGbXlOWHg3amU3cnRYT3JWUU1zTWpnUzUwLS02V09PRnJQcTVYaHk?oc=5",
       "summary": "【三菱重工・コマツ・川重・IHI】年収の浮沈で「損をした世代」は？三菱重工・IHIは若手優位、コマツはOB優位、川重は若手とOBが並ぶ《20年間の年収推移を5世代別に独自試算・2026年版》 ダイヤモンド・オンライン",
       "source": "ダイヤモンド・オンライン",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
       "importance": "high",
       "published_at": "2026-05-05T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "d1480e1650a92c38",
@@ -1628,7 +1508,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-04-28T08:26:11+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "ad38eb765a9e1fc7",
@@ -1640,7 +1520,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-04-28T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "65b82d0999f9c072",
@@ -1652,19 +1532,43 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-04-27T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
-      "id": "deb6a6f230ac94db",
-      "title": "地域とともに“ごみから未来を変えていく”──三菱重工環境・化学エンジニアリングが描く地球環境問題への道筋 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUHlpNG1GMkd0M0N0Q1ZPU0NEb2kyQnZrU3Z3MkpyeVZVTnJNSnBya3Q3NHEwUGZDMDV0LWRlSzZBeF8weGw2UVg1V0lmZGRSRC1TemVmd1B2aDgwaHM3UkVHZ2Y4Zw?oc=5",
-      "summary": "地域とともに“ごみから未来を変えていく”──三菱重工環境・化学エンジニアリングが描く地球環境問題への道筋 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
+      "id": "b8beb0b432247b01",
+      "title": "川崎重工のセミヒューマノイド「Nyokkey」にエウレカロボティックスのAIビジョンシステムが採用 - ロボスタ",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPTmpZVzZwZkNjS3UtTWVXUlUwMzZ5X0RaWW9sdTFjTmNKUjBtZGlvbUxadUFnTXl6SWZaZmxHdUI3YmhQTlFQeVNLV2lHNFhPTXRuWTluQXVIZVNKcUJEYk5XWk8?oc=5",
+      "summary": "川崎重工のセミヒューマノイド「Nyokkey」にエウレカロボティックスのAIビジョンシステムが採用 ロボスタ",
+      "source": "ロボスタ",
       "feed_name": "採用・インターン Google News",
       "category": "jobs",
       "importance": "med",
-      "published_at": "2026-04-22T22:24:39+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "published_at": "2026-04-27T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
+    },
+    {
+      "id": "8b1908e6f7dfdd1c",
+      "title": "ロケットのIHIがなぜ今､宇宙データ事業に賭けるのか 衛星コンステレーションが変えつつある日本の安全保障の現実 - 東洋経済オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lOG13bHY2YnJBQkVacDJWZlUwRFJvYWY4Q1BocGs2T2ZDa1kzbTRrWjNIOXNvMndxVlJoU215TjR2ZDJXd0FqSzBYQmEyc1YtRFhnYmwzdjBUTElYdk1v?oc=5",
+      "summary": "ロケットのIHIがなぜ今､宇宙データ事業に賭けるのか 衛星コンステレーションが変えつつある日本の安全保障の現実 東洋経済オンライン",
+      "source": "東洋経済オンライン",
+      "feed_name": "重工・防衛 Google News",
+      "category": "intl",
+      "importance": "high",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "fba59bf3e5cea1bd",
+      "title": "日経平均は３６０円高、採用銘柄の値上がり率上位はイビデン、ＮＥＣ、デンカなど(ウエルスアドバイザー) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONzRMOVliS1A1U2hyTHY4bGZjN2R5UXlEVXJjVm9WTUlFcVgwYjF6RVBscE5WOVBpQ0N5MUVzbWpOeDdZamRFc3JkcUQyb0FGdDdOTWlZTlhiLWZzX3htYTk4NkQ0Y3Z6YURmbGh5TEdBbjlYWTJXeHM4YzV5LWE0MDBnbVY4YWs?oc=5",
+      "summary": "日経平均は３６０円高、採用銘柄の値上がり率上位はイビデン、ＮＥＣ、デンカなど(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "source": "Yahoo!ファイナンス",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-04-24T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "c7621d8eb509a2cf",
@@ -1676,7 +1580,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-04-22T18:59:58+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "65d99cfbfeb49c73",
@@ -1688,19 +1592,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-04-22T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "0258cb0016384cc3",
-      "title": "三菱重工、NEC、日立が一致団結…総額2兆円の護衛艦ビジネスで日本が韓国とドイツに競り勝った「意外な理由」 - 現代ビジネス",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Sjh4OWtBMUhvRzVnMjJqcUNCOGszdGhTWTh6S2lUcWZRaE0xQml0RXR2aTJEMjJmT0VDRVU2TVppbUlrQTNlaDg1aXdxc1U?oc=5",
-      "summary": "三菱重工、NEC、日立が一致団結…総額2兆円の護衛艦ビジネスで日本が韓国とドイツに競り勝った「意外な理由」 現代ビジネス",
-      "source": "現代ビジネス",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-04-22T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "a9a10378dc958541",
@@ -1712,7 +1604,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-04-22T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "a7942470968d4d3e",
@@ -1724,19 +1616,19 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-04-21T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
-      "id": "91041f90474d83d6",
-      "title": "川崎重工 航空・防衛に次ぐ柱は【トップを直撃】 - テレ東BIZ",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BQ0JHMFh0OTVZa3JiTjR6Vm5oeGIxb2JEa3JqNHZqTHhDSVF0dzhhWGpBX0x3djRuakxqbHhyTVR2cXhITjkzMk16dW1ZZVRFa1NtUFJ2UTlCZVkxVGRrak9R?oc=5",
-      "summary": "川崎重工 航空・防衛に次ぐ柱は【トップを直撃】 テレ東BIZ",
-      "source": "テレ東BIZ",
+      "id": "dc5ae7dd5746fa40",
+      "title": "トップレベルの高専生向けにセキュリティ技術を学ぶ演習を実施 - NEC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByTUMxNmNHU3U3V0Q1Z2ZqUk9zRE9nRm1ycFp2eWNIdWF3anI1TW9kZGowcVN4RTNXT2JBNmdnUm5BaWNSNG10STQ4X0VDdTREV1dRZmlJQTR6S1diWFJJRXRzMVMxajNS?oc=5",
+      "summary": "トップレベルの高専生向けにセキュリティ技術を学ぶ演習を実施 NEC",
+      "source": "NEC",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
-      "published_at": "2026-04-20T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "published_at": "2026-04-21T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "ed7f552caeab9ad0",
@@ -1748,7 +1640,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-04-20T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "c498d296a7ec29f7",
@@ -1760,7 +1652,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-18T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "3f5fe2031ddbaa68",
@@ -1772,31 +1664,31 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-18T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
-      "id": "902a8b65a240a609",
-      "title": "時代や環境の変化に的確に対応し、最適なサプライチェーンを築きたい。 | 三菱重工業株式会社 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0a3lBV3N0RGtHX0gxV2xuRmlSNFhZeVNKaEpXek1GaDVaWDhxaUtWbDlJemU1MkZPNTFIX2xtYmkweS1mc2ZYZ2ZmZ3hWVWZpNk8tdmtpMjFTdU9ONG5mUmIxaW1PUQ?oc=5",
-      "summary": "時代や環境の変化に的確に対応し、最適なサプライチェーンを築きたい。 | 三菱重工業株式会社 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-04-17T16:45:17+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
-    },
-    {
-      "id": "fc3f01e06cf4e4eb",
-      "title": "海外で展開するGTCC事業。｢水素社会｣の実現によって、環境問題解決の一翼を担いたい。 | 三菱重工業株式会社 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zZ1NPcC1XVURwOGZwTHZpV3JsZm9qeThtMkdHVGNydDEyM0dVR3RzVGw0a0FvV2lsTjJsMkNRZ2tFTlJWVkNraXRfckx1YkNrdEpyUXBVaTNoMEFNNjFFalU0cnQtZw?oc=5",
-      "summary": "海外で展開するGTCC事業。｢水素社会｣の実現によって、環境問題解決の一翼を担いたい。 | 三菱重工業株式会社 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
+      "id": "e522f7b2507588ec",
+      "title": "NEC、豪フリゲート艦防衛装備品供給で契約 - 電波タイムズ",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XdVFMWkpjOVotVllUbmQ4cEpqbnJ0SklvT0FqdnUtLVZwak00VmVyU3B1QnYtbjg3TExENEdQdlFjaVdUR3RtXy1aaXlIRDF4RWVYbmdzVm4xQXJRd2FaWHNrRnZVUQ?oc=5",
+      "summary": "NEC、豪フリゲート艦防衛装備品供給で契約 電波タイムズ",
+      "source": "電波タイムズ",
+      "feed_name": "重工・防衛 Google News",
+      "category": "intl",
       "importance": "high",
-      "published_at": "2026-04-17T16:36:56+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "published_at": "2026-04-18T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "27ff2f5e45d66b43",
+      "title": "防衛を担う新規誘導弾の開発。常に新たな技術に挑戦し吸収する、エンジニアであり続けたい。 | 三菱重工業株式会社 - Mitsubishi Heavy Industries, Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94QWpwcnhwWXRwLW1YT3hoaVl5a29WTC1sY1g0VUlPVFgwVGxWN2dFdGk3Qi1adUlKdUVpWkNrSm15YzJhcGRKMTVrVGQ2MDFuR2M2NXNULWxUQkk5QVNtbE1RdzYzUQ?oc=5",
+      "summary": "防衛を担う新規誘導弾の開発。常に新たな技術に挑戦し吸収する、エンジニアであり続けたい。 | 三菱重工業株式会社 Mitsubishi Heavy Industries, Ltd.",
+      "source": "Mitsubishi Heavy Industries, Ltd.",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-04-17T18:41:57+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "ecb2df5d931f4556",
@@ -1804,11 +1696,11 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hZGsxQWd3TFY2cXA3UjJVWktENWJwR1dpTklSdTA1b3JmYmg4Z0gzY0pfckdvWkRuR3NmaWk1SEZ3Wnpjd09GYXhsSGU4R0QySGJTaXZmRUYyMnFSTUVVaXNjVWlfUQ?oc=5",
       "summary": "国際共同開発の推進から開発・生産能力の強化まで、日本を守る三菱重工グループの技術とは。 Mitsubishi Heavy Industries, Ltd.",
       "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
       "importance": "high",
       "published_at": "2026-04-17T16:20:17+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "614a3e599ee6f26e",
@@ -1816,11 +1708,11 @@
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PYmUyT2x3emhQeUhMQXc0VUJ3blcyeFdYRlVCbm1DNklSX2I2NUVFYUVFN3RqaGUyWDlRQTBrNmZQdnFqUGRPazBkX2RwcTZza0hrQmJUT1hoZlJEeGdibWxUdDVadw?oc=5",
       "summary": "日英伊による次期戦闘機の共同開発。3ヵ国ステークホルダーの合意形成を図り、国の安全保障に貢献するやりがい。 Mitsubishi Heavy Industries, Ltd.",
       "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
       "importance": "high",
       "published_at": "2026-04-17T16:02:12+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "8306b5d0e5056ff2",
@@ -1832,43 +1724,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-04-17T15:55:17+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "ba79861cd7b8afad",
-      "title": "カーボンニュートラル社会の実現と、将来にわたるエネルギー安定供給に向けて、さらなる安全性を備えた革新軽水炉が動き出す。 | 三菱重工業株式会社 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DWnhMVklaZ2hOeGFqcmlKTjIwNzlWVkpkQ0FEa1dZNnRFX2Nmd3dWUU5kUDNLdzNwX044SXJENUNxMmZfUWNocUZrZC1wcjhHUWdvOUYtNk5FbVAxRlNQYURwRmItZw?oc=5",
-      "summary": "カーボンニュートラル社会の実現と、将来にわたるエネルギー安定供給に向けて、さらなる安全性を備えた革新軽水炉が動き出す。 | 三菱重工業株式会社 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-04-17T15:22:13+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
-    },
-    {
-      "id": "1b66d85e07e97089",
-      "title": "｢標準システム｣導入で｢データドリブン｣へ。DX改革・推進を進める中で、自分の核となる技術を磨く。 | 三菱重工業株式会社 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhN1hfTkdwZnJ6YU9fd1RzS3lveDNvczRRWDJMMXVaemlTakVwZnR1VkVxcmtVVjM4cjk2N2gxSDZ1Q3htWHc2ejgzdWZudkNRdVhwSmFJa3hLNktja3B5WVVPQzRiZw?oc=5",
-      "summary": "｢標準システム｣導入で｢データドリブン｣へ。DX改革・推進を進める中で、自分の核となる技術を磨く。 | 三菱重工業株式会社 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-04-17T15:21:57+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
-    },
-    {
-      "id": "866a41ce00853408",
-      "title": "ロケットから宇宙輸送サービス事業へ、技術だけではない三菱重工の強みがここにある。 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zZ0h2ekk3Q1dubzlmM092d3NZczA4R3drMGdEbHF4RUZvYW5Zb2FKaGt2cVRQVmZNZzdNSm5kdFctRmNLazJqMTBVNnVjYkNtc0F4R09mcllKcTJXVjRZd094M0JsQQ?oc=5",
-      "summary": "ロケットから宇宙輸送サービス事業へ、技術だけではない三菱重工の強みがここにある。 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-04-17T14:09:58+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "bd2bca12fa731b21",
@@ -1880,43 +1736,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-04-17T13:57:51+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
-      "id": "19cbc125777b6e55",
-      "title": "M&A、紛争対応から米国留学まで。 多様な経験から得た知見を生かし、 三菱重工のプロジェクトを推進する。 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95ZUhnREh3MndqaVR1c2dnc2Vjb1J2b0hEUGhabmNJRW1GZENkWU9IdEQ3M2cyNEpwbkdERC1OMTNCVlJ6dnc1UU44XzZuaG8tSEtiQlM0Wm9oLU94Qlg1d2s5emtvQQ?oc=5",
-      "summary": "M&A、紛争対応から米国留学まで。 多様な経験から得た知見を生かし、 三菱重工のプロジェクトを推進する。 Mitsubishi Heavy Industries, Ltd.",
+      "id": "682381258a7c10e9",
+      "title": "経済の発達とともに拡大する自動車用冷凍ユニットの市場。設計と営業の二人三脚が新たなグローバルビジネスを創り出していく。 - Mitsubishi Heavy Industries, Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrMGZqVFZTdUpPTU9FT3A3VGxYSGJvejZUN3NhR19fVnhNUDFBdC1Zc1l6dC1WX3hGTDlGYWEyVWxPa1hDVzc5T3VVSXFYbGhmdXc5aXJMbEhhQVd5WGVWSGhRVGlDUQ?oc=5",
+      "summary": "経済の発達とともに拡大する自動車用冷凍ユニットの市場。設計と営業の二人三脚が新たなグローバルビジネスを創り出していく。 Mitsubishi Heavy Industries, Ltd.",
       "source": "Mitsubishi Heavy Industries, Ltd.",
       "feed_name": "採用・インターン Google News",
       "category": "jobs",
       "importance": "med",
-      "published_at": "2026-04-17T13:00:37+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
-    },
-    {
-      "id": "be01e3aebf0e4644",
-      "title": "発電設備の事業計画をお客様と一緒に ゼロから作り上げていく | 三菱重工業株式会社 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FdVQ3NmFFR2FOTW82SFpIZXVJb0ltcmlKbkxjaUNUMHRka1NvVmJGaHJGbkpndjZjNmZhNGVQZERTV3l2UkZma3g2aktMa1ZvY1FwMlM0WVR0dUw1ZHhDbDU2aEVzQQ?oc=5",
-      "summary": "発電設備の事業計画をお客様と一緒に ゼロから作り上げていく | 三菱重工業株式会社 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-04-17T12:31:56+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
-    },
-    {
-      "id": "3335fa1e2725be8c",
-      "title": "広島製作所 ｜ 三菱重工 - Mitsubishi Heavy Industries, Ltd.",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yVGQ0SGotM0hxMjktUFJ6Z3BmVjhpRVkwcnBYRWFKYzZhWkJQZ0dESUhWUWVQNEhySXdRc0ZhbVRVOWxRYmE5ZldENk96THkwdkhMTGhWVEVlZEJZcmdwUjllX3N3dw?oc=5",
-      "summary": "広島製作所 ｜ 三菱重工 Mitsubishi Heavy Industries, Ltd.",
-      "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-04-17T09:19:22+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "published_at": "2026-04-17T11:48:14+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "f49a6beecabe2fc7",
@@ -1928,19 +1760,19 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-04-17T09:19:06+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
-      "id": "fd4c4783eab8f4e1",
-      "title": "三菱重工、「もがみ」能力向上型の新型FFM3隻を受注 契約額1286億円 その詳しい内容が判明（高橋浩祐） - エキスパート - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTdBNjZZZUVMWG1GS0ZLQVl6aFlNdXhYT3Mtbjdxa2NQdzFaMHZhOUdDMEEwQU1iVFVBaVN0RnFqbllVVEhEVWtVVk5KN3ozNmpwaV9GeGlTeHc5ZmpuOWt1UU5RdktmNERhQVZEOTVXT0JZTXpZSmNHYUlHcnlLc0VYdTU5NDRn?oc=5",
-      "summary": "三菱重工、「もがみ」能力向上型の新型FFM3隻を受注 契約額1286億円 その詳しい内容が判明（高橋浩祐） - エキスパート Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-04-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "id": "201861c273bafacd",
+      "title": "社員と仕事／技能五輪（構造物鉄工） ｜ 三菱重工 - Mitsubishi Heavy Industries, Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GaHFQcWktcmptWEpoZ1hCa20wMU54MFRIMlIxVVZvYUZncTVxREQ3a1dOTHZhN2gxSF9CMEhBZFNtN2tZQnozb1p2TURBTVlHZEEzMGlwUUlEdE1OcU5XSHJzQzBPdnBMcEhqUnNEUUdzUWVoN1RQbUk0VHQ5cnM?oc=5",
+      "summary": "社員と仕事／技能五輪（構造物鉄工） ｜ 三菱重工 Mitsubishi Heavy Industries, Ltd.",
+      "source": "Mitsubishi Heavy Industries, Ltd.",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-04-17T08:53:15+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "714608962128319a",
@@ -1952,7 +1784,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "60450c2dd57e062a",
@@ -1964,7 +1796,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "3e5c9570e34cb39e",
@@ -1976,7 +1808,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-04-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "97996a8026284dc6",
@@ -1988,7 +1820,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "bf3c188a9d390a4c",
@@ -2000,7 +1832,19 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-04-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "fd4c4783eab8f4e1",
+      "title": "三菱重工、「もがみ」能力向上型の新型FFM3隻を受注 契約額1286億円 その詳しい内容が判明（高橋浩祐） - エキスパート - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTdBNjZZZUVMWG1GS0ZLQVl6aFlNdXhYT3Mtbjdxa2NQdzFaMHZhOUdDMEEwQU1iVFVBaVN0RnFqbllVVEhEVWtVVk5KN3ozNmpwaV9GeGlTeHc5ZmpuOWt1UU5RdktmNERhQVZEOTVXT0JZTXpZSmNHYUlHcnlLc0VYdTU5NDRn?oc=5",
+      "summary": "三菱重工、「もがみ」能力向上型の新型FFM3隻を受注 契約額1286億円 その詳しい内容が判明（高橋浩祐） - エキスパート Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-04-17T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "cb5936f09b37b5a8",
@@ -2012,7 +1856,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-04-17T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:37+00:00"
     },
     {
       "id": "7f288076f294d344",
@@ -2020,11 +1864,11 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ySlQ3TDhfc2xnMG9JQk90ODVaWmVrbFh1WWJIOGFKRUhwdGFGMmhqRWRJR2tKbkZZYXpGY3ZkTDhtTElQWnBkTVFtMFBBTUZ0UDBUTWRxdGZ0NlIwSjd0YXBDcUk4YjJ0ZzF2SA?oc=5",
       "summary": "【未来】三菱重工が目指す姿 Mitsubishi Heavy Industries, Ltd.",
       "source": "Mitsubishi Heavy Industries, Ltd.",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
       "published_at": "2026-04-17T05:54:11+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "cd93d319e1bb6f72",
@@ -2036,7 +1880,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-04-17T05:54:11+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "c41dee670d41a638",
@@ -2048,7 +1892,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-04-16T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "00c5fa422c29089d",
@@ -2056,11 +1900,11 @@
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vY3ZHcnNBUzlmbm13ZEZ5bHFCbnVKWHRZbTB1WGNxQ21KOHJyNEFtT3BrM05wR0IzMWl5QURHUnU1QQ?oc=5",
       "summary": "三菱重工、全自動無人運転車両システム更新…米空港で受注 ニュースイッチ by 日刊工業新聞社",
       "source": "ニュースイッチ by 日刊工業新聞社",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
       "importance": "high",
       "published_at": "2026-04-13T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:10+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "25cde4f0b9b97fa1",
@@ -2072,7 +1916,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-04-11T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "737f7e21ed7ac2a6",
@@ -2084,7 +1928,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-04-10T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "2a391045cf378322",
@@ -2096,7 +1940,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-04-09T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "853fe5293c47da74",
@@ -2108,7 +1952,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-07T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "f8f40390df36ae30",
@@ -2120,7 +1964,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-07T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "2dbdca52a4bd84c6",
@@ -2132,7 +1976,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-04-04T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "70a6c3bb79074482",
@@ -2144,7 +1988,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-04-03T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
     },
     {
       "id": "9495fe956ad6154e",
@@ -2156,19 +2000,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-04-02T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
-    },
-    {
-      "id": "f090d18074a93739",
-      "title": "ビジネスデザイン統括本部エンパワードビジネス推進本部 / 主任T.A｜採用情報 - nesic.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOUg1TkRxNWdXVGlJcG93YUJSaVZkOEJ3VGozYUZNZl9MX0FVQ0pncmd6ZzU0WGFvblIyV0lVc0ZRakc4Nktid3oyY1ZQRllOajdSZnJDcW9pTUJTNm4zTk50Z2wxdGt0b0toT0NOcVVqcEFxdjlrRnc5RVBxNjlaTXBWRFQ5ZXB2VVY1eGxQMA?oc=5",
-      "summary": "ビジネスデザイン統括本部エンパワードビジネス推進本部 / 主任T.A｜採用情報 nesic.co.jp",
-      "source": "nesic.co.jp",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-04-02T06:28:09+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "5632f5c194364210",
@@ -2180,7 +2012,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-04-02T06:25:59+00:00",
-      "fetched_at": "2026-06-16T18:19:12+00:00"
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     },
     {
       "id": "f99aeae9e92ca96b",
@@ -2192,7 +2024,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-04-01T07:00:00+00:00",
-      "fetched_at": "2026-06-16T18:19:07+00:00"
+      "fetched_at": "2026-06-17T00:03:34+00:00"
     },
     {
       "id": "dd454a969ee133ad",
@@ -2204,7 +2036,175 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-04-01T04:24:57+00:00",
-      "fetched_at": "2026-06-16T18:19:09+00:00"
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "55bbec64b70bb653",
+      "title": "日揮HD、パプアニューギニアでLNGプラント建設の優先契約交渉権 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RTmtUWEItNlRCNkhRWVRnN045U1ZjWUtNVDdOenBCWXNGdExnZ1g1ZkRldHlVcEdHVFVSX1FMMl9nMlRLTHdGZE5GLTZITHBaVV9hVDU3eW03VWo5UDNEYzJiSjdvdWc2eXBwSw?oc=5",
+      "summary": "日揮HD、パプアニューギニアでLNGプラント建設の優先契約交渉権 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-03-31T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "c39d5f087489712c",
+      "title": "半導体事業者向け統合セキュリティパッケージを提供開始 - NEC",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSSFBxVENVcmVubDhWdzl6RkNkWEh2NjI4bEc3TGp4bWJkdGxfcWItTmc3akZjcDYtU3c4bDJ4UE00LXZzbndlel9ncXFPZ1EyWnQ3eFdlMGJ2T1NiWXJQQkxRa3dlUmMz?oc=5",
+      "summary": "半導体事業者向け統合セキュリティパッケージを提供開始 NEC",
+      "source": "NEC",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-03-30T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "6841435a5af2b8ab",
+      "title": "三菱商事とエア･ウォーター､LNGトラックの運用実験を終了 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12aHEzWi1INVQxOVlidGtHXzh1Z1hKOUUtTHBKQUh5eS1PNVlCcVNCY1cwa2MyR3NadldpMl9QU3VFUC1PSk5CRkg1bGZ3SzhndFZQMFNONk45b3dFdzhKYzI3bTJTX0FYS2MxMw?oc=5",
+      "summary": "三菱商事とエア･ウォーター､LNGトラックの運用実験を終了 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-03-30T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "d53c65ffdc448751",
+      "title": "【独自】三菱商事がLNG専門の投資ファンドに追加出資へ／｢非中東｣に狙いを定める／投資額は数百億円規模で調整中 - 東洋経済オンライン",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tLTRWWGRKcGpQRVJWSU5mdklMaDB3YVltLU9KWmpwekYzbzdaQ1dmQXN2R3NTdFY4VGV4bUZFdEdVa2pScTlENndYUGRMRjBpZnc?oc=5",
+      "summary": "【独自】三菱商事がLNG専門の投資ファンドに追加出資へ／｢非中東｣に狙いを定める／投資額は数百億円規模で調整中 東洋経済オンライン",
+      "source": "東洋経済オンライン",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-03-27T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "c7c410b561464423",
+      "title": "IHI、企業成長を加速する「変革人材」の採用・育成に注力 - 日経BP",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1BIR0pCODRZOC1ScUtUTlhHSm5mUklOdUVYRS1aTFFSWXZXMWFhUzhiS1I1S1NPVm82aWtRazFJSFJ0eFlnaF92Z241aEd0YlV2Vl9iV05NQXJscWl1bWhEeS1tbFdEVG1xZFIxVk53VXlOSGFsNXY0OXBMMHpCNUNB?oc=5",
+      "summary": "IHI、企業成長を加速する「変革人材」の採用・育成に注力 日経BP",
+      "source": "日経BP",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-03-27T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
+    },
+    {
+      "id": "d2b5ca5e6f9e952b",
+      "title": "MHI-AP、シンガポールの廃棄物焼却発電施設のボイラー改造工事を受注 | 三菱重工 - Mitsubishi Heavy Industries, Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzQ2dGbUNFN2pWcTlzN0U4Rk9iVkNVQnRvSGxJUUY2VzZ1eU11NUc2SFR0ZHZNSHdVX3Ayc0xOVjRPYm5kM2VHNlIyOWphZFRZ?oc=5",
+      "summary": "MHI-AP、シンガポールの廃棄物焼却発電施設のボイラー改造工事を受注 | 三菱重工 Mitsubishi Heavy Industries, Ltd.",
+      "source": "Mitsubishi Heavy Industries, Ltd.",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "00fc0bd499c9925d",
+      "title": "三菱重工、川崎重工だけじゃない…日本の防衛産業の「知られざる実力」、日本3社で「世界シェア5割超」の分野も - 現代ビジネス",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TZmc5ZFppTFZWYkEzOUF3OTN6RnNpTDh0NUVSZ3FCQ0FITi0xWXlrNWxRUUxMX01KbWYzZERXZUdpaFlzdzZQek9zaVJ3dzQ?oc=5",
+      "summary": "三菱重工、川崎重工だけじゃない…日本の防衛産業の「知られざる実力」、日本3社で「世界シェア5割超」の分野も 現代ビジネス",
+      "source": "現代ビジネス",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "45eb0b6623a2b36f",
+      "title": "NECグループの血液検査サービス「フォーネスビジュアス」がシンガポールで富裕層向けサービスを提供する医療機関Royal Healthcareに採用 | 日本電気株式会社のプレスリリース - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HZzFDaU9qbjlLZkg0TjI3VkU3WmVkS2lwZC1PRnZrM1ROdUpMWVpGQWNtbWJCVGc4Tlp4SG91dVR1LTQyTVNsN3RGYW1TdWFEZ3E0UUl3SkkwdUE0X1F1N29QM0QzNWlxeXc?oc=5",
+      "summary": "NECグループの血液検査サービス「フォーネスビジュアス」がシンガポールで富裕層向けサービスを提供する医療機関Royal Healthcareに採用 | 日本電気株式会社のプレスリリース PR TIMES",
+      "source": "PR TIMES",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
+    },
+    {
+      "id": "10f096b1961601ff",
+      "title": "クボタ「4割減」、三菱電機は「2割減」 新卒採用は今後減っていくのか？（1/2 ページ） - ITmedia",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oS1ZTYU9ZN0FmRFVCMDhkbWZiWGVhbFpPNUdwUXdCT0NhTWZEUVdfTVdQZVlPMzBIcmh3WDlva0dYbnhDM0s3cmVMVmkxRmY4Y1BXaEhuWkd4LXhGQ19lT3RlQ2FNUmVXbW5ORHZWblhfQQ?oc=5",
+      "summary": "クボタ「4割減」、三菱電機は「2割減」 新卒採用は今後減っていくのか？（1/2 ページ） ITmedia",
+      "source": "ITmedia",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-03-26T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
+    },
+    {
+      "id": "1f3fc72ae47cf29a",
+      "title": "日本の宇宙産業を高みへと打ち上げる三菱電機の「湘南スペースパーク構想」｜三菱電機 Biz Timeline - mitsubishielectric.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzdEbVdzQ3ZiZW94OGg0N29qQlpOcHFBN0xtYk82dUI2a29wQVZYQmY2emEySkhxbmhlVkpIclFTbktqQmd2VC13VlExNlZCaGpRdm5WeUxkZXN6ZkhxaGt6X1o3WjB6QXExbzJVdGRiVUZDNnZXQ24wU0tOaFFZTXJKZHFQWld6bWdFZHM2dzVydEJRZVE?oc=5",
+      "summary": "日本の宇宙産業を高みへと打ち上げる三菱電機の「湘南スペースパーク構想」｜三菱電機 Biz Timeline mitsubishielectric.co.jp",
+      "source": "mitsubishielectric.co.jp",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-03-26T01:59:26+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "27edfa304c0906ab",
+      "title": "NEC、グループ社員向けCTF形式のセキュリティコンテストを開催 - PR TIMES",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IOHM1NE9uOVRUR0tBN291U1BNOGlMOW50RnFoa0lreVpybFBvaTNqTnNqMXlLcjUtY253ckIyU0FzUVRPYi1VeXNaeXo4VVBUUDhaZFlNaThXTVJBZVhvTkFMbjhtTllwU1E?oc=5",
+      "summary": "NEC、グループ社員向けCTF形式のセキュリティコンテストを開催 PR TIMES",
+      "source": "PR TIMES",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-03-25T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "2295472b711f23b5",
+      "title": "川崎重工、千葉市のゴミ処理場刷新事業を受注 643億円 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SSThHZWNvOFRJYlh5ekF3VVJmcTVWUkxRNENPel81dkxsTzZkVVZUNTdwTGwtTk43ZTc4THVIWXZzWWVGMVJnQS0wWVh4eVNlajVrYUFSMVo1Uk0tRlRyWXlnU3dUT1F0bnJ1Sw?oc=5",
+      "summary": "川崎重工、千葉市のゴミ処理場刷新事業を受注 643億円 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-03-25T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:34+00:00"
+    },
+    {
+      "id": "f4a23d417a7a6769",
+      "title": "INPEX、オーストラリアで油ガス田取得 既設LNG事業とも連携 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTjVaTlNPUVR5ZG1XcXVpNmpIQkZkSlVTNzAweVg4U3poLXIySFR2Y0xYMEFpa3B4S2xHa2tTUjFoWnU3LWJnTC1DZ0VDbTZUWDRlbFNkODZZRnNzRWdoRFdtZGVyNHl4aWl4Xw?oc=5",
+      "summary": "INPEX、オーストラリアで油ガス田取得 既設LNG事業とも連携 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-03-25T07:00:00+00:00",
+      "fetched_at": "2026-06-17T00:03:36+00:00"
+    },
+    {
+      "id": "81453d2fc0096dd8",
+      "title": "#04 E.I.／2023年入社 | INTERVIEW - nec-solutioninnovators.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jV3VuQmdSNHN0cUZVYm13b0F2cXZtMHAtYUQxV1JfMms1Y2dWSVB5YTZiWDVwZDU4clhSejhSaGE5ZUdnNElVMUJOMVFmMnh5dVBCZlRYUWQtQVZCbGNoMmRPUjgzd0FRVmpGZEpZdE5Ydw?oc=5",
+      "summary": "#04 E.I.／2023年入社 | INTERVIEW nec-solutioninnovators.co.jp",
+      "source": "nec-solutioninnovators.co.jp",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-03-25T06:00:03+00:00",
+      "fetched_at": "2026-06-17T00:03:39+00:00"
     }
   ]
 }
