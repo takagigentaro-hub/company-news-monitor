@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:57:00+00:00",
+  "generated_at": "2026-07-27T22:57:02+00:00",
   "item_count": 180,
   "feeds": [
     {
@@ -56,7 +56,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-07-27T21:09:08+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "de644b74e2855348",
@@ -68,7 +68,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-07-27T19:59:42+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "524418d299b4bc55",
@@ -80,7 +80,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-26T22:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "8a15c5cf0de5d69d",
@@ -92,7 +92,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-26T20:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "76779d6232045b91",
@@ -104,7 +104,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-25T20:30:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "8ab55e0c7f61d303",
@@ -116,7 +116,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-25T05:30:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "1913e2a7ff34194c",
@@ -128,7 +128,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-23T05:59:29+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
+    },
+    {
+      "id": "e4c6e29ba3db2fbb",
+      "title": "アンモニアで切り拓く脱炭素への道 ──信頼と共創で築く、国内初・低炭素アンモニアバリューチェーン【前編】 - jera.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByRTZKTDY5Q2xRZ01iV0JuWmNyNVRCS3BSZ1pnT3QyRmdrZGQxcnl1WnJhczF5NDJDTDJkQ3IwOG9IVm1XZzk1X21LbEdFX0JzbExwVQ?oc=5",
+      "summary": "アンモニアで切り拓く脱炭素への道 ──信頼と共創で築く、国内初・低炭素アンモニアバリューチェーン【前編】 jera.co.jp",
+      "source": "jera.co.jp",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-07-23T05:03:27+00:00",
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "6aaded769df2240d",
@@ -140,7 +152,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-23T00:29:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "9e59aa829ef9f74d",
@@ -152,7 +164,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-22T20:15:43+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "2c281971681162f2",
@@ -164,7 +176,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-22T13:40:18+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "5d903d033928aa1f",
@@ -176,7 +188,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-21T02:05:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "bb5e08f480f4408f",
@@ -188,7 +200,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-07-21T01:59:38+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "2de9b42cc092f892",
@@ -200,7 +212,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-21T01:14:22+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "49178845b7c9df57",
@@ -212,7 +224,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-20T21:03:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "82e9591cdbe51399",
@@ -224,7 +236,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-20T00:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "dcb569f5067f7b02",
@@ -236,7 +248,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-19T17:13:13+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "4fe8445a30b21723",
@@ -248,7 +260,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "a8ec495248fc4c68",
@@ -260,7 +272,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-07-17T19:35:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "35a6a702fc70300b",
@@ -272,7 +284,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "cf4a56af0e542edf",
@@ -284,7 +296,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "c86b633cf87626b9",
@@ -296,7 +308,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "f316d3817e339961",
@@ -308,7 +320,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "0eb521352e32635b",
@@ -320,7 +332,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-16T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "84e31b4176943d5f",
@@ -332,7 +344,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-15T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "b3a97f488b6d6250",
@@ -344,7 +356,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-14T20:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "405c48fd5281a9c1",
@@ -356,7 +368,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "c1fc8e9bf1525993",
@@ -368,7 +380,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-13T20:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "db7e2de39ecd36ae",
@@ -380,7 +392,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "d2d7bed1db481539",
@@ -392,7 +404,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "aacfd244b8c3fe48",
@@ -404,7 +416,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "27bbfef49e1b375d",
@@ -416,7 +428,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-11T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "e175f6581566584c",
@@ -428,7 +440,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-10T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "da2aad04e7f1d6ae",
@@ -440,7 +452,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-09T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "a028e994c7ebb051",
@@ -452,7 +464,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-08T19:59:15+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "69279cde0443600e",
@@ -464,7 +476,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-07T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "a0e5bbf0b3698a70",
@@ -476,7 +488,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-06T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "4c9e24bf1405a2ef",
@@ -488,7 +500,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-06T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "a6b38e7f736f2c1b",
@@ -500,7 +512,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-06T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "3117c7548fdf7723",
@@ -512,7 +524,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "f15789d46308cfae",
@@ -524,7 +536,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "3e6b0fe1cb587c71",
@@ -536,7 +548,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "2745c9e46bab5b7c",
@@ -548,7 +560,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "d06e341966f63adf",
@@ -560,7 +572,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-02T12:34:13+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "48fc3394b604c461",
@@ -572,7 +584,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "8039b7364128411a",
@@ -584,7 +596,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "7555837407982326",
@@ -596,7 +608,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "f43ecfe4fb95a7b8",
@@ -608,7 +620,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "4b3b537bd62f565d",
@@ -620,7 +632,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "edd69fab7913ae15",
@@ -632,7 +644,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "0abb3fed24e164e1",
@@ -644,7 +656,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-30T09:34:48+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "99ef8bf584150cfd",
@@ -656,7 +668,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-30T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "1d1d407d2d0a84b2",
@@ -668,7 +680,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-30T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "e083fb72c1f70422",
@@ -680,7 +692,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-30T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "49b679f6baefcb04",
@@ -692,7 +704,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "5ca42d1caddfe536",
@@ -704,7 +716,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "30c7430676f5c20b",
@@ -716,7 +728,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "95137aa2ee10e579",
@@ -728,7 +740,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "ef11f41fd084dac3",
@@ -740,7 +752,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "2b97fc52fe99c53a",
@@ -752,7 +764,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-26T09:06:08+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "2296eca028803bad",
@@ -764,7 +776,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "9fbab01b4fde38ba",
@@ -776,7 +788,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "c223c210871ade45",
@@ -788,7 +800,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "2b6ca8a5f669acf2",
@@ -800,7 +812,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-25T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "214465ddcf96e7bb",
@@ -812,7 +824,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-24T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "1765446a7eac3d60",
@@ -824,7 +836,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-24T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "d837c61b550e84ac",
@@ -836,7 +848,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-22T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "97eda60ae7be71b1",
@@ -848,7 +860,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-21T17:36:34+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "5c80be88196a6c6e",
@@ -860,7 +872,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-21T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "f1d77c08d2ba31f6",
@@ -872,7 +884,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-19T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "6139424027f270a2",
@@ -884,7 +896,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-19T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "a546bc2c61dcce3a",
@@ -896,7 +908,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "7af8abe31e4fad2a",
@@ -908,7 +920,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "8e92019853c19616",
@@ -920,7 +932,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "5cec859d1356eed7",
@@ -932,7 +944,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "945c347322b2da90",
@@ -944,7 +956,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "884d9cd199e90866",
@@ -956,7 +968,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "b18f51da057e0640",
@@ -968,7 +980,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "d8983afffdf1b36b",
@@ -980,7 +992,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-18T03:14:51+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "17cc7ff77d20e834",
@@ -992,7 +1004,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-17T11:59:21+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "53c18a58df602db0",
@@ -1004,7 +1016,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "f39524989bc44679",
@@ -1016,7 +1028,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "fc0b71e6596a2c99",
@@ -1028,7 +1040,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "f28c0b414d8d4041",
@@ -1040,7 +1052,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "b8df58e738b799b7",
@@ -1052,7 +1064,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "b702acf20683d1f4",
@@ -1064,7 +1076,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "18a575d77599aafb",
@@ -1076,7 +1088,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "feafc129abd9b432",
@@ -1088,7 +1100,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-17T02:40:22+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "8400c6536a4902e8",
@@ -1100,7 +1112,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-16T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "65c1d37d390dfc49",
@@ -1112,7 +1124,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-16T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "6edc585268f55426",
@@ -1124,7 +1136,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-15T18:51:30+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "3481bd0cd06ea086",
@@ -1136,7 +1148,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-15T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "9eb1ea1edac2f108",
@@ -1148,7 +1160,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-15T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "42916917ddb0c021",
@@ -1160,7 +1172,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-15T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "04146fb022728d6b",
@@ -1172,7 +1184,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "4a5ef517ac30ead9",
@@ -1184,7 +1196,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "8bcdbfc5964b11ce",
@@ -1196,7 +1208,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-12T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "9b1a744b4495d71b",
@@ -1208,7 +1220,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "a60463af3f14c328",
@@ -1220,7 +1232,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "196359c3079b64ef",
@@ -1232,7 +1244,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "f029b2aa00f457e3",
@@ -1244,7 +1256,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-11T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "241bc0f45273ee0e",
@@ -1256,7 +1268,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-11T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "b0671da6a33731eb",
@@ -1268,7 +1280,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-11T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "833d347d33dd7440",
@@ -1280,7 +1292,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-11T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "6b1ebfb0dfea5ec7",
@@ -1292,7 +1304,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-11T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "9cd4ec6a076120fe",
@@ -1304,7 +1316,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T15:13:15+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "2a1c734caa9d9dee",
@@ -1316,19 +1328,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-09T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
-    },
-    {
-      "id": "aa06204e917a0d36",
-      "title": "ＩＮＰＥＸ、豪ＬＮＧ施設のスト停止求め緊急命令申し立てへ - ロイター",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lbXNZTDF6M3h1Rk1WQVh3d29nUVJZbUNsUDItdHRGNkhaNGhuZEFndC1vYnRiSFZNQ1NETEFubm9WWlhMMmhHWkJzTG0yLUJGWi04dFpVZ296UTRDeXhWZlQtTzlNSWFfRnZ2amlCRnZ2N3dENFJXTXQ5aW04QQ?oc=5",
-      "summary": "ＩＮＰＥＸ、豪ＬＮＧ施設のスト停止求め緊急命令申し立てへ ロイター",
-      "source": "ロイター",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-06-09T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "2d1b56cb75f15fac",
@@ -1340,7 +1340,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-08T21:03:18+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "9aaceb5e729730a3",
@@ -1352,7 +1352,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-08T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "c490d8e3588cebf2",
@@ -1364,7 +1364,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-08T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "eff9e3ae178db75f",
@@ -1376,7 +1376,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-07T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "70eb71bf83d20231",
@@ -1388,7 +1388,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-06T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "2c117372f336dafd",
@@ -1400,7 +1400,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-05T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "6ccc2c4d01ec0684",
@@ -1412,7 +1412,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-05T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "f28cecab9c1da9eb",
@@ -1424,7 +1424,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-04T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "1df83e559c549088",
@@ -1436,7 +1436,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-04T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "c33350e6d6158706",
@@ -1448,7 +1448,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "ff9caf230c3fbab8",
@@ -1460,7 +1460,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "68a702883c2dd536",
@@ -1472,7 +1472,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "4a2c974af6b64669",
@@ -1484,7 +1484,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "c0714e3deac77c82",
@@ -1496,7 +1496,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-03T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "7a49b019e9b05b5e",
@@ -1508,7 +1508,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "33856ec0ccd1b8e5",
@@ -1520,7 +1520,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "dadc00cd72286f0b",
@@ -1532,7 +1532,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "68db45caf941468c",
@@ -1544,7 +1544,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "715ec1f4f92966b2",
@@ -1556,7 +1556,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-02T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "ff3525a8e80696c1",
@@ -1568,7 +1568,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "ce9bafb126af7119",
@@ -1580,7 +1580,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "eb5a15bc94b6e340",
@@ -1592,7 +1592,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "fb0a74bdeaf1d1be",
@@ -1604,7 +1604,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "efbcc224a0d920fd",
@@ -1616,7 +1616,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "dc1fb3c506421e5a",
@@ -1628,7 +1628,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-01T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "a4395a6c45832734",
@@ -1640,7 +1640,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-29T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "e94e82ebc17c5843",
@@ -1652,7 +1652,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-29T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "223cf0d64064f24a",
@@ -1664,7 +1664,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-05-28T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "9c85645574d892cc",
@@ -1676,7 +1676,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-28T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "131b1277fc996d46",
@@ -1688,7 +1688,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-28T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "36a4dd5e862e8632",
@@ -1700,7 +1700,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-27T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "b72ad2449361f382",
@@ -1712,7 +1712,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-27T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "96a5cb8300c18562",
@@ -1724,7 +1724,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "8c3cf481fadac719",
@@ -1736,7 +1736,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "4bae5cab9e4ae2a1",
@@ -1748,7 +1748,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "ce72ccafbf56dadb",
@@ -1760,7 +1760,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "05ac3182422f48c0",
@@ -1772,7 +1772,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-26T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "8ec82018c2112aec",
@@ -1784,7 +1784,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-25T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "8688cee3339c2285",
@@ -1796,7 +1796,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-25T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "951ce76214f51630",
@@ -1808,7 +1808,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-25T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "0f225e4476c6b0c2",
@@ -1820,7 +1820,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-05-24T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "016d4c766a4ad67a",
@@ -1832,7 +1832,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-23T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "58a0037e1975f115",
@@ -1844,7 +1844,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-23T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "ba6db11d0650b93b",
@@ -1856,7 +1856,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "38ecef4f3f1f7b72",
@@ -1868,7 +1868,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "154a7d20df02dc50",
@@ -1880,7 +1880,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "b55e2c543df4dd9c",
@@ -1892,7 +1892,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-21T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "d54e4861da348ea0",
@@ -1904,7 +1904,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-20T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "057a50740842c24b",
@@ -1916,7 +1916,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-19T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "e3ed62a4959b3cbb",
@@ -1928,7 +1928,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-19T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "7be55d9cae4a5e0f",
@@ -1940,7 +1940,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "2b57693e7ca10225",
@@ -1952,7 +1952,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-18T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "845632f02f92c3e5",
@@ -1964,7 +1964,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-05-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "5be713cfeb961794",
@@ -1976,7 +1976,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-17T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "d721b4a27ae99e43",
@@ -1988,7 +1988,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-16T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "0af05d472487e474",
@@ -2000,7 +2000,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-16T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "6b3023d93e5e3019",
@@ -2012,7 +2012,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-15T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "e91a3065e1a94723",
@@ -2024,7 +2024,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "b5dfbef257e52770",
@@ -2036,7 +2036,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "da8d1f61c81b2100",
@@ -2048,7 +2048,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "9126af331c3a4674",
@@ -2060,7 +2060,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "fd2786029298adac",
@@ -2072,7 +2072,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "90b2ef350dff2cb6",
@@ -2084,7 +2084,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "3be862f8070d5f17",
@@ -2096,7 +2096,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "882e40482a3ab9f0",
@@ -2108,7 +2108,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "87bc935e7a3618d5",
@@ -2120,7 +2120,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     },
     {
       "id": "3e4bec3d921b8b3d",
@@ -2132,7 +2132,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "1e37b53b353b7eeb",
@@ -2144,7 +2144,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-05-14T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:58+00:00"
+      "fetched_at": "2026-07-27T22:57:00+00:00"
     },
     {
       "id": "2561ecc4cd564083",
@@ -2156,7 +2156,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "7c2bafd8db25efde",
@@ -2168,7 +2168,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "8f663d92769e4d25",
@@ -2180,7 +2180,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:53+00:00"
+      "fetched_at": "2026-07-27T22:56:55+00:00"
     },
     {
       "id": "881ad6686576d045",
@@ -2192,7 +2192,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:55+00:00"
+      "fetched_at": "2026-07-27T22:56:57+00:00"
     },
     {
       "id": "41e40e7c4034b9a8",
@@ -2204,7 +2204,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-05-13T07:00:00+00:00",
-      "fetched_at": "2026-07-27T21:56:56+00:00"
+      "fetched_at": "2026-07-27T22:56:58+00:00"
     }
   ]
 }
