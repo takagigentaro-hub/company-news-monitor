@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T21:44:18+00:00",
+  "generated_at": "2026-08-31T00:02:48+00:00",
   "item_count": 180,
   "feeds": [
     {
@@ -56,7 +56,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-30T20:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "56baf89b5ddbf563",
@@ -68,7 +68,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-30T20:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "eebb20c3ce5c8a2b",
@@ -80,7 +80,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-30T08:07:10+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "9929e92434298149",
@@ -92,7 +92,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-29T23:40:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "0ab2cbbd1ffca076",
@@ -104,7 +104,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-28T08:26:15+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "789c5fb6bbb7d112",
@@ -116,7 +116,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-28T07:06:45+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "f624df03c9e5213c",
@@ -128,7 +128,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-28T07:06:41+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "1a92555d278369c5",
@@ -140,19 +140,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-28T07:02:27+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
-    },
-    {
-      "id": "8402866f2ffb02a8",
-      "title": "ＮＥＣ【6701】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yT3ExbkM2eHoxSXJTdUZVU0FLSXlHbzhkNmVGVy12b0duX3VmQVFUYVloWENpWTVnVV85ZW91QUlMWDlveklabW1BSFk0bW5KY0E?oc=5",
-      "summary": "ＮＥＣ【6701】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
-      "feed_name": "重工・防衛 Google News",
-      "category": "stocks",
-      "importance": "high",
-      "published_at": "2026-08-28T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "abd5f1a9f4c9ab04",
@@ -164,7 +152,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-28T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "9207de4247916391",
@@ -176,7 +164,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-28T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "c5e93df95c6ab45c",
@@ -188,19 +176,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-28T06:58:02+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
-      "id": "4b179728327c86ce",
+      "id": "fbccf1115b65548e",
       "title": "(株)ＩＨＩ【7013】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6MWUya2ZRT1dVREhyWk8wWTh5WjVYUzdmU214Q1RNMGQ3VUZBUHFxS3FUWWMzLXlaWjBSSkdiVUE1cVFIcE1xWXhjU1lUdGRrOXZLYTVFUlg1QzlRX0JV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5acF9ZWWQ5N09kX0ltRHpzSC01Ri1IekNaLWVueWxDZ3F3Z1E3RUdKa2xDbkh4bVJIUUFKd3NhTzUydVpyOWVHaFdsUXRFS1VVMnB4TlBkNUs2V0dJYmpN?oc=5",
       "summary": "(株)ＩＨＩ【7013】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
       "source": "Yahoo!ファイナンス",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-28T06:52:53+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "54e1af64f730a8d7",
@@ -212,7 +200,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-28T06:14:56+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "9cde3e29f6688f6a",
@@ -224,7 +212,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-27T10:11:09+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "3fa1beecdc3fec2c",
@@ -236,7 +224,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-27T04:56:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "a47ac772a185290e",
@@ -248,7 +236,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-27T04:17:22+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "3466ee6dfc4fa816",
@@ -260,19 +248,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-27T01:00:02+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
-    },
-    {
-      "id": "87fbf331abc77609",
-      "title": "ＩＨＩの４―９月期、受注高２７％増 - 日刊工業新聞",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQMVp0Wk5TOEM0dTlKVWdZd1VMdDV3T0NqQVFoNEpHQjY4RDAyS2dxM0ZyeUFGUFhkTzVNbFZrWkpfR2ZBTXNPeEtYRFRWZUdNM0lQMFpVZy1CZW5UblpLSE1KVnNsdFdGdjBLZl9B?oc=5",
-      "summary": "ＩＨＩの４―９月期、受注高２７％増 日刊工業新聞",
-      "source": "日刊工業新聞",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-08-26T22:38:58+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "dd21fdc7414e2439",
@@ -284,7 +260,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-08-26T21:30:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "107d255620a4f886",
@@ -296,7 +272,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-26T11:38:14+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "042707ba8e747197",
@@ -308,7 +284,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-08-26T01:53:04+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "5129ac2ce0bf2efa",
@@ -320,7 +296,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-25T23:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "cd91de83376dfe29",
@@ -332,7 +308,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-25T08:00:13+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "2ec13471e4be1c23",
@@ -344,7 +320,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-25T03:06:05+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "022497eb0043ea7f",
@@ -356,7 +332,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-25T00:10:02+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "3ce9bc4e938f7793",
@@ -368,7 +344,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-24T22:21:58+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "6eb0806ce6f11fc8",
@@ -380,7 +356,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-24T21:01:05+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "cd595b139c841434",
@@ -392,7 +368,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-22T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "fcc580d4f04c954f",
@@ -404,7 +380,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-21T23:05:08+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "08d8fed05579dc71",
@@ -416,7 +392,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-21T23:05:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "43b1248558790eed",
@@ -428,7 +404,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-21T20:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "c499aab92fb6c8be",
@@ -440,7 +416,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-21T18:25:53+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "58bd04c56f82366a",
@@ -452,7 +428,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-21T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "1ec7208d9a06f334",
@@ -464,7 +440,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-21T05:34:59+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "d071db722d8359e8",
@@ -476,7 +452,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-20T18:32:32+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "084c9fb20085995b",
@@ -488,19 +464,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
-      "id": "a8c60ba109163ab4",
-      "title": "【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend - ビジネス+IT",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RWXdXM2pmRmlYUVBJNkxOVy1xNmtXcmV2T3VCQ281cG1CYTl5X0x1QkN0cmZfcFdRaF84eEtBRGNIcWZwWlFyY0ZjZDhnbXM?oc=5",
-      "summary": "【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend ビジネス+IT",
+      "id": "3b674a4aa20ffc62",
+      "title": "(4/4)【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend - ビジネス+IT",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UMGo4MDl4aWt6cktDTzZ3azVXT3RBYXJWR0JSRkZoWXlrejRheFNCQXdFTmhSaTUyVmRwdHN6akxfbXQ2amJKLWFQTXl3SXNfUzNwLVFfLTU?oc=5",
+      "summary": "(4/4)【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend ビジネス+IT",
       "source": "ビジネス+IT",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "da758e8b2255bd54",
@@ -512,7 +488,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "3de0b8bb941b0d0c",
@@ -524,7 +500,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "65842f2609d13928",
@@ -536,19 +512,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
-    },
-    {
-      "id": "715e3ebd240fd77d",
-      "title": "三菱電機が衛星搭載レーダーの米国スタートアップに出資、AMTI関連事業で協業：製造マネジメントニュース - MONOist",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5STjVlaDdsN3hEUncwaEJlVFF6Z3RkVmR4bW00Q2RlcVkwNWw1WEIxUmNXZnlYNXdlUVFIS1NseFZoU0xFektlUWZPSk9RTWd0SjVXQWJTdXJFM3lUZzVTbUtpNUdUX3lrdF8wellmcw?oc=5",
-      "summary": "三菱電機が衛星搭載レーダーの米国スタートアップに出資、AMTI関連事業で協業：製造マネジメントニュース MONOist",
-      "source": "MONOist",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-08-19T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "764248821cc7770a",
@@ -560,7 +524,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-19T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
+    },
+    {
+      "id": "715e3ebd240fd77d",
+      "title": "三菱電機が衛星搭載レーダーの米国スタートアップに出資、AMTI関連事業で協業：製造マネジメントニュース - MONOist",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5STjVlaDdsN3hEUncwaEJlVFF6Z3RkVmR4bW00Q2RlcVkwNWw1WEIxUmNXZnlYNXdlUVFIS1NseFZoU0xFektlUWZPSk9RTWd0SjVXQWJTdXJFM3lUZzVTbUtpNUdUX3lrdF8wellmcw?oc=5",
+      "summary": "三菱電機が衛星搭載レーダーの米国スタートアップに出資、AMTI関連事業で協業：製造マネジメントニュース MONOist",
+      "source": "MONOist",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "78460c698bf96d01",
@@ -572,7 +548,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "127e43899b4afaaf",
@@ -584,7 +560,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-18T00:35:23+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "f2acb577c9707b19",
@@ -596,7 +572,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "0abd245b9c205440",
@@ -608,7 +584,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "899583fcc684616b",
@@ -620,7 +596,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-13T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "f24a090cb2b48c9c",
@@ -632,7 +608,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-10T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
+    },
+    {
+      "id": "a854d3f6fba12038",
+      "title": "きょうの個別材料＞栄電子、ノリタケ、トヨカネツ、ＩＮＰＥＸなど（７日発表分）(ウエルスアドバイザー) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS002Q3hSQUpCSDZyTTNYQzVMZlNzOWpGWEJPTHlHQWNzM2tDNjFKbWgtMnRaeTFVa0pGR0h4cjlfaVQ4N2VrSnRacmZlSHNjUEdpSm9GNms1V3ZwSmJjZ0w2N1h1SzIwUmVodEozMlFJdThyZ2wwVVppXzdwSjlTQVA1VjhVMDQ?oc=5",
+      "summary": "きょうの個別材料＞栄電子、ノリタケ、トヨカネツ、ＩＮＰＥＸなど（７日発表分）(ウエルスアドバイザー) Yahoo!ファイナンス",
+      "source": "Yahoo!ファイナンス",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "c53747c4e79132d6",
@@ -644,7 +632,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-08T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "f2b2166ab7f8b2b9",
@@ -656,7 +644,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "a099fff6c08f42bc",
@@ -668,7 +656,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "1139d6344010e8ff",
@@ -680,7 +668,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "b5dfbef257e52770",
@@ -692,19 +680,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
-    },
-    {
-      "id": "41e40e7c4034b9a8",
-      "title": "(株)ＩＮＰＥＸ【1605】：決算情報 - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mZTdiQTE0QWR5R0xaSU5hbFhaR1VSZVhYV0ItZjdKbC1UUW5manV0VnRkbEx0d1g1Q3BQLXpIMm1uSllMWFBIczFISWZacFc3X1ZDLTJQWDY1Z3BRUFZXUA?oc=5",
-      "summary": "(株)ＩＮＰＥＸ【1605】：決算情報 Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "44054e8d75548a96",
@@ -716,7 +692,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
+    },
+    {
+      "id": "41e40e7c4034b9a8",
+      "title": "(株)ＩＮＰＥＸ【1605】：決算情報 - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mZTdiQTE0QWR5R0xaSU5hbFhaR1VSZVhYV0ItZjdKbC1UUW5manV0VnRkbEx0d1g1Q3BQLXpIMm1uSllMWFBIczFISWZacFc3X1ZDLTJQWDY1Z3BRUFZXUA?oc=5",
+      "summary": "(株)ＩＮＰＥＸ【1605】：決算情報 Yahoo!ファイナンス",
+      "source": "Yahoo!ファイナンス",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "a2288bdcb8cc308b",
@@ -728,7 +716,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
+    },
+    {
+      "id": "5bd75e4605398b5d",
+      "title": "【決算速報】日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地(株探ニュース) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNG1jWXdnWVFKSnlxU2Rsb1dwdDJmX3JhcW1sZ253QmxDWlhPdUhRaFZUcW9IRkowRVZOaVBIaWdESjhvRmpaRnJKVG50T1lySk4wcURUNFZpbmEyUXoxY1RfcFJsTThqMzFSMk82YkZFanN3cmRvZnF3RlVMeWpmUTVsLXVKRVk?oc=5",
+      "summary": "【決算速報】日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地(株探ニュース) Yahoo!ファイナンス",
+      "source": "Yahoo!ファイナンス",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "76f410fe22ed6d55",
@@ -740,7 +740,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "2beb4a8a94f43f1e",
@@ -752,7 +752,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "a8822a2eab739cc6",
@@ -764,7 +764,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "9f80471788bc6f61",
@@ -776,7 +776,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "708827b6315c3a18",
@@ -788,7 +788,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "53a441117e900ee3",
@@ -800,7 +800,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "4fd7f2a8c3092c1c",
@@ -812,7 +812,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "f499cc3d3cd4b13c",
@@ -824,31 +824,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
-    },
-    {
-      "id": "5bd75e4605398b5d",
-      "title": "【決算速報】日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地(株探ニュース) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNG1jWXdnWVFKSnlxU2Rsb1dwdDJmX3JhcW1sZ253QmxDWlhPdUhRaFZUcW9IRkowRVZOaVBIaWdESjhvRmpaRnJKVG50T1lySk4wcURUNFZpbmEyUXoxY1RfcFJsTThqMzFSMk82YkZFanN3cmRvZnF3RlVMeWpmUTVsLXVKRVk?oc=5",
-      "summary": "【決算速報】日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地(株探ニュース) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-07T06:43:16+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
-    },
-    {
-      "id": "2737f6f9c5351355",
-      "title": "インタビュー：次期戦闘機向け生産施設3棟新設へ、防衛関連で計8棟＝三菱電機ＣＦＯ（ロイター） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DdzhyeWNGTzM5Smw3S2RsTXVKc2dXcENqVjMzcVlZMVFXS242cWhwUkVlY210WjFqNmtGSUpnNTkwOW0wc21HQ250a0pmS0lrLUY1QXBfa0YwZDhya0FXSEYyX0NpWVUwZ2xRTURvLTN3bkdlMEhETEIxSExFZGM?oc=5",
-      "summary": "インタビュー：次期戦闘機向け生産施設3棟新設へ、防衛関連で計8棟＝三菱電機ＣＦＯ（ロイター） Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "6336cb2af7a39bb3",
@@ -860,7 +836,7 @@
       "category": "report",
       "importance": "high",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "8f6a455c65957e83",
@@ -872,7 +848,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
+    },
+    {
+      "id": "253ffa33f74603dd",
+      "title": "決算マイナス・インパクト銘柄 【東証プライム】引け後 … 太陽誘電、ＩＨＩ、日東紡 (8月5日発表分) - みんかぶ",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pbjBQUUFidVhfVkJBcFhXa2x5TjRHZkR0UkVlN21ISFgtYjVVY0xwQXI2U0VaN3lQZzlkVmVDcjRTRDNiV0E?oc=5",
+      "summary": "決算マイナス・インパクト銘柄 【東証プライム】引け後 … 太陽誘電、ＩＨＩ、日東紡 (8月5日発表分) みんかぶ",
+      "source": "みんかぶ",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "0beb15ae1c1b12d4",
@@ -884,7 +872,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "73492d43d176a8d1",
@@ -896,19 +884,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T10:03:42+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "243ee7c32057b1f2",
-      "title": "インタビュー：次期戦闘機向け生産施設3棟新設へ、防衛関連で計8棟＝三菱電機ＣＦＯ - ロイター",
+      "title": "インタビュー：次期戦闘機向け生産施設3棟新設へ、防衛関連で計8棟＝三菱電機ＣＦＯ - Reuters",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02YlZDbklsS3ljMmhEa3VIUXFjc28zby1jZWlHdHZLSG5JVkJjY0U4c19IZW1mYWtwdG9TcDU4Y3l5Q0QwUlcwd3NWQl9LdkFiNTQ3Qnd6QklWRXg2MFU5Sjdtc3lxYUhSSGNjSmdRME1tNVNBbVZzUg?oc=5",
-      "summary": "インタビュー：次期戦闘機向け生産施設3棟新設へ、防衛関連で計8棟＝三菱電機ＣＦＯ ロイター",
-      "source": "ロイター",
+      "summary": "インタビュー：次期戦闘機向け生産施設3棟新設へ、防衛関連で計8棟＝三菱電機ＣＦＯ Reuters",
+      "source": "Reuters",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "f565f181418a66a4",
@@ -920,31 +908,19 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "f8111fe6d3bfb512",
-      "title": "ＩＮＰＥＸ、豪当局が提訴 イクシスＬＮＧ施設で排出量過少報告 - ロイター",
+      "title": "ＩＮＰＥＸ、豪当局が提訴 イクシスＬＮＧ施設で排出量過少報告 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyMVV4VGlsTlRNVWZJSkQ3YWZVMkpRNVpkU1FDZ3J2SnFJckxCSXgybkRUUDdWZG8zLXJtclZhRGdkODhqQVNXWVZIV09mMGZYV3hXTVlNRGlvUzVxNVBtS1dZQjNOcmdXYU1PeXRHcFpCQ1ZMQ0E?oc=5",
-      "summary": "ＩＮＰＥＸ、豪当局が提訴 イクシスＬＮＧ施設で排出量過少報告 ロイター",
-      "source": "ロイター",
+      "summary": "ＩＮＰＥＸ、豪当局が提訴 イクシスＬＮＧ施設で排出量過少報告 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
-    },
-    {
-      "id": "f97b754ef1899bf6",
-      "title": "ＩＮＰＥＸ、豪当局が提訴 イクシスＬＮＧ施設で排出量過少報告（ロイター） - Yahoo!ニュース",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTYkJfWkxQYkJFY3NHbk5VUWtVZFRGbUFaUU1zWG5ZT2VUbzh4VW1Ub1JWSm5YRXBMMkw4R3lRaDZteHhrTGJacGVydklrdDNXLUpCb1ZXdmhUU0N0dUhCRnpDZFctREpwLUppNUxYVWNjU3dzbTduVW9VMFQzY1E?oc=5",
-      "summary": "ＩＮＰＥＸ、豪当局が提訴 イクシスＬＮＧ施設で排出量過少報告（ロイター） Yahoo!ニュース",
-      "source": "Yahoo!ニュース",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "af428352f9f80c52",
@@ -956,7 +932,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "2eadcd7926b56d59",
@@ -968,7 +944,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "e4cc60ea02fba9c8",
@@ -980,7 +956,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "87dab8f9888c841f",
@@ -992,19 +968,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
-      "id": "92821347b038a45d",
-      "title": "なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析 - LIMO | くらしとお金の経済メディア",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LX1prdEpweGViSWtMNkZLLWxYQzV6RThoMlNra1hoWnNjQjRxYzVLS3QxWHBZTTRNSDRGNkJzTkxYaUtza2FsODFNMkU?oc=5",
-      "summary": "なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析 LIMO | くらしとお金の経済メディア",
-      "source": "LIMO | くらしとお金の経済メディア",
+      "id": "60089f030010206f",
+      "title": "IHI－27年3月期の連結業績予想を上方修正(IFRS基準)〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzByQXRma2tsWkZvb2lnNHQteXBpbExYZXFTWTRUVjhzRVFMZHYxaXN3TWtQQ3dRQ1dQcmhOaXhaNzI5Z2FidW4yVEVIeE5lNE8tRkRMVWVKRW9WU21rY052eVdLNTk3QVFKekZ2OGgwNVVLekJYSVQ2Z1ZMcDlZMUJsa3lxQUE?oc=5",
+      "summary": "IHI－27年3月期の連結業績予想を上方修正(IFRS基準)〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
+      "source": "Yahoo!ファイナンス",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "0a9e38fe80a5ccd8",
@@ -1016,7 +992,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "2a649afac04a0d0f",
@@ -1028,7 +1004,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "b3af32cb4b9e3447",
@@ -1040,7 +1016,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-04T21:02:21+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "52f632f01ca85fbd",
@@ -1052,7 +1028,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "531fb972133b2471",
@@ -1064,7 +1040,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "a8059aabddfb96b7",
@@ -1076,7 +1052,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "127237eb08f5d218",
@@ -1088,7 +1064,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "f5c72e437cdab927",
@@ -1100,7 +1076,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "f9227d35032a87f5",
@@ -1112,7 +1088,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "745e93a4f7701d5a",
@@ -1124,7 +1100,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "a86bc2a37a7845c5",
@@ -1136,7 +1112,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "5f69799a298fb110",
@@ -1148,7 +1124,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "e59abfab74b6fd43",
@@ -1160,7 +1136,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "e123fce6a9569327",
@@ -1172,7 +1148,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "839216a1ef81acb3",
@@ -1184,7 +1160,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "32e83278549547f6",
@@ -1196,7 +1172,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "c825f857313421aa",
@@ -1208,7 +1184,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-02T21:08:42+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "b0ec407eadf979a6",
@@ -1220,7 +1196,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-01T22:41:25+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "8086926d526a063a",
@@ -1232,7 +1208,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-31T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "b72f3412824a656e",
@@ -1244,7 +1220,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "cc427b78daada87d",
@@ -1256,7 +1232,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "3025c0f3db035f18",
@@ -1268,19 +1244,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "2ee25002192ffbb5",
-      "title": "ＮＥＣ、通期予想を上方修正 防衛・ＩＴサービス堅調 - ロイター",
+      "title": "ＮＥＣ、通期予想を上方修正 防衛・ＩＴサービス堅調 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lV1Vla2QwR19jV3ktdFRsTkFxVTg2U0JBNHB5dkhuMm0wZTB3czlFTHU3QjZjT3JidktPNTJDOW1jaHYtWVVUN2NrcmN0a0dfU0ZtRDhkd2k4YW92cHRCVjNCaUJRWUpGUXpZaWVJTW5rTDdCVHp6ag?oc=5",
-      "summary": "ＮＥＣ、通期予想を上方修正 防衛・ＩＴサービス堅調 ロイター",
-      "source": "ロイター",
+      "summary": "ＮＥＣ、通期予想を上方修正 防衛・ＩＴサービス堅調 Reuters",
+      "source": "Reuters",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "9a0180f9099a0e01",
@@ -1292,7 +1268,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "7dad12b6bb8e7531",
@@ -1304,7 +1280,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "c8e57e4dd303bb7b",
@@ -1316,7 +1292,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "6e99cd8d40cb7173",
@@ -1328,7 +1304,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-29T05:58:40+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "d0e9f5677a1b9445",
@@ -1340,7 +1316,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-07-24T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "e4c6e29ba3db2fbb",
@@ -1352,7 +1328,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-23T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "aa6a065656013872",
@@ -1364,7 +1340,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-23T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "49178845b7c9df57",
@@ -1376,7 +1352,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-21T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "5d903d033928aa1f",
@@ -1388,7 +1364,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-21T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "82e9591cdbe51399",
@@ -1400,7 +1376,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-20T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "532ca06239c82223",
@@ -1412,7 +1388,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-20T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "d1bf0e0af70ce361",
@@ -1424,7 +1400,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-07-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "4fe8445a30b21723",
@@ -1436,7 +1412,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "f316d3817e339961",
@@ -1448,7 +1424,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "302131a05610d991",
@@ -1460,7 +1436,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-16T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "84e31b4176943d5f",
@@ -1472,7 +1448,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-15T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "800484d3625e798d",
@@ -1484,7 +1460,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-15T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "405c48fd5281a9c1",
@@ -1496,7 +1472,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-14T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "8d190eb28cc6a028",
@@ -1508,7 +1484,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-14T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "2b4c1bc5678f4368",
@@ -1520,7 +1496,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "a57b8abc9508f9ba",
@@ -1532,7 +1508,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "db7e2de39ecd36ae",
@@ -1544,7 +1520,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:14+00:00"
+      "fetched_at": "2026-08-31T00:02:45+00:00"
     },
     {
       "id": "c3af24ff820feb55",
@@ -1556,7 +1532,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-09T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "abc6ce86bf5239a6",
@@ -1568,7 +1544,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-08T02:24:06+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "69279cde0443600e",
@@ -1580,7 +1556,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "5d955a9f71fb0efd",
@@ -1592,7 +1568,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "a0e5bbf0b3698a70",
@@ -1604,7 +1580,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-06T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "a6b38e7f736f2c1b",
@@ -1616,7 +1592,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-06T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "3722899afb7c18cf",
@@ -1628,7 +1604,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-04T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "3e6b0fe1cb587c71",
@@ -1640,7 +1616,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "f15789d46308cfae",
@@ -1652,7 +1628,19 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-03T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
+    },
+    {
+      "id": "3117c7548fdf7723",
+      "title": "川崎重工、東京・世田谷のごみ処理場の建て替え受注 697億円 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnTHZjUWd0LVlFdzRtMXlOV2VHYjNBdUV5bFJIQU9VUzBna2RhVFctSy1ROFZWOXp0cHJRZ21Ld3pzdGd1TlVlYndmQlMwSTctMU5RLW9YM1lFWnZPUXVwV1pyckQxbU0zM04tZg?oc=5",
+      "summary": "川崎重工、東京・世田谷のごみ処理場の建て替え受注 697億円 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-07-03T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "ae1b333dac02f4ed",
@@ -1664,7 +1652,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-03T02:57:57+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "5600ec74654711b9",
@@ -1676,7 +1664,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "48fc3394b604c461",
@@ -1688,7 +1676,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "43f7393ce56a5e2b",
@@ -1700,7 +1688,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "edd69fab7913ae15",
@@ -1712,7 +1700,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-01T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
+    },
+    {
+      "id": "6edc585268f55426",
+      "title": "NEC・CISO淵上真一氏が説く「フロンティアAI」時代のセキュリティ──「対峙すべきは未知ではなく、高速化された既存の課題」 - EnterpriseZine",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6Tkl2NW05dEFpb0R4blBsQjRRRGVabmJmdkhadVVtZkFJSHpYaXB6cFBQSzNHNE8yOGFaeVBJa1huRnptX0lteWdjVzNhOEdNdWh2YjVvRUotQQ?oc=5",
+      "summary": "NEC・CISO淵上真一氏が説く「フロンティアAI」時代のセキュリティ──「対峙すべきは未知ではなく、高速化された既存の課題」 EnterpriseZine",
+      "source": "EnterpriseZine",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-06-30T23:04:16+00:00",
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "1d1d407d2d0a84b2",
@@ -1724,7 +1724,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-30T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "e083fb72c1f70422",
@@ -1736,7 +1736,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-30T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "49b679f6baefcb04",
@@ -1748,7 +1748,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "5ca42d1caddfe536",
@@ -1760,7 +1760,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "53fb19606a83c32d",
@@ -1772,7 +1772,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-26T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "2296eca028803bad",
@@ -1784,7 +1784,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-26T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "2b6ca8a5f669acf2",
@@ -1796,7 +1796,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-25T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "7f368a7b95fab28e",
@@ -1808,7 +1808,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-24T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "a80b967436658219",
@@ -1820,7 +1820,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-24T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "d837c61b550e84ac",
@@ -1832,7 +1832,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-22T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "636007c9c80bfa78",
@@ -1844,7 +1844,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-22T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "5c80be88196a6c6e",
@@ -1856,7 +1856,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-06-21T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "f1d77c08d2ba31f6",
@@ -1868,7 +1868,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-19T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "a546bc2c61dcce3a",
@@ -1880,7 +1880,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "8e92019853c19616",
@@ -1892,7 +1892,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "5cec859d1356eed7",
@@ -1904,7 +1904,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "884d9cd199e90866",
@@ -1916,7 +1916,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "b18f51da057e0640",
@@ -1928,19 +1928,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
-    },
-    {
-      "id": "7ff46f39816c391f",
-      "title": "郵船と商船三井、JERA向け低炭素アンモニア輸送 - LOGISTICS TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XVHYzUEFtU3JKSHY1WHpwN1pZejBSQUktWTlndk0za3RMNUc0Y3UzeE1YNVZlQ2FYSnU2ZXZLeEF6bnhWWVVtUA?oc=5",
-      "summary": "郵船と商船三井、JERA向け低炭素アンモニア輸送 LOGISTICS TODAY",
-      "source": "LOGISTICS TODAY",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-06-18T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "d8983afffdf1b36b",
@@ -1952,7 +1940,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-18T03:14:51+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "53c18a58df602db0",
@@ -1964,7 +1952,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "17cc7ff77d20e834",
@@ -1976,7 +1964,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "f28c0b414d8d4041",
@@ -1988,19 +1976,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "b8df58e738b799b7",
-      "title": "ＩＮＰＥＸ豪ＬＮＧ施設のスト終結、新たな賃金で合意 - ロイター",
+      "title": "ＩＮＰＥＸ豪ＬＮＧ施設のスト終結、新たな賃金で合意 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSGZ0SUJibXJhT3pZeFZfZkVKQXpreEtpNHpjcGdSY1J5RlNlYVZ0MHRpV3VKcFcyT1Z6TnlnT3NOdS1oUXBEazlWREZuc1dCVXJNcFdzWklCYWVZdHZQVTlPRmVzSXFnQkZQRXhUdmFDQUxraFJTQVdEQk1HV3ZXNW9iMWdRWW9E?oc=5",
-      "summary": "ＩＮＰＥＸ豪ＬＮＧ施設のスト終結、新たな賃金で合意 ロイター",
-      "source": "ロイター",
+      "summary": "ＩＮＰＥＸ豪ＬＮＧ施設のスト終結、新たな賃金で合意 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "b702acf20683d1f4",
@@ -2012,7 +2000,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-17T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "feafc129abd9b432",
@@ -2024,31 +2012,31 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-17T02:40:22+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "65c1d37d390dfc49",
-      "title": "ＩＮＰＥＸ、豪ＬＮＧ施設で一部生産設備を停止 ストで＝関係筋 - ロイター",
+      "title": "ＩＮＰＥＸ、豪ＬＮＧ施設で一部生産設備を停止 ストで＝関係筋 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YSmloaU9LY0lBcGFrMDJKYmR5QU5pQ2x2Mkg1TW5NWU9YZEprbno5cFVnNlRIUFZPS29WUUozLU1wWkNNa244dmRTTUUxXzA1UklvalI3V3pYdXNtT3JLVFZRa0k5eGJnSF9ac2h2ckxXSlFtYWhHank4d2p5QQ?oc=5",
-      "summary": "ＩＮＰＥＸ、豪ＬＮＧ施設で一部生産設備を停止 ストで＝関係筋 ロイター",
-      "source": "ロイター",
+      "summary": "ＩＮＰＥＸ、豪ＬＮＧ施設で一部生産設備を停止 ストで＝関係筋 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-16T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "8400c6536a4902e8",
-      "title": "訂正-ＩＮＰＥＸの豪ＬＮＧ施設、スト今夜終了へ 新たな賃金で合意 - ロイター",
+      "title": "訂正-ＩＮＰＥＸの豪ＬＮＧ施設、スト今夜終了へ 新たな賃金で合意 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGdObFBtcXN0OXZxTVljSFVqeDJZM1VWSUIxU0hkSU1qVndlQnlJT0d2VWlnLXJJcWJHQ096NXF1WlZuSEVMUF9mdmV5dWpvYlhMbGdBQnk3NEdxa2plSDNoNzNreC1aYUhGMTNkM2NLaVY0d1lZMldpNTdiVFZvRWxPa1ZMbV9i?oc=5",
-      "summary": "訂正-ＩＮＰＥＸの豪ＬＮＧ施設、スト今夜終了へ 新たな賃金で合意 ロイター",
-      "source": "ロイター",
+      "summary": "訂正-ＩＮＰＥＸの豪ＬＮＧ施設、スト今夜終了へ 新たな賃金で合意 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-16T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "3481bd0cd06ea086",
@@ -2060,7 +2048,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-15T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:11+00:00"
+      "fetched_at": "2026-08-31T00:02:42+00:00"
     },
     {
       "id": "42916917ddb0c021",
@@ -2072,31 +2060,31 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-15T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "04146fb022728d6b",
-      "title": "ＩＮＰＥＸの豪ＬＮＧ施設、スト延長へ 労組方針 - ロイター",
+      "title": "ＩＮＰＥＸの豪ＬＮＧ施設、スト延長へ 労組方針 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ueTBqRVZfbE54UXAxVDg4NVdVY1VYZUZOX3ZIcXFreVpkblBmX0JqOVdxV1dHRkx4M0NpSWJnYWlSeTJCNTJBWF9xUFRLNUttSUNXNFdCRTgtdkVyOGdDb0RTSi1ob3RNUjYxU0d4UnNDVTZ1d085clFwZ191UQ?oc=5",
-      "summary": "ＩＮＰＥＸの豪ＬＮＧ施設、スト延長へ 労組方針 ロイター",
-      "source": "ロイター",
+      "summary": "ＩＮＰＥＸの豪ＬＮＧ施設、スト延長へ 労組方針 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-14T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "4a5ef517ac30ead9",
-      "title": "豪ＬＮＧ施設でスト継続へ、ＩＮＰＥＸ申し立て却下 - ロイター",
+      "title": "豪ＬＮＧ施設でスト継続へ、ＩＮＰＥＸ申し立て却下 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yUmgtUWREODAxc1ExNmpjX25OMmFGWlJjeGtfajMwZE5OS2lwQUVsZ0FHNUpzU0xrRmwwR0xyZlNpZkhJamJsclkwVWlvc09OUFFSLWpsOGVERnNzYXc3QWJCSzhFbXB0ZmxxYmwxTEMtUGg3ZHJXU2tqa080Zw?oc=5",
-      "summary": "豪ＬＮＧ施設でスト継続へ、ＩＮＰＥＸ申し立て却下 ロイター",
-      "source": "ロイター",
+      "summary": "豪ＬＮＧ施設でスト継続へ、ＩＮＰＥＸ申し立て却下 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-13T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "a60463af3f14c328",
@@ -2108,7 +2096,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "196359c3079b64ef",
@@ -2120,19 +2108,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-12T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "f029b2aa00f457e3",
-      "title": "ウッドサイド、豪ＬＮＧ権益の優先買取権行使 ＩＮＰＥＸに対抗 - ロイター",
+      "title": "ウッドサイド、豪ＬＮＧ権益の優先買取権行使 ＩＮＰＥＸに対抗 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hN0I5NXVnT05FRzcyeWFFUnBvY2t0V0xIWUJOWXVJZ1ZBYl9xVEs1UUdYUW1ILXZJV1kxMWpLY29CR3ZmLTZ3SDJvUmpQZXBZN0dabk01clZJcFBrVUlSQS1VUkcwa3V0X3c4d25FR2x1aVdMemFXWU03OGV4Zw?oc=5",
-      "summary": "ウッドサイド、豪ＬＮＧ権益の優先買取権行使 ＩＮＰＥＸに対抗 ロイター",
-      "source": "ロイター",
+      "summary": "ウッドサイド、豪ＬＮＧ権益の優先買取権行使 ＩＮＰＥＸに対抗 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-11T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "6b1ebfb0dfea5ec7",
@@ -2144,7 +2132,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-11T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:16+00:00"
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     },
     {
       "id": "9cd4ec6a076120fe",
@@ -2156,31 +2144,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-10T15:13:15+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "2a1c734caa9d9dee",
-      "title": "ＪＥＲＡに20年間ＬＮＧ供給へ、ペトロナス 年200万トン規模 - ロイター",
+      "title": "ＪＥＲＡに20年間ＬＮＧ供給へ、ペトロナス 年200万トン規模 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1eXhQWGZnLWNaVFlrbWZDdGd6UXdvMER1YmhLQS1LdUd6eldoRVRqV0FYdjNUWWJieldHOGEzTkUwMXZNTll5Um0zM29sS08tc29tNGUwYWpGSnhkdmFia1psTzNnMWkwQTAyZjEyYUdLQUhSc1hhdQ?oc=5",
-      "summary": "ＪＥＲＡに20年間ＬＮＧ供給へ、ペトロナス 年200万トン規模 ロイター",
-      "source": "ロイター",
+      "summary": "ＪＥＲＡに20年間ＬＮＧ供給へ、ペトロナス 年200万トン規模 Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-09T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
-    },
-    {
-      "id": "aa06204e917a0d36",
-      "title": "ＩＮＰＥＸ、豪ＬＮＧ施設のスト停止求め緊急命令申し立てへ - ロイター",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lbXNZTDF6M3h1Rk1WQVh3d29nUVJZbUNsUDItdHRGNkhaNGhuZEFndC1vYnRiSFZNQ1NETEFubm9WWlhMMmhHWkJzTG0yLUJGWi04dFpVZ296UTRDeXhWZlQtTzlNSWFfRnZ2amlCRnZ2N3dENFJXTXQ5aW04QQ?oc=5",
-      "summary": "ＩＮＰＥＸ、豪ＬＮＧ施設のスト停止求め緊急命令申し立てへ ロイター",
-      "source": "ロイター",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-06-09T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "9aaceb5e729730a3",
@@ -2192,19 +2168,43 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-08T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
     },
     {
       "id": "eff9e3ae178db75f",
-      "title": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け - ロイター",
+      "title": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け - Reuters",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtaEl6c2FLUDB0djRaajhSN0ZleTRtZTdkRDRRRDhXV3lfVk1ITE1vREVkRzR3QXlJWjJkYlNCbjB0NzFLLVo3S0U0UlZjZ3hXM2VwUlZ5TnRoZkVGMGVnbXBfUUh0eWxma21PdEhrYzM4U3VuOU94bFZ6LXBKUQ?oc=5",
-      "summary": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け ロイター",
-      "source": "ロイター",
+      "summary": "ＩＮＰＥＸの豪ＬＮＧ施設、労組がスト拡大発表 交渉不調受け Reuters",
+      "source": "Reuters",
       "feed_name": "エネルギー・中東 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-06-07T07:00:00+00:00",
-      "fetched_at": "2026-08-30T21:44:13+00:00"
+      "fetched_at": "2026-08-31T00:02:43+00:00"
+    },
+    {
+      "id": "70eb71bf83d20231",
+      "title": "日揮HDがアフリカ洋上LNG建設 受注額1500億円、中東外の知見蓄積 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nclM0TENBNUotQUU1d1lWOWcxSHh0Nk0xTjBfOFgzZVhjV0JQWVFiNEFxSG5hMlh0WGVIRVExRUVkbzlaTTN1Rkg3M1Z3eFdSbWpveHJPZEhVeE1ldUkxb0NueUJCMjhYOEo1SQ?oc=5",
+      "summary": "日揮HDがアフリカ洋上LNG建設 受注額1500億円、中東外の知見蓄積 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-06-06T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:43+00:00"
+    },
+    {
+      "id": "2c117372f336dafd",
+      "title": "大学生・大学院生・高専生向け夏期インターンシップの募集を開始 | 三菱重工 - Mitsubishi Heavy Industries, Ltd.",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwZXRBVkJKUlE5YWd1alcyRUtNYnlMNnpBRUVPekhiMER1X0xveGRJc2NGVE5Zck5tLXk2enJuTmhwdERGd1JnMmFkZFROdm5Kellv?oc=5",
+      "summary": "大学生・大学院生・高専生向け夏期インターンシップの募集を開始 | 三菱重工 Mitsubishi Heavy Industries, Ltd.",
+      "source": "Mitsubishi Heavy Industries, Ltd.",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-06-05T07:00:00+00:00",
+      "fetched_at": "2026-08-31T00:02:47+00:00"
     }
   ]
 }
