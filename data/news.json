@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:41:32+00:00",
+  "generated_at": "2026-09-11T05:26:15+00:00",
   "item_count": 180,
   "feeds": [
     {
@@ -47,6 +47,54 @@
   ],
   "items": [
     {
+      "id": "7b2451eceb6d66be",
+      "title": "NEC、バックアップストレージ新モデル「iStorage HS3-70」、4TB HDD採用で容量2倍 - IT Leaders",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YUjFNWTAyaWZHdzFPWEpoRlV3d2RTUTVGU3pncDViQURUR2xWSjcwV2hCeVhaTWVxelRWeXhPSTkyd0pqY21tdWNRMXRXN28yWVE0?oc=5",
+      "summary": "NEC、バックアップストレージ新モデル「iStorage HS3-70」、4TB HDD採用で容量2倍 IT Leaders",
+      "source": "IT Leaders",
+      "feed_name": "採用・インターン Google News",
+      "category": "jobs",
+      "importance": "med",
+      "published_at": "2026-09-11T04:16:38+00:00",
+      "fetched_at": "2026-09-11T05:26:13+00:00"
+    },
+    {
+      "id": "f1e71dc80b5ef669",
+      "title": "オーストラリアの労組がInpexのLNGプラントで予定のストライキを一時停止 - Межа. Новини України.",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yRUFNRExuWWVKYkp0dU1TWnNxYy1rV1dlNnRXT1dPRWRmNDRLN1k5bVR6bTZvS1hKRVlla0VwYlRaS3Q1X2JsTFpEcWl6SFlSaFNRbXJRdGFwaHlHVXdUVWhtVHNwbnI3eENFVW9B?oc=5",
+      "summary": "オーストラリアの労組がInpexのLNGプラントで予定のストライキを一時停止 Межа. Новини України.",
+      "source": "Межа. Новини України.",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-09-11T03:56:48+00:00",
+      "fetched_at": "2026-09-11T05:26:10+00:00"
+    },
+    {
+      "id": "fe934ebf4d3399d4",
+      "title": "「造船」強化を検討…三菱重工、下関の工業用地30億円で取得（ニュースイッチ） - Yahoo!ニュース",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GdDBGMUlacTJJTFZRWXlKdXgxcC1fWm5fR3dISTdpRkF0NThDYXRESE13Q0oxUmVUZnoxTjBabmU5Z3NseUF6WWhZMEpBc1Y5akd1NFFpb3gzVHI5MlZBN09FbnM1TmhpLVZRQmlpU241bVpHMW1OMWoxbDZId2M?oc=5",
+      "summary": "「造船」強化を検討…三菱重工、下関の工業用地30億円で取得（ニュースイッチ） Yahoo!ニュース",
+      "source": "Yahoo!ニュース",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-09-11T01:10:01+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
+      "id": "82b7ccd2bd008d07",
+      "title": "NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 - INTERNET Watch",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53dHctWm1feWlwNkZhSkxpbkdpNmZYU0p6N2ZJa3ZuM3h1dkhGcG5mLUVLQmpPejFVMHF0VEk5cFVkVm42YXdaNU1ORXBITTc4NFVmSURjM2lXVGQwVlZBdjZmS3RVUWhvUkI0?oc=5",
+      "summary": "NECプラットフォームズの法人向けWi-Fiルーター「Aterm Biz SH」シリーズ、セキュリティ評価制度「JC-STAR」★1取得 INTERNET Watch",
+      "source": "INTERNET Watch",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-09-10T22:30:00+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
       "id": "869bf6b43bb0d730",
       "title": "IHI、社名が示すのは造船ではない。株価は1カ月で1割下げ、営業利益の7割近くは航空・宇宙・防衛が稼ぐ（LIMO） - Yahoo!ニュース",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14NENYdmlUODZCRVJkcVF0SERQU3FNZFhsU1pNTF9aMFB5WDlkS2hSakN3YUxlMDB6Z0JFZk9IdTlMUEduTlROYWI3a1NfZGdESUZEcTE3ZGZaei0zUUg1X096QXB0WGJ0RzVTYzRJR3Ftb0NZWG9DTTVNUjlwaUk?oc=5",
@@ -55,8 +103,8 @@
       "feed_name": "重工・防衛 Google News",
       "category": "stocks",
       "importance": "high",
-      "published_at": "2026-09-10T21:36:21+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "published_at": "2026-09-10T21:31:31+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "67808c097b407b7e",
@@ -67,8 +115,8 @@
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
-      "published_at": "2026-09-10T20:04:49+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "published_at": "2026-09-10T20:04:03+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "30cce55269061cf6",
@@ -80,7 +128,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-09-10T19:50:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "d69a8c4f3fd011a2",
@@ -92,55 +140,55 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-10T18:57:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "8122d5060ffac5cd",
-      "title": "IHI、社名が示すのは造船ではない。営業利益の7割近くを稼ぐ航空・宇宙・防衛、1カ月で1割下げた株価とPER16倍台という構図 セグメント別の営業利益を分解すると、造船や重工のイメージでは説明できない収益構造が見えてくる | 概要 | LIMO | くらしとお金の経済メディア - LIMO | くらしとお金の経済メディア",
+      "title": "IHI、社名が示すのは造船ではない。営業利益の7割近くを稼ぐ航空・宇宙・防衛、1カ月で1割下げた株価とPER16倍台という構図 セグメント別の営業利益を分解すると、造船や重工のイメージでは説明できない収益構造が見えてくる | 概要 | LIMO | くらしとお金の経済メディア - limo.media",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GSDRHQXdyVnlmVmxEb2xfVWFSQk9YRHAyYjYzRDlqUTBWaFR3MGc3bGFfSU41a25DeHd0RWE0UDJWdmpFbUFuRkNIYnI?oc=5",
-      "summary": "IHI、社名が示すのは造船ではない。営業利益の7割近くを稼ぐ航空・宇宙・防衛、1カ月で1割下げた株価とPER16倍台という構図 セグメント別の営業利益を分解すると、造船や重工のイメージでは説明できない収益構造が見えてくる | 概要 | LIMO | くらしとお金の経済メディア LIMO | くらしとお金の経済メディア",
-      "source": "LIMO | くらしとお金の経済メディア",
+      "summary": "IHI、社名が示すのは造船ではない。営業利益の7割近くを稼ぐ航空・宇宙・防衛、1カ月で1割下げた株価とPER16倍台という構図 セグメント別の営業利益を分解すると、造船や重工のイメージでは説明できない収益構造が見えてくる | 概要 | LIMO | くらしとお金の経済メディア limo.media",
+      "source": "limo.media",
       "feed_name": "重工・防衛 Google News",
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-09-10T11:40:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "6452453b8547a237",
-      "title": "三菱電機、日英伊の次期戦闘機で電装品の設計受注 レーダーなど - nikkei.com",
+      "title": "三菱電機、日英伊の次期戦闘機で電装品の設計受注 レーダーなど - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ybDZwZlAxcV8xeEVINk4wQTB5Z2gtcUN4MUlvckloQm5MVGpJcjFvY1R6V29aRVJnZWtLeDZDS1pkY2dLMlFUVDhOSW9GbURUOTRLcTBnRjM2cU40ZWRfUktXdjEwRmlMbkVrRw?oc=5",
-      "summary": "三菱電機、日英伊の次期戦闘機で電装品の設計受注 レーダーなど nikkei.com",
-      "source": "nikkei.com",
+      "summary": "三菱電機、日英伊の次期戦闘機で電装品の設計受注 レーダーなど 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-10T10:26:04+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "80a81e064c97bd71",
-      "title": "(株)ＩＮＰＥＸ【1605】：今の株価の理由は？値動きの背景をAIが解説 - Yahoo!ファイナンス",
+      "title": "(株)ＩＮＰＥＸ【1605】：今の株価の理由は？値動きの背景をAIが解説 - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pNEZzaHlWWWt0S1N4M2RBV1ZOdkRxdGJvZmtZVjd6MmxaMnIwb0tCV2JwOWdmQXVqa1hxN0FEQThmRmZobW5Nb3RGcndJd0haMFhiUl9jVnVPZzlCS1NB?oc=5",
-      "summary": "(株)ＩＮＰＥＸ【1605】：今の株価の理由は？値動きの背景をAIが解説 Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "(株)ＩＮＰＥＸ【1605】：今の株価の理由は？値動きの背景をAIが解説 finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-09-10T06:53:17+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "06e9fd344f63e330",
-      "title": "三菱化工機－続伸 川崎重工から水素製造装置を受注(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+      "title": "三菱化工機－続伸 川崎重工から水素製造装置を受注(トレーダーズ・ウェブ) - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQUlfTy1oLUNrYkIzWllnYmV2d2dEVkpNSElUQ2dSWXBnWC1TcFhaNEdkX2tXN282UE5WZ3IzTWUxRzNHZVhnSHZsTmdVbWFPaktabE9TWFRTVFBpdzJEcXRqSkZmSDhXaXluWHdzQnhRcFdPV0hlR2cxcXYtUElxbExYRjRXVDA?oc=5",
-      "summary": "三菱化工機－続伸 川崎重工から水素製造装置を受注(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "三菱化工機－続伸 川崎重工から水素製造装置を受注(トレーダーズ・ウェブ) finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-10T04:56:01+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "9614c775e24ddc2c",
@@ -152,7 +200,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-10T02:08:11+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "8965f1e1f1666123",
@@ -164,7 +212,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-09-09T19:35:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "eb7a450f5e981248",
@@ -176,7 +224,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-09T03:24:05+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "a694f4751e8b3514",
@@ -188,7 +236,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-09-09T00:48:20+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "b26f3cbac6219d7e",
@@ -200,19 +248,31 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-08T21:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
+      "id": "392b307c612f1665",
+      "title": "三菱重工・ＮＥＣ、防衛分野で戦略提携／装備や情報共有高度化 – - 電気新聞ウェブサイト",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pR3dkcENsdF8zMDVTM0VHejVSVGNCcFlmTEh2RDhsYUVUckc4ZHhlZnY3NWhLVlZGQnhJNUo3MWc4S0l4dmRJUTVkdWlScVI4YnYzVHBRYw?oc=5",
+      "summary": "三菱重工・ＮＥＣ、防衛分野で戦略提携／装備や情報共有高度化 – 電気新聞ウェブサイト",
+      "source": "電気新聞ウェブサイト",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-09-08T11:09:41+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "11858f3b54380de5",
-      "title": "川崎重工、AI活用の防衛システム開発へ 半導体新興と協業 - nikkei.com",
+      "title": "川崎重工、AI活用の防衛システム開発へ 半導体新興と協業 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaZjZSd0VnZWdCQThuekl5Y2xPcHhSYXEzZTJsVkV6RHFhRkoyRTBEd2s0UTdTdXNPeXJDMDMzR0l2Z3RKcEwtN05oSjRPczdKaFp6X3RObnA3bWJlVGp3WlQ1NzRod1l2Q3BOUQ?oc=5",
-      "summary": "川崎重工、AI活用の防衛システム開発へ 半導体新興と協業 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "川崎重工、AI活用の防衛システム開発へ 半導体新興と協業 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-08T07:32:04+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "6108888148711318",
@@ -224,19 +284,19 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-09-08T06:11:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "830b1b58c59c8905",
-      "title": "EdgeCortix、川崎重工と次世代AI搭載航空防衛システムの開発推進に向け、複数年・数百万ドル規模の契約を締結 - news.nicovideo.jp",
+      "title": "EdgeCortix、川崎重工と次世代AI搭載航空防衛システムの開発推進に向け、複数年・数百万ドル規模の契約を締結 - ニコニコニュース",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OY2xaNG1BWmR2UUlSQ3R1cmk5VEdjRlNXTkxqTnd0MndNLWx6cDk4eHhZTWViV0pRU1h5M1BjTDhOZkZWM1ZIX1VtalBlWXVhVEMxYw?oc=5",
-      "summary": "EdgeCortix、川崎重工と次世代AI搭載航空防衛システムの開発推進に向け、複数年・数百万ドル規模の契約を締結 news.nicovideo.jp",
-      "source": "news.nicovideo.jp",
+      "summary": "EdgeCortix、川崎重工と次世代AI搭載航空防衛システムの開発推進に向け、複数年・数百万ドル規模の契約を締結 ニコニコニュース",
+      "source": "ニコニコニュース",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-08T05:51:10+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "ff23f238e2e1218b",
@@ -248,31 +308,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-07T23:08:48+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
-    },
-    {
-      "id": "c530e5c50217be8e",
-      "title": "｢パソコンで大敗したNEC｣が再び世界トップへ…営業赤字72億円のどん底から復活させた\"世界最高峰の技術\"【NEC3選】 - PRESIDENT Online（プレジデントオンライン）",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82VlViSWc2NWgxS21MdU5JLVVfYmNmTWhqajBfYXB6anVtNk1fMzg3S2lUZ0VZZTlZUFRqV0ZQVkxEOU91VUtlTURnQ281OWxFLVQzU2ljdEs?oc=5",
-      "summary": "｢パソコンで大敗したNEC｣が再び世界トップへ…営業赤字72億円のどん底から復活させた\"世界最高峰の技術\"【NEC3選】 PRESIDENT Online（プレジデントオンライン）",
-      "source": "PRESIDENT Online（プレジデントオンライン）",
-      "feed_name": "採用・インターン Google News",
-      "category": "jobs",
-      "importance": "med",
-      "published_at": "2026-09-07T22:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "963cb4fd639d483f",
-      "title": "ＮＥＣ、量子コンピューター開発中止＝実用化に課題多く - ｄメニューニュース",
+      "title": "ＮＥＣ、量子コンピューター開発中止＝実用化に課題多く - topics.smt.docomo.ne.jp",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xY3hVYms2SGNJWkszREpiSkt6a0djbE1iMWw5NnBQX1BMWG1SeFRmM3ozcE1iQWN4ZXdhOU5FTWJ4X3hqVVIxUHNacTl6bTRWa1QxYkxGWGs0ZUIyV1dLUHItQVpFTVREVXNZUVNHVURiaXJpQ1JhVjBSNFjSAYIBQVVfeXFMT0d0OUp2NmZoaHhmaFF2MG5OM1pYaTQyRE5yQ1hBYkF5cExQMHI3b0I1OW9rMlJfM3AzS2d2RDU0a2QxMjVLLS1YTmJWRGJkaVpsS0NJLWcwWGQzcHRLQ29mX1ExVjBXNEhRS3BGOEFKRHhFNU01NUQ2d2NYVDJKQWxzdw?oc=5",
-      "summary": "ＮＥＣ、量子コンピューター開発中止＝実用化に課題多く ｄメニューニュース",
-      "source": "ｄメニューニュース",
+      "summary": "ＮＥＣ、量子コンピューター開発中止＝実用化に課題多く topics.smt.docomo.ne.jp",
+      "source": "topics.smt.docomo.ne.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-07T07:50:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "a7ea0ec4c36b593a",
@@ -284,19 +332,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-07T02:00:02+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
-    },
-    {
-      "id": "392b307c612f1665",
-      "title": "三菱重工・ＮＥＣ、防衛分野で戦略提携／装備や情報共有高度化 – - 電気新聞ウェブサイト",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pR3dkcENsdF8zMDVTM0VHejVSVGNCcFlmTEh2RDhsYUVUckc4ZHhlZnY3NWhLVlZGQnhJNUo3MWc4S0l4dmRJUTVkdWlScVI4YnYzVHBRYw?oc=5",
-      "summary": "三菱重工・ＮＥＣ、防衛分野で戦略提携／装備や情報共有高度化 – 電気新聞ウェブサイト",
-      "source": "電気新聞ウェブサイト",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-09-06T08:48:53+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "5d8046aa409485e8",
@@ -308,19 +344,31 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-05T09:17:43+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "2b0c248263c31218",
-      "title": "三菱重工業とNECがAIとドローンによる次世代システム構築へ、防衛分野で戦略的提携 - ビジネス+IT",
+      "title": "三菱重工業とNECがAIとドローンによる次世代システム構築へ、防衛分野で戦略的提携 - sbbit.jp",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyTW5jbGFxOVF0TmVWZDRSLW1nNS1xelgzdk0zemtqVGkwVG1pWENFUExHZDlqMWlsUE81dFAwNjV0cFpTYXBGWXdGYkNyOGc?oc=5",
-      "summary": "三菱重工業とNECがAIとドローンによる次世代システム構築へ、防衛分野で戦略的提携 ビジネス+IT",
-      "source": "ビジネス+IT",
+      "summary": "三菱重工業とNECがAIとドローンによる次世代システム構築へ、防衛分野で戦略的提携 sbbit.jp",
+      "source": "sbbit.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-04T22:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
+      "id": "34bc37b88b287b75",
+      "title": "三菱重工とNEC、防衛力の強化と変革に向け戦略的提携（9月2日） - J ディフェンス ニュース",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVSFI2bFR4Q1Z3MlAycHRQWERrWWFyc0ZJQ2pqR1ViYThPOFNLczZtbFNwaU9YWGJEb1NzSV80d0RFR3p2TVA3enBqQTUyVkVTRG5GSm5xazFWd2dk?oc=5",
+      "summary": "三菱重工とNEC、防衛力の強化と変革に向け戦略的提携（9月2日） J ディフェンス ニュース",
+      "source": "J ディフェンス ニュース",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-09-04T07:10:17+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "7edaac6899334f59",
@@ -332,7 +380,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-09-04T06:41:33+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "06e0ed2e82e34cba",
@@ -344,7 +392,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-04T00:40:06+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "954f8b27286a56c9",
@@ -356,7 +404,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-09-03T23:33:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "e0c1f8384f9f3860",
@@ -368,79 +416,55 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-03T21:32:29+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
-    },
-    {
-      "id": "68cf548881e78917",
-      "title": "低炭素アンモニア、２９年製造へ起工／ＪＥＲＡなど、米で – - 電気新聞ウェブサイト",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vb09xSW8tbTE1ZFlobjkxNUFYdHR1T1NJeG11WEw2eWlfQXN5c3pyOVhHRkZnVktJOGFxT1czYTdnekFPcDUzYTVBeFdaVjVad1JnVkpiMA?oc=5",
-      "summary": "低炭素アンモニア、２９年製造へ起工／ＪＥＲＡなど、米で – 電気新聞ウェブサイト",
-      "source": "電気新聞ウェブサイト",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-09-03T21:01:14+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
-    },
-    {
-      "id": "da3a9b786804def7",
-      "title": "IHI大嶋常務執行役員｢防衛で海外比率高まる｣ 次期戦闘機の需要で - nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyM1dvaVUxWmtqcWFGNEtXamdIWFd5ZHk4akVfb21VTkVEWGV4dEpWNDFra2VBRDMtbnJwWHhrSFdWbmdtOTcyUjB1VWtCNjhJcVFFNVFCMlNLZTk0SzVXVWxUY3htY0dhak95Sw?oc=5",
-      "summary": "IHI大嶋常務執行役員｢防衛で海外比率高まる｣ 次期戦闘機の需要で nikkei.com",
-      "source": "nikkei.com",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-09-03T20:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "a3d6236fd4a933f1",
-      "title": "IHI人事部長が新卒に期待する「挑戦楽しめる姿勢」 - nikkei.com",
+      "title": "IHI人事部長が新卒に期待する「挑戦楽しめる姿勢」 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hR2kzS3VKZ0liOVp5YlVVZGFPQXNuMzdDMUZSUGwwSkd5Z0pEaFFDZFRtY0RSZnFQUnZsMDdPcWZXUjdDQndRdzhkeENWSXpyZ2Y1cHdmNUIxQ0NIdTAxUWZ5dTB5V0Y1c0k1Qg?oc=5",
-      "summary": "IHI人事部長が新卒に期待する「挑戦楽しめる姿勢」 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "IHI人事部長が新卒に期待する「挑戦楽しめる姿勢」 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "採用・インターン Google News",
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-09-03T20:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "c56f21aed5825ca0",
-      "title": "川崎重工人事本部長が語る新卒採用「挑戦の中での気づきや成長に期待」 - nikkei.com",
+      "title": "川崎重工人事本部長が語る新卒採用「挑戦の中での気づきや成長に期待」 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YdkFGaWF4TkpPcDdYZU1tQWVrM1NwZGgzM1UzSHA0ampsQ2lPVVFiU1E1MjBhX3RHdXBQMmNkSG16UDQzN2lKQkdtMDg4c0ZBSnNrZHJ0XzZZTDF3YkMtNzRWWFlfNE05UFg3Xw?oc=5",
-      "summary": "川崎重工人事本部長が語る新卒採用「挑戦の中での気づきや成長に期待」 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "川崎重工人事本部長が語る新卒採用「挑戦の中での気づきや成長に期待」 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "採用・インターン Google News",
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-09-03T20:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "22a95f061ba5a266",
-      "title": "三菱重工とNEC、防衛分野で戦略的提携 - 航空新聞社",
+      "title": "三菱重工とNEC、防衛分野で戦略的提携 - jwing.net",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNZEpDb29pMXRVaHZ2anhVU3NZSWduR092aG52VzktbG1TVTRNWkJQNllVVjFrc3gzLXNsc2NSazFBbEZOc0ItWA?oc=5",
-      "summary": "三菱重工とNEC、防衛分野で戦略的提携 航空新聞社",
-      "source": "航空新聞社",
+      "summary": "三菱重工とNEC、防衛分野で戦略的提携 jwing.net",
+      "source": "jwing.net",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-03T09:32:11+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "3109efcb8405bab2",
-      "title": "三菱重工、下関の産業用地取得へ 造船事業拡大、３０億円で - 時事ドットコム",
+      "title": "三菱重工、下関の産業用地取得へ 造船事業拡大、３０億円で - jiji.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QUHdLRm9UX2ZfMHo1T1dTRWNOZjdZa3Q5WGlxZHM1cWRieXd3VWtRbzFjNVkyRDA1V2thc0QxSTM1RndxSkpUTlhmWFQ5T1YxS253Q2hKLTE2dWFZZ3gzMmJNaw?oc=5",
-      "summary": "三菱重工、下関の産業用地取得へ 造船事業拡大、３０億円で 時事ドットコム",
-      "source": "時事ドットコム",
+      "summary": "三菱重工、下関の産業用地取得へ 造船事業拡大、３０億円で jiji.com",
+      "source": "jiji.com",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-03T07:02:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "db65cfd7c9b9c29d",
@@ -452,7 +476,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-03T04:47:59+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "0c5dd7ca1d6da2cd",
@@ -464,31 +488,31 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-03T01:14:04+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "4d646d0e43d2f24f",
-      "title": "三菱重工業、株価反発 NECと防衛ドローンで連携 - nikkei.com",
+      "title": "三菱重工業、株価反発 NECと防衛ドローンで連携 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85Q3dhSGRuQW9sWjh3Yll6by1OWmpQU3p3TlFETVhPQ1Z1VUs4NHVTUGllc1gwVHFRLU0zcnBxcm13SmxmWXJfV1NJVEZfTzVIXzFGaDYxT2RmZVZDdlQxWE04YmpKNkJsclY2dw?oc=5",
-      "summary": "三菱重工業、株価反発 NECと防衛ドローンで連携 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "三菱重工業、株価反発 NECと防衛ドローンで連携 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "重工・防衛 Google News",
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-09-03T01:04:30+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "ee0298dfb9c0ab8a",
-      "title": "三菱重とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 - 日経CNBC online",
+      "title": "三菱重とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 - online.nikkei-cnbc.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DSGptOW9QQl9EVERQcnBSTUw1Wm1USVZWX09zRDlUeUFRaFBFekNaSEJfTmg2ZVlwTThGTE9lSEFpUVVYM3hTRXZ3OHVGa3VGWmVOWg?oc=5",
-      "summary": "三菱重とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 日経CNBC online",
-      "source": "日経CNBC online",
+      "summary": "三菱重とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 online.nikkei-cnbc.co.jp",
+      "source": "online.nikkei-cnbc.co.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-03T00:27:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "aa40a90c15aea3e1",
@@ -500,7 +524,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-09-02T22:52:41+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "06bf9511fcd18042",
@@ -512,7 +536,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T21:45:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "df5132937764587c",
@@ -524,7 +548,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T20:45:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "9de76a37ccba49aa",
@@ -536,7 +560,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-02T20:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "14e5acac86f9b197",
@@ -548,7 +572,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-09-02T19:40:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "cb98cde4cf346ea0",
@@ -560,19 +584,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T16:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "d4aa8549a1637a16",
-      "title": "三菱重工とNEC、防衛分野で提携＝AIや無人機に対応(時事通信) - Yahoo!ファイナンス",
+      "title": "三菱重工とNEC、防衛分野で提携＝AIや無人機に対応(時事通信) - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jd3JSaHR1UW9RNGIzdW16eDNEakNxQ0pQalEyX2Q4Z1BVdm9qbWpaTzZUS3RsQkpHdU1UWGZQd2tlN1kteU5tRDJleFdLcVRVSWFMUk1ySVh0eXJScmZ2MFRJVGQxVW56b0EzbkExaUhqX2gteDdiT1N3?oc=5",
-      "summary": "三菱重工とNEC、防衛分野で提携＝AIや無人機に対応(時事通信) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "三菱重工とNEC、防衛分野で提携＝AIや無人機に対応(時事通信) finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T11:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "4a535614decbf591",
@@ -584,7 +608,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-02T10:44:15+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "1c10d785d3653330",
@@ -596,7 +620,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:33:44+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "8f3704e9c693bede",
@@ -608,19 +632,31 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:26:50+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "d5b440167618fbf7",
-      "title": "三菱重工とＮＥＣ、防衛で提携 - 京都新聞デジタル",
+      "title": "三菱重工とＮＥＣ、防衛で提携 - kyoto-np.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zdmVXQk1CeDBjSTRod0N6RjJLWU9xRjdXN1RDRW96cGVobE54WkdtM3BTaFIxN3lhejFEUUdGQUhtbmFnUlZJMkR4ZHRQOGVvN3hBd25NSHhLTVE?oc=5",
-      "summary": "三菱重工とＮＥＣ、防衛で提携 京都新聞デジタル",
-      "source": "京都新聞デジタル",
+      "summary": "三菱重工とＮＥＣ、防衛で提携 kyoto-np.co.jp",
+      "source": "kyoto-np.co.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:26:50+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
+      "id": "2c8bc5d82bba35fc",
+      "title": "三菱重工とＮＥＣ、防衛で提携 - smart.shimotsuke.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSNHFLSi00LUV4Q0RPVTNHalU2bjFndHJveURSQ2lsVlQxa2k1Z01FamE2bHl4Zmg4cUJUQVBPd1dzcElyMnJoZGp3Mzd1dnRGN3FIZEZ2bnNMS29IdlE?oc=5",
+      "summary": "三菱重工とＮＥＣ、防衛で提携 smart.shimotsuke.co.jp",
+      "source": "smart.shimotsuke.co.jp",
+      "feed_name": "重工・防衛 Google News",
+      "category": "press",
+      "importance": "high",
+      "published_at": "2026-09-02T10:26:50+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "27ec3c3e361a1d54",
@@ -632,7 +668,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:26:45+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "f467f1087d17d2a0",
@@ -644,7 +680,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:26:45+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "c25e58364b6f8869",
@@ -656,19 +692,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:08:15+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
-    },
-    {
-      "id": "8bae069ce28c5fbd",
-      "title": "三菱重工とＮＥＣ、防衛分野で提携 ＡＩや無人機に対応 - 時事ドットコム",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9id1RXQ2NwQ3Z4RVdsMW03NWRleTNBNW9NRlFjNmllWUZ0VWJqT2RpS1V1TVd2UTVjNUxUNTM4SDNoV0JJYWRvQV8tR3lzOE00VENIY191RTJjQV9rTmVxcXZNOA?oc=5",
-      "summary": "三菱重工とＮＥＣ、防衛分野で提携 ＡＩや無人機に対応 時事ドットコム",
-      "source": "時事ドットコム",
-      "feed_name": "重工・防衛 Google News",
-      "category": "press",
-      "importance": "high",
-      "published_at": "2026-09-02T10:07:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "cf883783c583cc69",
@@ -680,7 +704,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:06:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "a540e4c1f77bc8e0",
@@ -692,31 +716,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:06:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "dbd3b8a7153011e8",
-      "title": "三菱重工とＮＥＣ、防衛分野で提携 - ｄメニューニュース",
+      "title": "三菱重工とＮＥＣ、防衛分野で提携 - topics.smt.docomo.ne.jp",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sT3VRV3dTSkpDUjBmY3ZwUHE3ejJRcmh3ekhlbkJoT1pGQW1ERFA4Mi1VUUZjWkEyVDRYM0RXdXdKLXQwRVNaVVlNTW95UC1OT1Q5SllXZWh1VlZnNVp1WE41bnliU0twR2ZPZ1NUcUVrdjRxaGlKV0FCUdIBgAFBVV95cUxNS0dsU2VlZ3NZUjNIMEtaWnppb2tENGROVGNnbzBnTXpvOVBZUFJZNUhlZUVUeGNvMXM4ZnVsbENwUDZFVnJ4RXNTelFWUEtRNUtFV3FIN1RWYXpVTWtMazkzcnhYUG1qZFVTU1g4MzN6NFQ0TXJPcGU2ZmlFUk5GdQ?oc=5",
-      "summary": "三菱重工とＮＥＣ、防衛分野で提携 ｄメニューニュース",
-      "source": "ｄメニューニュース",
+      "summary": "三菱重工とＮＥＣ、防衛分野で提携 topics.smt.docomo.ne.jp",
+      "source": "topics.smt.docomo.ne.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T10:06:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
-    },
-    {
-      "id": "09a2ac69c283650b",
-      "title": "三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代] - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1U1NlZHFCNVIxNVc2QkhscGZ6dUQxYUEwT1R4bVF4WHRLSFBXejdhWFVFaHpQbnMxZW1Bb0EtWXBLcGo0QkdWcmVaRFR5dE5POFJocFBNQnFpUWcyWWIxNWNIaktFVUU?oc=5",
-      "summary": "三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代] 朝日新聞",
-      "source": "朝日新聞",
-      "feed_name": "重工・防衛 Google News",
-      "category": "intl",
-      "importance": "high",
-      "published_at": "2026-09-02T09:49:50+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "85ef51e45ee092c1",
@@ -728,31 +740,31 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-09-02T09:49:50+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "95a65cac59f42474",
-      "title": "NEC、「ミュトス」をサイバー防衛に活用＝脆弱性対策を高度化(時事通信) - Yahoo!ファイナンス",
+      "title": "NEC、「ミュトス」をサイバー防衛に活用＝脆弱性対策を高度化(時事通信) - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40MnRGamZsamFFNmY2OHUwdEZxcm1yckt2ZGlpUURVTWFlOEN1WW1vc2VsaEpGd1U4X1lsLV9YS3NJZXdibk1wWWcyNU5RYnBfRXM2YXBBMDdoS0JzS2R3WjdrakNDcGFzNGZOUm8wdWJ1TnFNLWgyM29XQWg3UQ?oc=5",
-      "summary": "NEC、「ミュトス」をサイバー防衛に活用＝脆弱性対策を高度化(時事通信) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "NEC、「ミュトス」をサイバー防衛に活用＝脆弱性対策を高度化(時事通信) finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-02T09:49:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "46c4c47db3b394fd",
-      "title": "三菱重とＮＥＣ、防衛分野で提携 指揮統制や無人装備などで協力(ロイター) - Yahoo!ファイナンス",
+      "title": "三菱重とＮＥＣ、防衛分野で提携 指揮統制や無人装備などで協力(ロイター) - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOWlhRGlkQ2wtLUExWE1KU3hCMGFUd2VnTHB4RzRuS2p5RTBEWkI2dXZ2cWtNWFpaVHAwWlhhOVdxOUI3cVRNVkRyb3pJZ3NuVGliRHdBR2dLdERwTWxRdWpwZnM4SFRmWlhrdm1ic2djSTVaN09OenNGSHRjbHlFM2tNQWtmZ2E4SkE0aVhXb0xwYmlyZ2RCVERMVQ?oc=5",
-      "summary": "三菱重とＮＥＣ、防衛分野で提携 指揮統制や無人装備などで協力(ロイター) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "三菱重とＮＥＣ、防衛分野で提携 指揮統制や無人装備などで協力(ロイター) finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T08:58:54+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "a3b7b2edc0911328",
@@ -764,19 +776,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T08:58:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
-    },
-    {
-      "id": "7741d27a82132dbb",
-      "title": "三菱重工とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 - nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZm1GU282bEg4MHlPazZsQzczM1BHNVA1OXdSbXR5SmJpY1lGS3Mzc2FGaVRDbnpCZVpxWnBhOFptbEljdWt2d1RyOWRoeF9mYUM4Vm5xa1lTM3FYaDF1ZnBFcU80dU4tWExlTA?oc=5",
-      "summary": "三菱重工とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 nikkei.com",
-      "source": "nikkei.com",
-      "feed_name": "重工・防衛 Google News",
-      "category": "news",
-      "importance": "high",
-      "published_at": "2026-09-02T08:51:39+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "481ae8730242298b",
@@ -788,7 +788,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T08:18:26+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "02829e1d38e15cf9",
@@ -800,7 +800,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T07:47:42+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "6097df0e13fd2d7a",
@@ -812,31 +812,55 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
+      "id": "09a2ac69c283650b",
+      "title": "三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代] - asahi.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1U1NlZHFCNVIxNVc2QkhscGZ6dUQxYUEwT1R4bVF4WHRLSFBXejdhWFVFaHpQbnMxZW1Bb0EtWXBLcGo0QkdWcmVaRFR5dE5POFJocFBNQnFpUWcyWWIxNWNIaktFVUU?oc=5",
+      "summary": "三菱重工とNEC、防衛分野で連携強化へ AIと防衛装備の技術融合 [AIの時代] asahi.com",
+      "source": "asahi.com",
+      "feed_name": "重工・防衛 Google News",
+      "category": "intl",
+      "importance": "high",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
+      "id": "7741d27a82132dbb",
+      "title": "三菱重工とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyZm1GU282bEg4MHlPazZsQzczM1BHNVA1OXdSbXR5SmJpY1lGS3Mzc2FGaVRDbnpCZVpxWnBhOFptbEljdWt2d1RyOWRoeF9mYUM4Vm5xa1lTM3FYaDF1ZnBFcU80dU4tWExlTA?oc=5",
+      "summary": "三菱重工とNEC、防衛ドローンで連携 AI指揮統制システムを国産化 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-09-02T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "bdb835915b708339",
-      "title": "決算:NEC、製造業系の買収検討 フィジカルAI・宇宙防衛が軸 - nikkei.com",
+      "title": "決算:NEC、製造業系の買収検討 フィジカルAI・宇宙防衛が軸 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HOEdkVUZaYkQ2b2ZJTVNQdWRpNVNYUGs2TVpUZ1diZW9Wb3luX1VxRDBLSUxQN2pfcHcxVHoxeXpkZ2NnWG1nZl9UWklGZUtyX0stM29FSmpBbWtLNDNnMWdfQmhZdmNFSV9fUw?oc=5",
-      "summary": "決算:NEC、製造業系の買収検討 フィジカルAI・宇宙防衛が軸 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "決算:NEC、製造業系の買収検討 フィジカルAI・宇宙防衛が軸 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "重工・防衛 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
-      "id": "34bc37b88b287b75",
-      "title": "三菱重工とNEC、防衛力の強化と変革に向け戦略的提携（9月2日） - J ディフェンス ニュース",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVSFI2bFR4Q1Z3MlAycHRQWERrWWFyc0ZJQ2pqR1ViYThPOFNLczZtbFNwaU9YWGJEb1NzSV80d0RFR3p2TVA3enBqQTUyVkVTRG5GSm5xazFWd2dk?oc=5",
-      "summary": "三菱重工とNEC、防衛力の強化と変革に向け戦略的提携（9月2日） J ディフェンス ニュース",
-      "source": "J ディフェンス ニュース",
+      "id": "8bae069ce28c5fbd",
+      "title": "三菱重工とＮＥＣ、防衛分野で提携 ＡＩや無人機に対応 - jiji.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9id1RXQ2NwQ3Z4RVdsMW03NWRleTNBNW9NRlFjNmllWUZ0VWJqT2RpS1V1TVd2UTVjNUxUNTM4SDNoV0JJYWRvQV8tR3lzOE00VENIY191RTJjQV9rTmVxcXZNOA?oc=5",
+      "summary": "三菱重工とＮＥＣ、防衛分野で提携 ＡＩや無人機に対応 jiji.com",
+      "source": "jiji.com",
       "feed_name": "重工・防衛 Google News",
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "af9f43e545f5ce15",
@@ -848,7 +872,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "59073944a43d9857",
@@ -860,7 +884,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "03d53458f506d73f",
@@ -872,7 +896,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-09-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "e25e1edd8c16aee8",
@@ -884,7 +908,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-09-02T06:45:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "120fb468de94a6c4",
@@ -896,19 +920,19 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-09-01T08:23:26+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "702064e5f827d612",
-      "title": "三菱重工やANAらに追い風？ 防衛省は資料で触れず…「エアバス異例視察」の深いワケ - ビジネス+IT",
+      "title": "三菱重工やANAらに追い風？ 防衛省は資料で触れず…「エアバス異例視察」の深いワケ - sbbit.jp",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JM2JPZVlYQWlMdHBRQkdvZmhCRFdXQWliVDZyYnFCUk9wSFl4QVhpMm5iN01Ec09tX2RhUXFSS0hINmRzRDdRQm8xS01RQkU?oc=5",
-      "summary": "三菱重工やANAらに追い風？ 防衛省は資料で触れず…「エアバス異例視察」の深いワケ ビジネス+IT",
-      "source": "ビジネス+IT",
+      "summary": "三菱重工やANAらに追い風？ 防衛省は資料で触れず…「エアバス異例視察」の深いワケ sbbit.jp",
+      "source": "sbbit.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-09-01T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "5a1f3b2fd5b15692",
@@ -920,7 +944,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-09-01T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "4c949214ca11b53a",
@@ -932,7 +956,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-09-01T05:08:12+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "17dbcb9a862fb241",
@@ -944,7 +968,7 @@
       "category": "stocks",
       "importance": "high",
       "published_at": "2026-09-01T00:44:19+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "56baf89b5ddbf563",
@@ -956,31 +980,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-31T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
-    },
-    {
-      "id": "eebb20c3ce5c8a2b",
-      "title": "【大気へのCO2排出を抑制】INPEXの柏崎水素パーク、枯渇ガス田へのCO2圧入開始 - niikei.jp",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE10ZG9KdEd0M0tOa05qbUpZR2pLZzIxVzI3YmY5QlpzZ09uRVgwXzljdW5VVTJSR2hpaHJPZjc0bE5WRzBz?oc=5",
-      "summary": "【大気へのCO2排出を抑制】INPEXの柏崎水素パーク、枯渇ガス田へのCO2圧入開始 niikei.jp",
-      "source": "niikei.jp",
-      "feed_name": "エネルギー・中東 Google News",
-      "category": "energy",
-      "importance": "high",
-      "published_at": "2026-08-30T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "9929e92434298149",
-      "title": "IHI、2027年3月期1Qは営業利益732億円で通期予想の29%。受注残高1兆4,873億円を抱えながら株価が下げたのはなぜか 受注残高1兆4,873億円と、単一の販売先が売上収益の16.5%を占める構造から、業績の土台を確かめる | 概要 | LIMO | くらしとお金の経済メディア - LIMO | くらしとお金の経済メディア",
+      "title": "IHI、2027年3月期1Qは営業利益732億円で通期予想の29%。受注残高1兆4,873億円を抱えながら株価が下げたのはなぜか 受注残高1兆4,873億円と、単一の販売先が売上収益の16.5%を占める構造から、業績の土台を確かめる | 概要 | LIMO | くらしとお金の経済メディア - limo.media",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DeGFrZzhiQkpBdTNIZHdmWFlWeGh4alUxZkoyYzNHeEhZbjh1S3dTakZ2SUxMWllrZDZuNzUtcktQc2JuVWc5cVI5WWY?oc=5",
-      "summary": "IHI、2027年3月期1Qは営業利益732億円で通期予想の29%。受注残高1兆4,873億円を抱えながら株価が下げたのはなぜか 受注残高1兆4,873億円と、単一の販売先が売上収益の16.5%を占める構造から、業績の土台を確かめる | 概要 | LIMO | くらしとお金の経済メディア LIMO | くらしとお金の経済メディア",
-      "source": "LIMO | くらしとお金の経済メディア",
+      "summary": "IHI、2027年3月期1Qは営業利益732億円で通期予想の29%。受注残高1兆4,873億円を抱えながら株価が下げたのはなぜか 受注残高1兆4,873億円と、単一の販売先が売上収益の16.5%を占める構造から、業績の土台を確かめる | 概要 | LIMO | くらしとお金の経済メディア limo.media",
+      "source": "limo.media",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-30T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "54e1af64f730a8d7",
@@ -992,7 +1004,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-28T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "c900e9b979b57b1a",
@@ -1004,7 +1016,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-27T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "3fa1beecdc3fec2c",
@@ -1016,19 +1028,19 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-27T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "9cde3e29f6688f6a",
-      "title": "INPEX、水素製造で発生したCO2の回収・貯留開始 新潟県で - nikkei.com",
+      "title": "INPEX、水素製造で発生したCO2の回収・貯留開始 新潟県で - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mdi1FbjIwT1d1OURHTm96MUxwVlNXM1cxUFhIQUg2LVV4c1BWQnZQeXZFQnZCdEZ6OXltLW5WMkVfd1Q2UXRaQUE2VWs1U21fdUZwclFkaTRNaThRTWNGR1ZOQTVMbjR6TjBMcQ?oc=5",
-      "summary": "INPEX、水素製造で発生したCO2の回収・貯留開始 新潟県で nikkei.com",
-      "source": "nikkei.com",
+      "summary": "INPEX、水素製造で発生したCO2の回収・貯留開始 新潟県で 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-27T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "4e4ddad1b192827a",
@@ -1040,7 +1052,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-27T01:04:51+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "64c62a1d8503414d",
@@ -1052,7 +1064,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-08-26T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "022497eb0043ea7f",
@@ -1064,7 +1076,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-25T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "1ddd6ce988e80ea8",
@@ -1076,7 +1088,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-25T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "46bad0a273fcc019",
@@ -1088,7 +1100,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-25T03:38:26+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "52dae13a6ebef030",
@@ -1100,43 +1112,43 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-24T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "43b1248558790eed",
-      "title": "ダイダンや日揮、受注2倍超 データセンターなど好調 2026企業収益③ - 日経ヴェリタス - nikkei.com",
+      "title": "ダイダンや日揮、受注2倍超 データセンターなど好調 2026企業収益③ - 日経ヴェリタス - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBUDZFOVZKYTBMVW1nOEFQSzhJejBxb1FyTDk4SC10S1F0ZEV2bEZubTJhNGpFMm1XV05OdHo5STBpZ2p4eURHaXI1N1NHbFUwd2Z3c1BKcVRJdHNodm42ZmdXVUJDT1puMXV1WEphYTZ2YWczUHV4U1h6MS03dw?oc=5",
-      "summary": "ダイダンや日揮、受注2倍超 データセンターなど好調 2026企業収益③ - 日経ヴェリタス nikkei.com",
-      "source": "nikkei.com",
+      "summary": "ダイダンや日揮、受注2倍超 データセンターなど好調 2026企業収益③ - 日経ヴェリタス 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-22T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "08d8fed05579dc71",
-      "title": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音 - ｄメニューニュース",
+      "title": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音 - topics.smt.docomo.ne.jp",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcEx5dTdtaXlQa3BuYzNpQnlEM2g2c2laOW9XRl9WY1pMc1R1NURLQndwZktvbk5YN3dJQnR4ZF9UVDVMMVVuSzFVRDR2LTUtZHlzWURzMGdJY0U3WWJETzFid2dKemhhTmhLZWhIX2ExYUlFbnVEekVzVFZic0E2bTVaajZrSjFfVTdacDVKMVBFcWFtUmQw0gGcAUFVX3lxTE9zZ0gtaUN1VnU1VUNhSERGVFNNRHc0d0c4NUx6WHhoVG9XQmowenZWekNEQ2lrT2s1UnVkZDJHWnJnQkVVNk5iRVJneG1xVTc2QlRtOUpiaWpiNENhRnV0WG52cjBnR2RvTnZDb3pETXRzN0pZc3ZwZERxd0poU2VTeERxX2hrUjh3Y2JSRnh5dVhPNXozQnRTUmZYdw?oc=5",
-      "summary": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音 ｄメニューニュース",
-      "source": "ｄメニューニュース",
+      "summary": "「私がウダウダしゃべるより聞きやすい」 三菱重工、決算説明に“AIジュリア”起用の本音 topics.smt.docomo.ne.jp",
+      "source": "topics.smt.docomo.ne.jp",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-22T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "58bd04c56f82366a",
-      "title": "三菱重工－丸三が目標株価引き上げ 業績予想を上方修正〔DZH 個別株情報〕(時事通信) - Yahoo!ファイナンス",
+      "title": "三菱重工－丸三が目標株価引き上げ 業績予想を上方修正〔DZH 個別株情報〕(時事通信) - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUZCQVFpMTJONy1zRWQyU2VNdzNQMFY3YXp3djZaS2x5TWVnNTFqVmtxQkJFN0k4OERaazh6UjNqRGJqRE1nRmoxcVE0bUlhVFBZbFZkVU90SGNFVzdNU210d2Rac0tha2g2Y0ZEbjVobzMtZjdTdnJlbkpraG9YS3dMckVUdW8?oc=5",
-      "summary": "三菱重工－丸三が目標株価引き上げ 業績予想を上方修正〔DZH 個別株情報〕(時事通信) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "三菱重工－丸三が目標株価引き上げ 業績予想を上方修正〔DZH 個別株情報〕(時事通信) finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-21T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "084c9fb20085995b",
@@ -1148,19 +1160,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "a8c60ba109163ab4",
-      "title": "【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend - ビジネス+IT",
+      "title": "【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend - sbbit.jp",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RWXdXM2pmRmlYUVBJNkxOVy1xNmtXcmV2T3VCQ281cG1CYTl5X0x1QkN0cmZfcFdRaF84eEtBRGNIcWZwWlFyY0ZjZDhnbXM?oc=5",
-      "summary": "【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend ビジネス+IT",
-      "source": "ビジネス+IT",
+      "summary": "【比較】三菱重工・IHI・川崎重工、実はドル箱「航空エンジン特需」の勝ち組はどこか ｜Seizo Trend sbbit.jp",
+      "source": "sbbit.jp",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "da758e8b2255bd54",
@@ -1172,7 +1184,7 @@
       "category": "intl",
       "importance": "high",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "65842f2609d13928",
@@ -1184,7 +1196,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "4508d35ccd4a4cf4",
@@ -1196,7 +1208,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-20T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "bc8241dd573f420c",
@@ -1208,7 +1220,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-18T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "991851f6ef75f5ea",
@@ -1220,7 +1232,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-18T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "127e43899b4afaaf",
@@ -1232,7 +1244,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-18T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "0abd245b9c205440",
@@ -1244,19 +1256,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-17T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "899583fcc684616b",
-      "title": "(株)ＩＮＰＥＸ【1605】：決算説明会書き起こし - Yahoo!ファイナンス",
+      "title": "(株)ＩＮＰＥＸ【1605】：決算説明会書き起こし - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ybGl6Qmt4b2hWaXhpRFEwUVdpSkxzaEVYanh0NGd0NXpybGd6bFBPS0JCcnFOR0dxeTk2UWNuQnBvRVlTZ09pQVB0Uk9mVDYyOTNtTWpKeDdBelVaS2prajM2OERUMVMxM1Aza1J6NDJYVVMzQjBDZA?oc=5",
-      "summary": "(株)ＩＮＰＥＸ【1605】：決算説明会書き起こし Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "(株)ＩＮＰＥＸ【1605】：決算説明会書き起こし finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-13T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "a0b61d5cead2640a",
@@ -1268,7 +1280,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-13T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "c53747c4e79132d6",
@@ -1280,7 +1292,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-08T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "1139d6344010e8ff",
@@ -1292,19 +1304,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
-    },
-    {
-      "id": "a2288bdcb8cc308b",
-      "title": "日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地 - 株探",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mN2JWRjlKdmlaN19xLXJLaktmTWZRNjFTT2VTaUwyQjRzVDFERVFzOGdvOGhoUmhFSE1WQjhLcDNIcUVtLVpHYVBjLVhKVVpjNWc?oc=5",
-      "summary": "日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地 株探",
-      "source": "株探",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "44054e8d75548a96",
@@ -1316,19 +1316,43 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
-      "id": "9db262413b162f1b",
-      "title": "決算:INPEX純利益上振れ 26年12月期29％増、自社株買い1400億円 - nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoV2V2Q2dJRk5aa2FCTnVDeXpuM0ZEbFdIOHI0VDI0M3pfWTZvNlBGMmtQTHRtZlgzajR6YTVCYU9tWnBTWTdpT3JuclNZMXpaVlVtcEt4Z2NUNGJVMEhDOEJOLTlzd1hYRGgzOQ?oc=5",
-      "summary": "決算:INPEX純利益上振れ 26年12月期29％増、自社株買い1400億円 nikkei.com",
-      "source": "nikkei.com",
+      "id": "a2288bdcb8cc308b",
+      "title": "日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地 - 株探",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mN2JWRjlKdmlaN19xLXJLaktmTWZRNjFTT2VTaUwyQjRzVDFERVFzOGdvOGhoUmhFSE1WQjhLcDNIcUVtLVpHYVBjLVhKVVpjNWc?oc=5",
+      "summary": "日揮ＨＤ、4-6月期(1Q)経常は2.3倍増益で着地 株探",
+      "source": "株探",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
+    },
+    {
+      "id": "9db262413b162f1b",
+      "title": "決算:INPEX純利益上振れ 26年12月期29％増、自社株買い1400億円 - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoV2V2Q2dJRk5aa2FCTnVDeXpuM0ZEbFdIOHI0VDI0M3pfWTZvNlBGMmtQTHRtZlgzajR6YTVCYU9tWnBTWTdpT3JuclNZMXpaVlVtcEt4Z2NUNGJVMEhDOEJOLTlzd1hYRGgzOQ?oc=5",
+      "summary": "決算:INPEX純利益上振れ 26年12月期29％増、自社株買い1400億円 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:12+00:00"
+    },
+    {
+      "id": "933e9bebb1ee688b",
+      "title": "ＩＮＰＥＸや石油資源が高い、イラン情勢に不透明感高まりＷＴＩは７８ドル台に上昇 - 株探",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpX3UxVi1wMlZfaWM4dnQybFZpaEYzWVJOZDAzXzNMZnBwWkRnV0t4Zl9iT3lBczhLWXF1RE1pRDNRMi1DQ2xxYWk0MWxuemR6NEZFRmxVT0hZNlRrTmExSw?oc=5",
+      "summary": "ＩＮＰＥＸや石油資源が高い、イラン情勢に不透明感高まりＷＴＩは７８ドル台に上昇 株探",
+      "source": "株探",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "a8822a2eab739cc6",
@@ -1340,43 +1364,31 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "305ba9afa5c98203",
-      "title": "エネルギー各社、中東情勢見通し悪化 INPEXは10月正常化を念頭 - nikkei.com",
+      "title": "エネルギー各社、中東情勢見通し悪化 INPEXは10月正常化を念頭 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jT2lKLTlGdU9VaTU3ZWttTmJ5dllwd2VmYU5BTUZzenBTLU9nNEFNQTA5WXR1X2hMS01xMTU5NW5GOGY1aEw3NUtiYVRDVTdpdUUyOXhIWVBIbF8wZ01YLWdfdDF2dG1tRlZMRw?oc=5",
-      "summary": "エネルギー各社、中東情勢見通し悪化 INPEXは10月正常化を念頭 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "エネルギー各社、中東情勢見通し悪化 INPEXは10月正常化を念頭 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "78670bcd5a5ff76b",
-      "title": "業績修正（大引け後）－ＩＮＰＥＸ、リクルート、三菱ガス化学、テルモなど(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+      "title": "業績修正（大引け後）－ＩＮＰＥＸ、リクルート、三菱ガス化学、テルモなど(トレーダーズ・ウェブ) - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2loS1otVEQ2SlBiWVNNRVoxY3JrSGJmX3Bvc2FzMkhiMFBzZVp1UjQyX0IyT1h5UWpwbXN0SlEwVWlONEk5ZFcwamlieVd5bzJLaElYNTRkb2xKMlhvWkl3RXpyQkkxcWxvOTRrQ3hVVFZwWXM3SGRIajVSVGxHNGlOSVpSYW8?oc=5",
-      "summary": "業績修正（大引け後）－ＩＮＰＥＸ、リクルート、三菱ガス化学、テルモなど(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "業績修正（大引け後）－ＩＮＰＥＸ、リクルート、三菱ガス化学、テルモなど(トレーダーズ・ウェブ) finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
-    },
-    {
-      "id": "71d9d39f3daec8da",
-      "title": "INPEX、通期純利益を5100億円に大幅上方修正 年間配当112円へ増配 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0U3MyTkluUWFYc200SWtRWUU3OG9NcnVHXzZwdmg4aDhpdDRHdXVxRWhLc25KTG5ZN0pvR0N2VnB2Y2lHZ2lRaFBSVjNEaW5YR0tWd1B1Q0thSUFBREdxQ2VWd1Q1NExZYnV6MWtQOGtjamF6?oc=5",
-      "summary": "INPEX、通期純利益を5100億円に大幅上方修正 年間配当112円へ増配 BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "243ee7c32057b1f2",
@@ -1388,7 +1400,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "4aea1fe5e09eb751",
@@ -1400,7 +1412,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "f9002f4be920b22b",
@@ -1412,7 +1424,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "8f6a455c65957e83",
@@ -1424,31 +1436,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
-    },
-    {
-      "id": "0beb15ae1c1b12d4",
-      "title": "日揮ホールディングス[1963]：業績連動型株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LRUJJMDlnUUNadWpwdmdrZXIyVmVNbUZadEVkWWRrd1RaUGRsZ2k5VmVDa09WeFFGVEphSU53ZXFrM3hRcGtDREwwdmMtVjYwTGpvbG5uOEpOQ0ZGZFhqdHdXRXg5dmxNYkE?oc=5",
-      "summary": "日揮ホールディングス[1963]：業績連動型株式報酬としての自己株式の処分の払込完了に関するお知らせ 2026年8月6日(適時開示) ：日経会社情報DIGITAL nikkei.com",
-      "source": "nikkei.com",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
-    },
-    {
-      "id": "8d2d250d508f9f2c",
-      "title": "IHI 航空、防衛事業好調で上方修正 2027年3月期業績予想 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報 - 上毛新聞電子版",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Pc1lmOTRrSXcxQjN2cWdDTlIwallCY0EwdnRBdXBmVFFfd0dWOXRhMDdJdC02YTVpcnF0a3NNaXFkTkhWMm1jWE5odTVkallNbWxPUzZQaHo?oc=5",
-      "summary": "IHI 航空、防衛事業好調で上方修正 2027年3月期業績予想 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報 上毛新聞電子版",
-      "source": "上毛新聞電子版",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "af428352f9f80c52",
@@ -1460,7 +1448,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "e4cc60ea02fba9c8",
@@ -1472,43 +1460,43 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "1caed0a8181329cb",
-      "title": "決算:IHIの純利益上振れ 27年3月期7%増、円安が利益押し上げ - nikkei.com",
+      "title": "決算:IHIの純利益上振れ 27年3月期7%増、円安が利益押し上げ - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBycUdvSEhUM1RRNnpNRkJtcGhPaHB1MTdEQm9CckdNbDlLcmpHYVMxM3V2Mm5mcmVzd1IzLVYyaGQzZFoyYUprOUgyMG9mWGwzSXhnd2ZvVi1OZ3FhbFlFbERjWXV2Tm1mcWVLMw?oc=5",
-      "summary": "決算:IHIの純利益上振れ 27年3月期7%増、円安が利益押し上げ nikkei.com",
-      "source": "nikkei.com",
+      "summary": "決算:IHIの純利益上振れ 27年3月期7%増、円安が利益押し上げ 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "a6e1622abd511084",
-      "title": "(株)ＩＨＩ【7013】：決算情報 - Yahoo!ファイナンス",
+      "title": "(株)ＩＨＩ【7013】：決算情報 - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tbGR2MVQybVdLZmpROFF5TkpXUEViZTd5dW9mN04zNjVsVWhCWlZ3aF9wTGNyaHBJazE3SnJVb3RoNmRteEZqeGQxLTMzQ0xoYlpDeFhheHZqeTRTd3VWVg?oc=5",
-      "summary": "(株)ＩＨＩ【7013】：決算情報 Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "(株)ＩＨＩ【7013】：決算情報 finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "73492d43d176a8d1",
-      "title": "業績上方修正のイビデンがストップ高！ ダイキン・IHI下落/日経平均急伸【今日の注目株＆日本株市場見通し】「デイリーZAi」8月5日号(ダイヤモンド・ザイ) - Yahoo!ファイナンス",
+      "title": "業績上方修正のイビデンがストップ高！ ダイキン・IHI下落/日経平均急伸【今日の注目株＆日本株市場見通し】「デイリーZAi」8月5日号(ダイヤモンド・ザイ) - finance.yahoo.co.jp",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR245c2s2Y3lBRlVKODVkUUotR1A4OF9tNmxEeklxQUFTSkZBX1Q3dTE1VXN0RHktclVTZXBzTldCV2w5aUMtOE5JUDNaVXJnVVlxMUpCZnlNMG1wMVUxOFowcWp6MHlrWkVUVkxuVDFMc3ZvWUZ1TjFDT09tblZLRDdoMHozTnM?oc=5",
-      "summary": "業績上方修正のイビデンがストップ高！ ダイキン・IHI下落/日経平均急伸【今日の注目株＆日本株市場見通し】「デイリーZAi」8月5日号(ダイヤモンド・ザイ) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "summary": "業績上方修正のイビデンがストップ高！ ダイキン・IHI下落/日経平均急伸【今日の注目株＆日本株市場見通し】「デイリーZAi」8月5日号(ダイヤモンド・ザイ) finance.yahoo.co.jp",
+      "source": "finance.yahoo.co.jp",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "652ed3dae73cbf57",
@@ -1520,19 +1508,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "92821347b038a45d",
-      "title": "なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析 - LIMO | くらしとお金の経済メディア",
+      "title": "なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析 - limo.media",
       "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LX1prdEpweGViSWtMNkZLLWxYQzV6RThoMlNra1hoWnNjQjRxYzVLS3QxWHBZTTRNSDRGNkJzTkxYaUtza2FsODFNMkU?oc=5",
-      "summary": "なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析 LIMO | くらしとお金の経済メディア",
-      "source": "LIMO | くらしとお金の経済メディア",
+      "summary": "なぜ重工3社は儲かるのか？三菱・川崎・IHIの事業構造と知られざる強みを元機関投資家が分析 limo.media",
+      "source": "limo.media",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "2a649afac04a0d0f",
@@ -1544,7 +1532,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "0a9e38fe80a5ccd8",
@@ -1556,7 +1544,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-05T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "9479dff7a92abaa0",
@@ -1568,7 +1556,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-08-05T01:43:38+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "61330039e90ad5ce",
@@ -1580,7 +1568,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "f8111fe6d3bfb512",
@@ -1592,19 +1580,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "127237eb08f5d218",
-      "title": "「中東と長期的なパートナーシップを」 三井物産社長が説く重要性 [＊令和のオイルショック] - 朝日新聞",
+      "title": "「中東と長期的なパートナーシップを」 三井物産社長が説く重要性 [＊令和のオイルショック] - asahi.com",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vdk45aWpqV1dua0VrOEtKZ2VGWFliV0V4ZzJ3X2FqZTdMYkJ1TnNLUHQzSHRBdS1HZUR5cnBrOHhIS3BJWlRyQXdGRGZ0S0s4NjZXMU9Va29YUVdSYUN1dXQ1WTNCQ1k?oc=5",
-      "summary": "「中東と長期的なパートナーシップを」 三井物産社長が説く重要性 [＊令和のオイルショック] 朝日新聞",
-      "source": "朝日新聞",
+      "summary": "「中東と長期的なパートナーシップを」 三井物産社長が説く重要性 [＊令和のオイルショック] asahi.com",
+      "source": "asahi.com",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "f9227d35032a87f5",
@@ -1616,7 +1604,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-04T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "a86bc2a37a7845c5",
@@ -1628,31 +1616,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "5f69799a298fb110",
-      "title": "千代田化工、カタールのLNGプラントを修復計画策定 イラン攻撃で損傷 - nikkei.com",
+      "title": "千代田化工、カタールのLNGプラントを修復計画策定 イラン攻撃で損傷 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0MTJkaFBfRXczeXduZzRidEltNzhEbU9VUjNGOHZJVVJEeF9VNjNmRzlBelVJOVlDNDZ0U2k1RjYzaVZBMnpEa2NhOWQwM3IyVS1nQVZmdUdxZXJ3VTVaRzUtdUJqZ1ZlbFk2Sg?oc=5",
-      "summary": "千代田化工、カタールのLNGプラントを修復計画策定 イラン攻撃で損傷 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "千代田化工、カタールのLNGプラントを修復計画策定 イラン攻撃で損傷 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "intl",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
-    },
-    {
-      "id": "745e93a4f7701d5a",
-      "title": "三菱重工、受注高見通しを7兆円に引き上げ ガスタービンと防衛が牽引 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BV3gycXVEaV9mV095ZTFiRldzN1hackh4bXM3b3U3djlEbWN2alpDSUdpTFVOSVlqaFljeFBlT0Y2QjRWMlFiRFVxVlRtYUVyYkFFV2dkd1FFcDFXYXJJTFkzQ1NDNFJFclh4dV8wVHR4VGZL?oc=5",
-      "summary": "三菱重工、受注高見通しを7兆円に引き上げ ガスタービンと防衛が牽引 BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "e123fce6a9569327",
@@ -1664,19 +1640,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
-      "id": "32e83278549547f6",
-      "title": "【決算速報】千代田化工建設、1Q経常6,290百万。(アイフィス株予報) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0trVkZSOUZPa3JvTGRPeG1YbDhETGI3MnFQSmNPbjBBV2VuY05qaDdSRC0yRUFOTEpBUEF4RmFuS2tDcm02d05wQkFUU2tsWHBsdU5sLWFUc0dGSFMxOEF6cjJaZ1YtUjhqUjZnRUdHdUZMNGppT1hmZVFMdlZERWQxb0tDVXM?oc=5",
-      "summary": "【決算速報】千代田化工建設、1Q経常6,290百万。(アイフィス株予報) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
+      "id": "745e93a4f7701d5a",
+      "title": "三菱重工、受注高見通しを7兆円に引き上げ ガスタービンと防衛が牽引 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BV3gycXVEaV9mV095ZTFiRldzN1hackh4bXM3b3U3djlEbWN2alpDSUdpTFVOSVlqaFljeFBlT0Y2QjRWMlFiRFVxVlRtYUVyYkFFV2dkd1FFcDFXYXJJTFkzQ1NDNFJFclh4dV8wVHR4VGZL?oc=5",
+      "summary": "三菱重工、受注高見通しを7兆円に引き上げ ガスタービンと防衛が牽引 BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-03T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "c825f857313421aa",
@@ -1688,31 +1664,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-08-02T21:08:42+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
-    },
-    {
-      "id": "b0ec407eadf979a6",
-      "title": "川崎重工、造船業見直しへ 業績悪化「継続性含め検討」 - 朝日新聞",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaEtoN01Wa3J5NkMySmRuVXZUaGNmdzhDVGs0NWhQZ2pkX3VKR0xWYUpEcVVzR0pRalM2T3ExZDVhQ2xqSllUWjVwN3A4R2U1OGVHaHhrQk83bmhPU2xMSndXeEluOXQwS2xzRHNiNzRKZTYzWndqVmx0VG1Ga1hvZ0dkdlVEbUMteElzbnZFSGpyZU1uWnVPWFdn?oc=5",
-      "summary": "川崎重工、造船業見直しへ 業績悪化「継続性含め検討」 朝日新聞",
-      "source": "朝日新聞",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-08-01T22:41:25+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
-    },
-    {
-      "id": "aa7d6c972dac7122",
-      "title": "JERA武豊火力発電所向けバイオマス搬送設備改造工事を受注 - khi.co.jp",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qZHhlczlCOGRxUDhJZm9aeDQzeE9VMjR2WWR4QllsdmRXRWlTakRDR1BOZUx2T1VpNzVTMFl4WXRNZEp6V1YtRjdBc3hzU2t0bXRaVjFVNEMxUnZIWm1GcVVvLVF6X0M0?oc=5",
-      "summary": "JERA武豊火力発電所向けバイオマス搬送設備改造工事を受注 khi.co.jp",
-      "source": "khi.co.jp",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-07-31T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "b72f3412824a656e",
@@ -1724,19 +1676,19 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "edea50bb7cdf3aa1",
-      "title": "NECの2026年度第1四半期連結業績は増収増益、国内ITサービスと航空宇宙・防衛が貢献 - cloud.watch.impress.co.jp",
+      "title": "NECの2026年度第1四半期連結業績は増収増益、国内ITサービスと航空宇宙・防衛が貢献 - クラウド Watch",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wZ1hmTkw3cUdaN2tTMTU4NHdJWXAxS21mTlU2OWR5eHFVUVpWWkF4MGJmWkJnUzZQZjFXbGVKak55SjdmQnJFZjVNaWVoRE1Ia3BvRUlTb256bktGOGJkclE2OTZsV3c?oc=5",
-      "summary": "NECの2026年度第1四半期連結業績は増収増益、国内ITサービスと航空宇宙・防衛が貢献 cloud.watch.impress.co.jp",
-      "source": "cloud.watch.impress.co.jp",
+      "summary": "NECの2026年度第1四半期連結業績は増収増益、国内ITサービスと航空宇宙・防衛が貢献 クラウド Watch",
+      "source": "クラウド Watch",
       "feed_name": "重工・防衛 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "e948fd1f60449f9a",
@@ -1748,7 +1700,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "3c95f4607d658c97",
@@ -1760,19 +1712,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-30T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
-    },
-    {
-      "id": "7535624630d6852a",
-      "title": "中部電力、4～6月期は営業赤字転落もJERA利益で経常黒字確保 通期純利益は3割減予想 - BigGo ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFbzBvRi1RMHhPbC0tR0Y5N1N6VHFaMUVCU2RBb3hKVmNPMDFaQ1ZHVnNnQzFBd0RNZzMyaFVPZnBZYTRHNHJTQnpZaWp5b1I1Q01EdHFYUmN2M0JTT3Q2R1oxWl9ZMnI5UzNEY3JBcjhyZ3cx?oc=5",
-      "summary": "中部電力、4～6月期は営業赤字転落もJERA利益で経常黒字確保 通期純利益は3割減予想 BigGo ファイナンス",
-      "source": "BigGo ファイナンス",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-07-30T02:43:06+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "2ee25002192ffbb5",
@@ -1784,7 +1724,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "7dad12b6bb8e7531",
@@ -1796,7 +1736,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
+    },
+    {
+      "id": "7535624630d6852a",
+      "title": "中部電力、4～6月期は営業赤字転落もJERA利益で経常黒字確保 通期純利益は3割減予想 - BigGo ファイナンス",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBFbzBvRi1RMHhPbC0tR0Y5N1N6VHFaMUVCU2RBb3hKVmNPMDFaQ1ZHVnNnQzFBd0RNZzMyaFVPZnBZYTRHNHJTQnpZaWp5b1I1Q01EdHFYUmN2M0JTT3Q2R1oxWl9ZMnI5UzNEY3JBcjhyZ3cx?oc=5",
+      "summary": "中部電力、4～6月期は営業赤字転落もJERA利益で経常黒字確保 通期純利益は3割減予想 BigGo ファイナンス",
+      "source": "BigGo ファイナンス",
+      "feed_name": "IR・決算・受注 Google News",
+      "category": "ir",
+      "importance": "high",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "5f8610648dab5e82",
@@ -1808,7 +1760,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-29T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "e4c6e29ba3db2fbb",
@@ -1820,7 +1772,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-23T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "aa6a065656013872",
@@ -1832,7 +1784,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-23T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "86c8063dce840ede",
@@ -1844,19 +1796,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-21T21:04:01+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "49178845b7c9df57",
-      "title": "ホルムズ海峡封鎖にも動じない「三菱商事」LNG事業の全貌 - 新潮QUE",
+      "title": "ホルムズ海峡封鎖にも動じない「三菱商事」LNG事業の全貌 - que.dailyshincho.jp",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1djlBT1lGQkEwVW9uVEN5eDR6WFBaSU8tV0Etb0ZXb3gtT2tpbG5sbUV3cFhRV01sZ3JPakhKNURhREswelhobENLWHptQ3B4?oc=5",
-      "summary": "ホルムズ海峡封鎖にも動じない「三菱商事」LNG事業の全貌 新潮QUE",
-      "source": "新潮QUE",
+      "summary": "ホルムズ海峡封鎖にも動じない「三菱商事」LNG事業の全貌 que.dailyshincho.jp",
+      "source": "que.dailyshincho.jp",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-21T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "5d903d033928aa1f",
@@ -1868,7 +1820,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-21T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "f316d3817e339961",
@@ -1880,7 +1832,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-17T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "302131a05610d991",
@@ -1892,19 +1844,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-16T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
-    },
-    {
-      "id": "9ad1ac7f6d9317a0",
-      "title": "【アナリスト予想】ＩＮＰＥＸ、26年12月期経常予想。対前週2.1%下降。(アイフィス株予報) - Yahoo!ファイナンス",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNm14Q21LMTI5YkpGTzFORzcyUHRFRmJLQzdhdHkybWVFNzQ2U0x6N2FsOTFQMW5GSjhZRDRINWN6TXZQT0JqU3lob1oyYTQwRXNNUlhMTXV0d21aXzhubUZ6X2hna2V6UjNPMHZXYnQ5azFfc3h6VDgwNU9lNTg4b05vUFNQOUk?oc=5",
-      "summary": "【アナリスト予想】ＩＮＰＥＸ、26年12月期経常予想。対前週2.1%下降。(アイフィス株予報) Yahoo!ファイナンス",
-      "source": "Yahoo!ファイナンス",
-      "feed_name": "IR・決算・受注 Google News",
-      "category": "ir",
-      "importance": "high",
-      "published_at": "2026-07-15T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "8d190eb28cc6a028",
@@ -1916,19 +1856,19 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-14T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "a57b8abc9508f9ba",
-      "title": "JERA、サムスン系とアンモニア供給網の構築で協業 - nikkei.com",
+      "title": "JERA、サムスン系とアンモニア供給網の構築で協業 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QX21YLW5FV1NNUUhSUUQxWFVDWUNteGw1UFk1Q3pRQzBRa2VqS3k3dm94SF9wSGJ0dEVDd3owS1lTNnlNR0Y0TE5vNjdmSkozMU93Vm5IbjVIMDFXbnFoTXJJdWZzWnhZOVhlUw?oc=5",
-      "summary": "JERA、サムスン系とアンモニア供給網の構築で協業 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "JERA、サムスン系とアンモニア供給網の構築で協業 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "2b4c1bc5678f4368",
@@ -1940,7 +1880,7 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "db7e2de39ecd36ae",
@@ -1952,19 +1892,19 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "d2d7bed1db481539",
-      "title": "日揮ホールディングス[1963]：業績連動型株式報酬としての自己株式の処分に関するお知らせ 2026年7月13日(適時開示) ：日経会社情報DIGITAL - nikkei.com",
+      "title": "日揮ホールディングス[1963]：業績連動型株式報酬としての自己株式の処分に関するお知らせ 2026年7月13日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HcjJhVzBwXzFCYWloaWZLX09DdTBsZl93SXVtSFo5UUtPdURKUVFCMDNpc2R5TENIQXFIUjlKMXRjSGwyY1ZNYzEtSWlhRjRBU1V2aGMwVk96RlpwQ0ExbnhPMUN2OE0wbXc?oc=5",
-      "summary": "日揮ホールディングス[1963]：業績連動型株式報酬としての自己株式の処分に関するお知らせ 2026年7月13日(適時開示) ：日経会社情報DIGITAL nikkei.com",
-      "source": "nikkei.com",
+      "summary": "日揮ホールディングス[1963]：業績連動型株式報酬としての自己株式の処分に関するお知らせ 2026年7月13日(適時開示) ：日経会社情報DIGITAL 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "IR・決算・受注 Google News",
       "category": "ir",
       "importance": "high",
       "published_at": "2026-07-13T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "c3af24ff820feb55",
@@ -1976,7 +1916,7 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-09T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "fe2232d4f771887b",
@@ -1988,7 +1928,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-08T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "abc6ce86bf5239a6",
@@ -2000,19 +1940,19 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-08T02:24:06+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "69279cde0443600e",
-      "title": "INPEXがアブダビ国営からLNG 年100万トン、中東で初の長期契約 - nikkei.com",
+      "title": "INPEXがアブダビ国営からLNG 年100万トン、中東で初の長期契約 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15ZnZielFDYTQ5alVHd2JDdXVjX2ZBdHZmSXdKLW5oaWMwXzR6UkQyU3ljSUhMTFJYRHRUZndlLTBMbW96Y3o4RERLdjRNeWZDVWVPSUVMWGJieUdCbUwzcHJLeVJaelhiYXRfRw?oc=5",
-      "summary": "INPEXがアブダビ国営からLNG 年100万トン、中東で初の長期契約 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "INPEXがアブダビ国営からLNG 年100万トン、中東で初の長期契約 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "5d955a9f71fb0efd",
@@ -2024,7 +1964,7 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-07T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "00155ee3336a9fac",
@@ -2036,7 +1976,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "a6b38e7f736f2c1b",
@@ -2048,7 +1988,7 @@
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-07-06T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "3e6b0fe1cb587c71",
@@ -2060,7 +2000,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-03T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "ae1b333dac02f4ed",
@@ -2072,7 +2012,7 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-07-03T02:57:57+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "5600ec74654711b9",
@@ -2084,43 +2024,43 @@
       "category": "press",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "43f7393ce56a5e2b",
-      "title": "JERA、国内最大の石炭火力でアンモニア発電 混焼率6割で脱炭素へ - nikkei.com",
+      "title": "JERA、国内最大の石炭火力でアンモニア発電 混焼率6割で脱炭素へ - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RNERUdHBmNTZlbERoZnlHNkxHY19NUjVjOUdNTUp4bnNNaEhYMVBqeEVRd1U0V2N4X1MwcFpSVGh1YVlRbGxJR3hiT3o5dlpIemlEdzlWQ2tQZWxZd0tZTFZxaFhRN2JBRWRpSg?oc=5",
-      "summary": "JERA、国内最大の石炭火力でアンモニア発電 混焼率6割で脱炭素へ nikkei.com",
-      "source": "nikkei.com",
+      "summary": "JERA、国内最大の石炭火力でアンモニア発電 混焼率6割で脱炭素へ 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-02T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "edd69fab7913ae15",
-      "title": "JERAがLNG調達の新会社 安定輸入へ部門統合、意思決定を迅速化 - nikkei.com",
+      "title": "JERAがLNG調達の新会社 安定輸入へ部門統合、意思決定を迅速化 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GeVV2aXR6cF9LSHVUVUhiSHJPX3R6Ukx0SnF3bm9ucXZhQUxCSlIwa2l6ZVZuMk5Fd29GZkdtZU9uZVRmbm9QbkhDc1FSaWgtRmtIVGxnVWpCczgtQmp0Uk9VZzh5UFVLQnRPOA?oc=5",
-      "summary": "JERAがLNG調達の新会社 安定輸入へ部門統合、意思決定を迅速化 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "JERAがLNG調達の新会社 安定輸入へ部門統合、意思決定を迅速化 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-07-01T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "e083fb72c1f70422",
-      "title": "JERA、タイで水素・アンモニア供給網 政府系電力と協業 - nikkei.com",
+      "title": "JERA、タイで水素・アンモニア供給網 政府系電力と協業 - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1OTlCc1A2cGo3SHNtczhUSGd4N0t0b3gwYTNhQ243NWxmckxsdmFRTW1nczhzU1ROZnY1ajlIZGlsMW96c2VvbVlNM1R1clB2aEhQTjIxdFNCQ28wSXhiRTlVakFzLUh0SlN0SQ?oc=5",
-      "summary": "JERA、タイで水素・アンモニア供給網 政府系電力と協業 nikkei.com",
-      "source": "nikkei.com",
+      "summary": "JERA、タイで水素・アンモニア供給網 政府系電力と協業 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-30T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "49b679f6baefcb04",
@@ -2132,19 +2072,19 @@
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-29T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "2296eca028803bad",
-      "title": "三菱重工社長、防衛ドローン「得意とする分野」 少量多品種生産強み - nikkei.com",
+      "title": "三菱重工社長、防衛ドローン「得意とする分野」 少量多品種生産強み - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yS2FTcnROV1FtalRpVXFuRFduX3VVTENUQ1ZPRHJ0djI4cV92S0FITHIzMGRGcnBQazdybmdxQ2c5OGNBdG03Z1VFWXZBQjl4eVhfQ2EwblBRTS1sVjI4QTBsdFFtR3dwV1gtTA?oc=5",
-      "summary": "三菱重工社長、防衛ドローン「得意とする分野」 少量多品種生産強み nikkei.com",
-      "source": "nikkei.com",
+      "summary": "三菱重工社長、防衛ドローン「得意とする分野」 少量多品種生産強み 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "重工・防衛 Google News",
       "category": "news",
       "importance": "high",
       "published_at": "2026-06-26T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:26+00:00"
+      "fetched_at": "2026-09-11T05:26:08+00:00"
     },
     {
       "id": "53fb19606a83c32d",
@@ -2156,31 +2096,31 @@
       "category": "ir",
       "importance": "high",
       "published_at": "2026-06-26T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:29+00:00"
+      "fetched_at": "2026-09-11T05:26:12+00:00"
     },
     {
       "id": "2b6ca8a5f669acf2",
-      "title": "オン抵抗25％低減 三菱電機の第5世代SiC-MOSFET：独自トレンチ構造を採用 - edn.itmedia.co.jp",
+      "title": "オン抵抗25％低減 三菱電機の第5世代SiC-MOSFET：独自トレンチ構造を採用 - EDN Japan",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5aDkyQjUwZWZnU0g0R2FBU3hpVThIV1BwUFRnZ3BGang1OUd1Z1RFRmZ6TnAwMlFqVmE4eUxmQkdNbUNqTE1CaXhTWEF6ZGNqOFBVeFl6bXJ1WUNtaVFYSGhzTHhhNElHbHdR?oc=5",
-      "summary": "オン抵抗25％低減 三菱電機の第5世代SiC-MOSFET：独自トレンチ構造を採用 edn.itmedia.co.jp",
-      "source": "edn.itmedia.co.jp",
+      "summary": "オン抵抗25％低減 三菱電機の第5世代SiC-MOSFET：独自トレンチ構造を採用 EDN Japan",
+      "source": "EDN Japan",
       "feed_name": "採用・インターン Google News",
       "category": "jobs",
       "importance": "med",
       "published_at": "2026-06-25T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:30+00:00"
+      "fetched_at": "2026-09-11T05:26:13+00:00"
     },
     {
       "id": "7f368a7b95fab28e",
-      "title": "JERA、石炭火力電力の販売再開を検討 中東情勢受け企業向けに安く - nikkei.com",
+      "title": "JERA、石炭火力電力の販売再開を検討 中東情勢受け企業向けに安く - 日本経済新聞",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjOVpuWEt4WnZpZzE3WGttZllxTjlFSTJZY2l6QjZfVF9HZTFVMVJhbGxkMmpWb2c3MGYzUlltX3N6YXdkbVMzUkt2TS1fSFZkcXJhRC1pcHBzc09GbWpVWVRMV0U4blJaRXBhSQ?oc=5",
-      "summary": "JERA、石炭火力電力の販売再開を検討 中東情勢受け企業向けに安く nikkei.com",
-      "source": "nikkei.com",
+      "summary": "JERA、石炭火力電力の販売再開を検討 中東情勢受け企業向けに安く 日本経済新聞",
+      "source": "日本経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-24T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "a80b967436658219",
@@ -2192,19 +2132,79 @@
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-24T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     },
     {
       "id": "f1d77c08d2ba31f6",
-      "title": "柏崎市で水素発電由来の電力供給開始 INPEXが実証試験を推進 - niikei.jp",
+      "title": "柏崎市で水素発電由来の電力供給開始 INPEXが実証試験を推進 - にいがた経済新聞",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE4zc0ZMcGVlQmxvSUVuY0wwR1dyRDB2R21TTHhyQzYtYjVWb1hiRktBR2Z5TWZ1ZG1DWTBvaUE0WUI5aU1Z?oc=5",
-      "summary": "柏崎市で水素発電由来の電力供給開始 INPEXが実証試験を推進 niikei.jp",
-      "source": "niikei.jp",
+      "summary": "柏崎市で水素発電由来の電力供給開始 INPEXが実証試験を推進 にいがた経済新聞",
+      "source": "にいがた経済新聞",
       "feed_name": "エネルギー・中東 Google News",
       "category": "energy",
       "importance": "high",
       "published_at": "2026-06-19T07:00:00+00:00",
-      "fetched_at": "2026-09-11T00:41:27+00:00"
+      "fetched_at": "2026-09-11T05:26:10+00:00"
+    },
+    {
+      "id": "a546bc2c61dcce3a",
+      "title": "NEC、NATOサイバー防衛協力センター主催のサイバー防衛演習「Locked Shields 2026」に参加 - NEC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YTENtYW5DaVNaWEFGUmxOMmlieEgxYVpnREstVndzYkFCRmZwMjh0MjlsUXM5Zl9wV0ZIYlM0ejBERlNBa214czN4dDlyZ1VDQmlNOU9BMVdfZ2ZzZVE?oc=5",
+      "summary": "NEC、NATOサイバー防衛協力センター主催のサイバー防衛演習「Locked Shields 2026」に参加 NEC",
+      "source": "NEC",
+      "feed_name": "重工・防衛 Google News",
+      "category": "news",
+      "importance": "high",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:08+00:00"
+    },
+    {
+      "id": "8e92019853c19616",
+      "title": "JERAと低炭素アンモニア輸送のための定期傭船契約締結 - 日本郵船株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5POFAtSnUtckREcGhKN0JHSklLa3RjVE93bWZ6bFU5dmhOaHFURE92a1VJSkM3aS1NQ2RLUjYyLVhtamhCcTNlNXlZVkVCWkZFb1Boal9HU2s4QQ?oc=5",
+      "summary": "JERAと低炭素アンモニア輸送のための定期傭船契約締結 日本郵船株式会社",
+      "source": "日本郵船株式会社",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:10+00:00"
+    },
+    {
+      "id": "5cec859d1356eed7",
+      "title": "JERA向けアンモニア輸送船の長期定期用船契約を締結 ～日本初の大規模低炭素アンモニアバリューチェーン、実装へ前進～ - mol.co.jp",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IQkJ1am9UbE40QzFyT1JHSzhMOVItemNrWHZucWdSTjc0V1FxLVBwbm5XbEp2d29udmdLNWNSYjlkQzVWQXI4NGRORVFTTUx6MHc?oc=5",
+      "summary": "JERA向けアンモニア輸送船の長期定期用船契約を締結 ～日本初の大規模低炭素アンモニアバリューチェーン、実装へ前進～ mol.co.jp",
+      "source": "mol.co.jp",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:10+00:00"
+    },
+    {
+      "id": "884d9cd199e90866",
+      "title": "JERA、アンモニア運搬船4隻の用船契約 日本郵船・商船三井と - 日本経済新聞",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkc3dvUjdQc3p6MloxUXBlcEFLd0Nnd1cybnpBVk40ODFzdDY2b3JBZi1YMEs4WFBXU001VXcwckQzOFpZZkZmcnJlNWNzX2xIczNHajd0YU96ZkI0M2pWRTZiOGJndUVQbEZkTw?oc=5",
+      "summary": "JERA、アンモニア運搬船4隻の用船契約 日本郵船・商船三井と 日本経済新聞",
+      "source": "日本経済新聞",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:10+00:00"
+    },
+    {
+      "id": "b18f51da057e0640",
+      "title": "INPEX、ブルー水素･アンモニア製造･利用一貫実証試験｢柏崎水素パーク｣の水素を発電利用、及び電力供給開始（2026.6） - 株式会社グリーンプロダクション",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwR2s2Wi1tMmdUUHc0X2Y0UjMxaXM0LTF3U3d4d0d2OHJmajd1RlNXaU5ZNmNQdGllUnVrV0Q5bVh2RTVLS0RFeUZlNHRiZzVkOE1BdF9xcw?oc=5",
+      "summary": "INPEX、ブルー水素･アンモニア製造･利用一貫実証試験｢柏崎水素パーク｣の水素を発電利用、及び電力供給開始（2026.6） 株式会社グリーンプロダクション",
+      "source": "株式会社グリーンプロダクション",
+      "feed_name": "エネルギー・中東 Google News",
+      "category": "energy",
+      "importance": "high",
+      "published_at": "2026-06-18T07:00:00+00:00",
+      "fetched_at": "2026-09-11T05:26:10+00:00"
     }
   ]
 }
